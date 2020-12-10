@@ -8,10 +8,12 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: bretterhofer.at
+    url: https://bretterhofer.at
+  - name: h4.bretterhofer.at
+    url: https://h4.bretterhofer.at
+  - name: h6.bretterhofer.at
+    url: https://h6.bretterhofer.at
   - name: Secret Site
     url: $SECRET_SITE
 
