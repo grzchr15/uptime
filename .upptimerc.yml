@@ -1,7 +1,7 @@
 # Change these first
 owner: grzchr15 # Your GitHub username
 repo: uptime # Your Github repository name
-user-agent github-grzchr15
+user-agent: github-grzchr15
 # Add your sites here
 sites:
   - name: Google
