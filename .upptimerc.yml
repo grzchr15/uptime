@@ -11,11 +11,19 @@ sites:
   - name: bretterhofer.at
     url: https://bretterhofer.at
   - name: h4.bretterhofer.at
-    url: https://h4.bretterhofer.at
+    url: https://h4.bretterhofer.at/toggle.php
   - name: h6.bretterhofer.at
     url: https://h6.bretterhofer.at
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: volkstanz.st
+    url: https://volkstanz.st
+  - name: volkstanzwannwo.at
+    url: https://volkstanzwannwo.at
+  - name: kinderundjugendtanz.at
+    url: https://kinderundjugendtanz.at
+  - name: andritz.me
+    url: https://andritz.me
+#  - name: Secret Site
+#    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
