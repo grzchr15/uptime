@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 86,
+    "timeDay": 82,
     "timeWeek": 85,
     "timeMonth": 85,
     "timeYear": 85,
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 178,
-    "timeWeek": 173,
-    "timeMonth": 173,
-    "timeYear": 173,
+    "time": 166,
+    "timeDay": 139,
+    "timeWeek": 166,
+    "timeMonth": 166,
+    "timeYear": 166,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1908,
-    "timeDay": 1908,
-    "timeWeek": 1908,
-    "timeMonth": 1908,
-    "timeYear": 1908,
+    "time": 2052,
+    "timeDay": 2107,
+    "timeWeek": 2052,
+    "timeMonth": 2052,
+    "timeYear": 2052,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 940,
-    "timeDay": 917,
-    "timeWeek": 940,
-    "timeMonth": 940,
-    "timeYear": 940,
+    "time": 916,
+    "timeDay": 680,
+    "timeWeek": 916,
+    "timeMonth": 916,
+    "timeYear": 916,
     "dailyMinutesDown": {}
   },
   {
@@ -88,7 +88,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-12": 1319,
+      "2020-12-13": 32,
+      "2020-12-12": 1440,
       "2020-12-11": 1440,
       "2020-12-10": 58
     }
@@ -104,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2952,
-    "timeDay": 2952,
-    "timeWeek": 2952,
-    "timeMonth": 2952,
-    "timeYear": 2952,
+    "time": 14849,
+    "timeDay": 14849,
+    "timeWeek": 14849,
+    "timeMonth": 14849,
+    "timeYear": 14849,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +123,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1942,
-    "timeDay": 1942,
-    "timeWeek": 1942,
-    "timeMonth": 1942,
-    "timeYear": 1942,
+    "time": 2399,
+    "timeDay": 2399,
+    "timeWeek": 2399,
+    "timeMonth": 2399,
+    "timeYear": 2399,
     "dailyMinutesDown": {}
   },
   {
@@ -135,19 +136,17 @@
     "icon": "https://favicons.githubusercontent.com/kinderundjugendtanz.at",
     "slug": "kinderundjugendtanz-at",
     "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "98.80%",
-    "time": 2064,
-    "timeDay": 2064,
-    "timeWeek": 2064,
-    "timeMonth": 2064,
-    "timeYear": 2064,
-    "dailyMinutesDown": {
-      "2020-12-12": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 4641,
+    "timeDay": 4641,
+    "timeWeek": 4641,
+    "timeMonth": 4641,
+    "timeYear": 4641,
+    "dailyMinutesDown": {}
   },
   {
     "name": "andritz.me",
@@ -160,11 +159,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 476,
-    "timeWeek": 476,
-    "timeMonth": 476,
-    "timeYear": 476,
+    "time": 471,
+    "timeDay": 471,
+    "timeWeek": 471,
+    "timeMonth": 471,
+    "timeYear": 471,
     "dailyMinutesDown": {}
   }
 ]
