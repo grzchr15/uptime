@@ -31,7 +31,7 @@
     "time": 129,
     "timeDay": 104,
     "timeWeek": 150,
-    "timeMonth": 118,
+    "timeMonth": 120,
     "timeYear": 129,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 2302,
     "timeDay": 1325,
     "timeWeek": 1687,
-    "timeMonth": 1579,
+    "timeMonth": 1581,
     "timeYear": 2302,
     "dailyMinutesDown": {
       "2021-02-23": 190,
@@ -74,17 +74,17 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
-    "status": "down",
+    "status": "up",
     "uptime": "95.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "95.00%",
-    "time": 700,
-    "timeDay": 722,
-    "timeWeek": 716,
+    "time": 699,
+    "timeDay": 636,
+    "timeWeek": 696,
     "timeMonth": 595,
-    "timeYear": 700,
+    "timeYear": 699,
     "dailyMinutesDown": {
       "2021-03-09": 56,
       "2021-03-08": 51,
@@ -182,7 +182,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-05": 1385,
+      "2021-04-06": 8,
+      "2021-04-05": 1440,
       "2021-04-04": 1440,
       "2021-04-03": 1440,
       "2021-04-02": 1440,
@@ -315,7 +316,7 @@
     "time": 2472,
     "timeDay": 1214,
     "timeWeek": 1472,
-    "timeMonth": 1446,
+    "timeMonth": 1449,
     "timeYear": 2472,
     "dailyMinutesDown": {
       "2021-02-23": 190,
@@ -348,7 +349,7 @@
     "time": 2508,
     "timeDay": 1548,
     "timeWeek": 1877,
-    "timeMonth": 1761,
+    "timeMonth": 1764,
     "timeYear": 2508,
     "dailyMinutesDown": {
       "2021-02-23": 190,
@@ -381,7 +382,7 @@
     "time": 2906,
     "timeDay": 1612,
     "timeWeek": 1910,
-    "timeMonth": 1806,
+    "timeMonth": 1808,
     "timeYear": 2906,
     "dailyMinutesDown": {
       "2021-02-24": 1310,
@@ -415,7 +416,7 @@
     "time": 570,
     "timeDay": 467,
     "timeWeek": 560,
-    "timeMonth": 514,
+    "timeMonth": 515,
     "timeYear": 570,
     "dailyMinutesDown": {}
   }
