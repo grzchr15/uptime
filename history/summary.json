@@ -31,7 +31,7 @@
     "time": 132,
     "timeDay": 603,
     "timeWeek": 190,
-    "timeMonth": 132,
+    "timeMonth": 130,
     "timeYear": 132,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 2277,
     "timeDay": 1366,
     "timeWeek": 1603,
-    "timeMonth": 1589,
+    "timeMonth": 1594,
     "timeYear": 2277,
     "dailyMinutesDown": {
       "2021-02-23": 190,
@@ -74,17 +74,17 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
-    "status": "down",
+    "status": "up",
     "uptime": "95.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.17%",
-    "time": 717,
-    "timeDay": 4467,
-    "timeWeek": 1140,
-    "timeMonth": 714,
-    "timeYear": 717,
+    "time": 716,
+    "timeDay": 2534,
+    "timeWeek": 1080,
+    "timeMonth": 718,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2021-03-09": 56,
       "2021-03-08": 51,
@@ -182,7 +182,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-09": 1385,
+      "2021-04-10": 2,
+      "2021-04-09": 1440,
       "2021-04-08": 1440,
       "2021-04-07": 1440,
       "2021-04-06": 1440,
@@ -319,7 +320,7 @@
     "time": 2434,
     "timeDay": 1380,
     "timeWeek": 1431,
-    "timeMonth": 1439,
+    "timeMonth": 1441,
     "timeYear": 2434,
     "dailyMinutesDown": {
       "2021-02-23": 190,
@@ -352,7 +353,7 @@
     "time": 2478,
     "timeDay": 1623,
     "timeWeek": 1728,
-    "timeMonth": 1760,
+    "timeMonth": 1764,
     "timeYear": 2478,
     "dailyMinutesDown": {
       "2021-02-23": 190,
@@ -385,7 +386,7 @@
     "time": 2864,
     "timeDay": 1812,
     "timeWeek": 1772,
-    "timeMonth": 1804,
+    "timeMonth": 1788,
     "timeYear": 2864,
     "dailyMinutesDown": {
       "2021-02-24": 1310,
@@ -419,7 +420,7 @@
     "time": 567,
     "timeDay": 446,
     "timeWeek": 517,
-    "timeMonth": 513,
+    "timeMonth": 514,
     "timeYear": 567,
     "dailyMinutesDown": {}
   }
