@@ -212,7 +212,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-07": 667,
+      "2021-06-07": 697,
       "2021-06-06": 1440,
       "2021-06-05": 1440,
       "2021-06-04": 1440,
@@ -513,19 +513,19 @@
     "url": "https://andritz.me",
     "icon": "https://favicons.githubusercontent.com/andritz.me",
     "slug": "andritz-me",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 454,
-    "timeWeek": 478,
-    "timeMonth": 529,
-    "timeYear": 560,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 588,
+    "timeDay": 3026,
+    "timeWeek": 1118,
+    "timeMonth": 693,
+    "timeYear": 588,
     "dailyMinutesDown": {
-      "2021-06-07": 0
+      "2021-06-07": 29
     }
   }
 ]
