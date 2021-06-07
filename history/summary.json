@@ -79,15 +79,15 @@
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
     "status": "up",
-    "uptime": "95.78%",
+    "uptime": "95.79%",
     "uptimeDay": "96.17%",
     "uptimeWeek": "95.60%",
-    "uptimeMonth": "93.68%",
-    "uptimeYear": "95.78%",
+    "uptimeMonth": "93.79%",
+    "uptimeYear": "95.79%",
     "time": 706,
     "timeDay": 503,
     "timeWeek": 613,
-    "timeMonth": 619,
+    "timeMonth": 623,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2021-06-07": 4,
@@ -212,7 +212,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-07": 12,
+      "2021-06-07": 667,
       "2021-06-06": 1440,
       "2021-06-05": 1440,
       "2021-06-04": 1440,
@@ -476,11 +476,11 @@
     "icon": "https://favicons.githubusercontent.com/kinderundjugendtanz.at",
     "slug": "kinderundjugendtanz-at",
     "status": "up",
-    "uptime": "98.51%",
+    "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.62%",
-    "uptimeYear": "98.51%",
+    "uptimeYear": "98.52%",
     "time": 2591,
     "timeDay": 1877,
     "timeWeek": 1921,
@@ -513,9 +513,9 @@
     "url": "https://andritz.me",
     "icon": "https://favicons.githubusercontent.com/andritz.me",
     "slug": "andritz-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -524,6 +524,8 @@
     "timeWeek": 478,
     "timeMonth": 529,
     "timeYear": 560,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-07": 0
+    }
   }
 ]
