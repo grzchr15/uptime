@@ -85,12 +85,12 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
-    "status": "up",
-    "uptime": "96.49%",
-    "uptimeDay": "95.82%",
+    "status": "down",
+    "uptime": "97.01%",
+    "uptimeDay": "95.80%",
     "uptimeWeek": "95.59%",
     "uptimeMonth": "95.17%",
-    "uptimeYear": "96.49%",
+    "uptimeYear": "97.01%",
     "time": 697,
     "timeDay": 444,
     "timeWeek": 558,
@@ -197,9 +197,7 @@
       "2021-02-08": 49,
       "2021-02-07": 59,
       "2021-02-06": 42,
-      "2021-02-05": 48,
-      "2021-02-04": 107,
-      "2021-02-03": 1394
+      "2021-02-05": 48
     }
   },
   {
@@ -219,7 +217,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-29": 1328,
+      "2021-06-29": 1381,
       "2021-06-28": 1440,
       "2021-06-27": 1440,
       "2021-06-26": 1440,
