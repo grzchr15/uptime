@@ -13,7 +13,7 @@
     "time": 79,
     "timeDay": 74,
     "timeWeek": 68,
-    "timeMonth": 81,
+    "timeMonth": 80,
     "timeYear": 79,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 163,
     "timeDay": 163,
     "timeWeek": 291,
-    "timeMonth": 238,
+    "timeMonth": 241,
     "timeYear": 163,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1990,
     "timeDay": 1937,
     "timeWeek": 1693,
-    "timeMonth": 1774,
+    "timeMonth": 1769,
     "timeYear": 1990,
     "dailyMinutesDown": {
       "2021-07-07": 25,
@@ -90,18 +90,19 @@
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "97.07%",
-    "uptimeDay": "95.99%",
+    "uptime": "97.06%",
+    "uptimeDay": "95.73%",
     "uptimeWeek": "95.45%",
-    "uptimeMonth": "95.58%",
-    "uptimeYear": "97.07%",
+    "uptimeMonth": "95.57%",
+    "uptimeYear": "97.06%",
     "time": 702,
-    "timeDay": 516,
+    "timeDay": 0,
     "timeWeek": 962,
     "timeMonth": 674,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2021-07-07": 1,
+      "2021-07-08": 5,
+      "2021-07-07": 58,
       "2021-07-06": 59,
       "2021-07-05": 71,
       "2021-07-04": 69,
@@ -221,7 +222,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-07": 1384,
+      "2021-07-08": 5,
+      "2021-07-07": 1440,
       "2021-07-06": 1440,
       "2021-07-05": 1440,
       "2021-07-04": 1440,
@@ -447,7 +449,7 @@
     "time": 1938,
     "timeDay": 1588,
     "timeWeek": 1495,
-    "timeMonth": 1554,
+    "timeMonth": 1547,
     "timeYear": 1938,
     "dailyMinutesDown": {
       "2021-07-07": 25,
@@ -496,7 +498,7 @@
     "time": 2180,
     "timeDay": 1830,
     "timeWeek": 1810,
-    "timeMonth": 1874,
+    "timeMonth": 1870,
     "timeYear": 2180,
     "dailyMinutesDown": {
       "2021-07-07": 24,
@@ -545,7 +547,7 @@
     "time": 2349,
     "timeDay": 1910,
     "timeWeek": 1807,
-    "timeMonth": 1913,
+    "timeMonth": 1902,
     "timeYear": 2349,
     "dailyMinutesDown": {
       "2021-07-07": 24,
@@ -594,7 +596,7 @@
     "time": 612,
     "timeDay": 667,
     "timeWeek": 511,
-    "timeMonth": 547,
+    "timeMonth": 543,
     "timeYear": 612,
     "dailyMinutesDown": {
       "2021-06-07": 143
