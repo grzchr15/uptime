@@ -40,18 +40,19 @@
     "url": "https://bretterhofer.at",
     "icon": "https://favicons.githubusercontent.com/bretterhofer.at",
     "slug": "bretterhofer-at",
-    "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.90%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "97.88%",
     "uptimeMonth": "95.73%",
-    "uptimeYear": "99.00%",
+    "uptimeYear": "99.01%",
     "time": 1802,
     "timeDay": 2271,
     "timeWeek": 1772,
     "timeMonth": 1661,
     "timeYear": 1802,
     "dailyMinutesDown": {
+      "2021-09-19": 2,
       "2021-09-17": 107,
       "2021-09-16": 56,
       "2021-09-12": 47,
@@ -97,7 +98,7 @@
       "2021-06-14": 25,
       "2021-05-28": 99,
       "2021-05-22": 157,
-      "2021-05-21": 344
+      "2021-05-21": 314
     }
   },
   {
@@ -108,12 +109,12 @@
     "status": "up",
     "uptime": "95.22%",
     "uptimeDay": "95.20%",
-    "uptimeWeek": "95.42%",
+    "uptimeWeek": "95.43%",
     "uptimeMonth": "95.29%",
     "uptimeYear": "95.22%",
     "time": 688,
     "timeDay": 513,
-    "timeWeek": 618,
+    "timeWeek": 606,
     "timeMonth": 610,
     "timeYear": 688,
     "dailyMinutesDown": {
@@ -245,7 +246,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-19": 13,
+      "2021-09-19": 165,
       "2021-09-18": 1440,
       "2021-09-17": 1440,
       "2021-09-16": 1440,
@@ -536,18 +537,19 @@
     "url": "https://volkstanz.st",
     "icon": "https://favicons.githubusercontent.com/volkstanz.st",
     "slug": "volkstanz-st",
-    "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.09%",
-    "uptimeMonth": "95.83%",
-    "uptimeYear": "98.97%",
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "95.82%",
+    "uptimeYear": "98.98%",
     "time": 1755,
     "timeDay": 2006,
     "timeWeek": 1797,
     "timeMonth": 1623,
     "timeYear": 1755,
     "dailyMinutesDown": {
+      "2021-09-19": 1,
       "2021-09-17": 107,
       "2021-09-16": 40,
       "2021-09-12": 47,
@@ -595,7 +597,7 @@
       "2021-05-22": 156,
       "2021-05-21": 383,
       "2021-05-20": 33,
-      "2021-05-01": 55
+      "2021-05-01": 21
     }
   },
   {
@@ -603,18 +605,19 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://favicons.githubusercontent.com/volkstanzwannwo.at",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "97.38%",
-    "uptimeWeek": "97.76%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "99.33%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "97.75%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "99.34%",
     "time": 1963,
     "timeDay": 1692,
     "timeWeek": 1813,
     "timeMonth": 1760,
     "timeYear": 1963,
     "dailyMinutesDown": {
+      "2021-09-19": 1,
       "2021-09-18": 38,
       "2021-09-17": 103,
       "2021-09-16": 39,
@@ -660,7 +663,7 @@
       "2021-05-22": 152,
       "2021-05-21": 376,
       "2021-05-03": 21,
-      "2021-05-01": 54
+      "2021-05-01": 20
     }
   },
   {
@@ -668,18 +671,19 @@
     "url": "https://kinderundjugendtanz.at",
     "icon": "https://favicons.githubusercontent.com/kinderundjugendtanz.at",
     "slug": "kinderundjugendtanz-at",
-    "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "98.00%",
+    "status": "down",
+    "uptime": "98.69%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "97.99%",
     "uptimeMonth": "98.90%",
-    "uptimeYear": "98.68%",
+    "uptimeYear": "98.69%",
     "time": 2044,
     "timeDay": 2366,
     "timeWeek": 1848,
     "timeMonth": 1795,
     "timeYear": 2044,
     "dailyMinutesDown": {
+      "2021-09-19": 0,
       "2021-09-18": 18,
       "2021-09-17": 102,
       "2021-09-16": 38,
@@ -726,8 +730,7 @@
       "2021-05-21": 358,
       "2021-05-01": 77,
       "2021-02-24": 1310,
-      "2021-02-23": 1307,
-      "2021-02-19": 23
+      "2021-02-23": 1307
     }
   },
   {
