@@ -40,18 +40,19 @@
     "url": "https://bretterhofer.at",
     "icon": "https://favicons.githubusercontent.com/bretterhofer.at",
     "slug": "bretterhofer-at",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "94.01%",
-    "uptimeWeek": "98.39%",
+    "status": "down",
+    "uptime": "99.12%",
+    "uptimeDay": "93.95%",
+    "uptimeWeek": "98.38%",
     "uptimeMonth": "98.31%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.12%",
     "time": 1773,
     "timeDay": 1476,
     "timeWeek": 1582,
     "timeMonth": 1624,
     "timeYear": 1773,
     "dailyMinutesDown": {
+      "2021-10-06": 1,
       "2021-10-05": 86,
       "2021-10-04": 33,
       "2021-10-03": 26,
@@ -103,7 +104,7 @@
       "2021-06-22": 156,
       "2021-06-21": 183,
       "2021-06-18": 47,
-      "2021-06-17": 100
+      "2021-06-17": 83
     }
   },
   {
@@ -120,7 +121,7 @@
     "time": 688,
     "timeDay": 690,
     "timeWeek": 608,
-    "timeMonth": 635,
+    "timeMonth": 638,
     "timeYear": 688,
     "dailyMinutesDown": {
       "2021-10-06": 12,
@@ -251,7 +252,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-06": 13,
+      "2021-10-06": 404,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
       "2021-10-03": 1440,
@@ -559,18 +560,19 @@
     "url": "https://volkstanz.st",
     "icon": "https://favicons.githubusercontent.com/volkstanz.st",
     "slug": "volkstanz-st",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "94.08%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "94.05%",
     "uptimeWeek": "98.41%",
     "uptimeMonth": "98.42%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.08%",
     "time": 1734,
     "timeDay": 1481,
     "timeWeek": 1514,
     "timeMonth": 1637,
     "timeYear": 1734,
     "dailyMinutesDown": {
+      "2021-10-06": 1,
       "2021-10-05": 86,
       "2021-10-04": 33,
       "2021-10-03": 26,
@@ -625,7 +627,7 @@
       "2021-06-17": 99,
       "2021-06-14": 24,
       "2021-05-28": 99,
-      "2021-05-22": 59
+      "2021-05-22": 23
     }
   },
   {
