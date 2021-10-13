@@ -48,8 +48,8 @@
     "uptimeYear": "99.14%",
     "time": 1764,
     "timeDay": 1546,
-    "timeWeek": 1619,
-    "timeMonth": 1620,
+    "timeWeek": 1616,
+    "timeMonth": 1621,
     "timeYear": 1764,
     "dailyMinutesDown": {
       "2021-10-11": 57,
@@ -122,7 +122,7 @@
     "uptimeYear": "95.58%",
     "time": 685,
     "timeDay": 488,
-    "timeWeek": 577,
+    "timeWeek": 561,
     "timeMonth": 644,
     "timeYear": 685,
     "dailyMinutesDown": {
@@ -254,7 +254,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-13": 12,
+      "2021-10-13": 579,
       "2021-10-12": 1440,
       "2021-10-11": 1440,
       "2021-10-10": 1440,
@@ -577,7 +577,7 @@
     "uptimeYear": "99.12%",
     "time": 1722,
     "timeDay": 1236,
-    "timeWeek": 1555,
+    "timeWeek": 1552,
     "timeMonth": 1629,
     "timeYear": 1722,
     "dailyMinutesDown": {
@@ -654,7 +654,7 @@
     "time": 1919,
     "timeDay": 1463,
     "timeWeek": 1724,
-    "timeMonth": 1728,
+    "timeMonth": 1729,
     "timeYear": 1919,
     "dailyMinutesDown": {
       "2021-10-11": 54,
@@ -718,18 +718,19 @@
     "url": "https://kinderundjugendtanz.at",
     "icon": "https://favicons.githubusercontent.com/kinderundjugendtanz.at",
     "slug": "kinderundjugendtanz-at",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.90%",
     "uptimeMonth": "98.73%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 2001,
     "timeDay": 1679,
     "timeWeek": 1781,
-    "timeMonth": 1819,
+    "timeMonth": 1820,
     "timeYear": 2001,
     "dailyMinutesDown": {
+      "2021-10-13": 0,
       "2021-10-11": 53,
       "2021-10-10": 16,
       "2021-10-09": 19,
@@ -784,7 +785,7 @@
       "2021-06-17": 96,
       "2021-06-14": 23,
       "2021-05-28": 97,
-      "2021-05-22": 57
+      "2021-05-22": 22
     }
   },
   {
