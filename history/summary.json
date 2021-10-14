@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/bretterhofer.at",
     "slug": "bretterhofer-at",
     "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "98.72%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "99.17%",
+    "uptime": "99.15%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "99.15%",
     "time": 1763,
-    "timeDay": 1688,
-    "timeWeek": 1597,
-    "timeMonth": 1626,
+    "timeDay": 1772,
+    "timeWeek": 1596,
+    "timeMonth": 1627,
     "timeYear": 1763,
     "dailyMinutesDown": {
-      "2021-10-14": 35,
+      "2021-10-14": 22,
       "2021-10-11": 57,
       "2021-10-10": 17,
       "2021-10-09": 20,
@@ -106,7 +106,8 @@
       "2021-06-30": 17,
       "2021-06-29": 61,
       "2021-06-28": 25,
-      "2021-06-22": 156
+      "2021-06-22": 156,
+      "2021-06-21": 124
     }
   },
   {
@@ -114,12 +115,12 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
-    "status": "up",
-    "uptime": "95.60%",
-    "uptimeDay": "95.23%",
-    "uptimeWeek": "95.39%",
+    "status": "down",
+    "uptime": "95.62%",
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "95.40%",
     "uptimeMonth": "95.38%",
-    "uptimeYear": "95.60%",
+    "uptimeYear": "95.62%",
     "time": 685,
     "timeDay": 577,
     "timeWeek": 575,
@@ -233,8 +234,7 @@
       "2021-07-02": 67,
       "2021-07-01": 66,
       "2021-06-30": 58,
-      "2021-06-29": 61,
-      "2021-06-28": 59
+      "2021-06-29": 60
     }
   },
   {
@@ -254,7 +254,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-14": 1224,
+      "2021-10-14": 1382,
       "2021-10-13": 1440,
       "2021-10-12": 1440,
       "2021-10-11": 1440,
@@ -572,17 +572,17 @@
     "slug": "volkstanz-st",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "97.68%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "98.46%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "98.49%",
     "uptimeYear": "99.13%",
     "time": 1721,
-    "timeDay": 1440,
-    "timeWeek": 1550,
+    "timeDay": 1485,
+    "timeWeek": 1540,
     "timeMonth": 1625,
     "timeYear": 1721,
     "dailyMinutesDown": {
-      "2021-10-14": 33,
+      "2021-10-14": 21,
       "2021-10-11": 56,
       "2021-10-10": 17,
       "2021-10-09": 20,
@@ -638,7 +638,8 @@
       "2021-06-28": 49,
       "2021-06-22": 156,
       "2021-06-21": 181,
-      "2021-06-18": 46
+      "2021-06-18": 46,
+      "2021-06-17": 20
     }
   },
   {
@@ -648,17 +649,17 @@
     "slug": "volkstanzwannwo-at",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "98.44%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.47%",
     "uptimeYear": "99.45%",
     "time": 1918,
-    "timeDay": 1815,
-    "timeWeek": 1723,
+    "timeDay": 1869,
+    "timeWeek": 1716,
     "timeMonth": 1735,
     "timeYear": 1918,
     "dailyMinutesDown": {
-      "2021-10-14": 33,
+      "2021-10-14": 21,
       "2021-10-11": 54,
       "2021-10-10": 16,
       "2021-10-09": 19,
@@ -712,7 +713,7 @@
       "2021-06-22": 156,
       "2021-06-21": 187,
       "2021-06-18": 45,
-      "2021-06-17": 20
+      "2021-06-17": 60
     }
   },
   {
@@ -722,17 +723,17 @@
     "slug": "kinderundjugendtanz-at",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "98.66%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "99.43%",
     "time": 1999,
-    "timeDay": 1763,
-    "timeWeek": 1783,
-    "timeMonth": 1825,
+    "timeDay": 1814,
+    "timeWeek": 1779,
+    "timeMonth": 1827,
     "timeYear": 1999,
     "dailyMinutesDown": {
-      "2021-10-14": 31,
+      "2021-10-14": 20,
       "2021-10-11": 53,
       "2021-10-10": 16,
       "2021-10-09": 19,
@@ -786,7 +787,8 @@
       "2021-06-18": 44,
       "2021-06-17": 96,
       "2021-06-14": 23,
-      "2021-05-28": 97
+      "2021-05-28": 97,
+      "2021-05-22": 22
     }
   },
   {
