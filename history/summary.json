@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/bretterhofer.at",
     "slug": "bretterhofer-at",
     "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "97.04%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "99.28%",
+    "uptime": "99.25%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "98.61%",
+    "uptimeYear": "99.25%",
     "time": 1748,
     "timeDay": 1833,
     "timeWeek": 1624,
     "timeMonth": 1636,
     "timeYear": 1748,
     "dailyMinutesDown": {
-      "2021-11-05": 43,
+      "2021-11-05": 34,
       "2021-11-04": 34,
       "2021-11-03": 38,
       "2021-11-02": 19,
@@ -105,7 +105,8 @@
       "2021-07-30": 24,
       "2021-07-29": 36,
       "2021-07-28": 15,
-      "2021-07-27": 115
+      "2021-07-27": 218,
+      "2021-07-26": 57
     }
   },
   {
@@ -113,18 +114,19 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
-    "status": "up",
-    "uptime": "95.90%",
-    "uptimeDay": "95.62%",
-    "uptimeWeek": "95.95%",
-    "uptimeMonth": "95.48%",
-    "uptimeYear": "95.90%",
+    "status": "down",
+    "uptime": "95.91%",
+    "uptimeDay": "95.65%",
+    "uptimeWeek": "96.06%",
+    "uptimeMonth": "95.51%",
+    "uptimeYear": "95.91%",
     "time": 684,
     "timeDay": 547,
     "timeWeek": 636,
     "timeMonth": 649,
     "timeYear": 684,
     "dailyMinutesDown": {
+      "2021-11-06": 0,
       "2021-11-05": 63,
       "2021-11-04": 76,
       "2021-11-03": 65,
@@ -232,8 +234,7 @@
       "2021-07-24": 63,
       "2021-07-23": 58,
       "2021-07-22": 70,
-      "2021-07-21": 67,
-      "2021-07-20": 57
+      "2021-07-21": 57
     }
   },
   {
@@ -253,7 +254,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-05": 1433,
+      "2021-11-06": 5,
+      "2021-11-05": 1440,
       "2021-11-04": 1440,
       "2021-11-03": 1440,
       "2021-11-02": 1440,
@@ -593,9 +595,9 @@
     "slug": "volkstanz-st",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "97.14%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "98.62%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "99.24%",
     "time": 1708,
     "timeDay": 1769,
@@ -603,7 +605,7 @@
     "timeMonth": 1594,
     "timeYear": 1708,
     "dailyMinutesDown": {
-      "2021-11-05": 42,
+      "2021-11-05": 34,
       "2021-11-04": 34,
       "2021-11-03": 36,
       "2021-11-02": 19,
@@ -661,7 +663,7 @@
       "2021-07-25": 20,
       "2021-07-16": 15,
       "2021-07-15": 44,
-      "2021-07-13": 17
+      "2021-07-13": 35
     }
   },
   {
@@ -671,9 +673,9 @@
     "slug": "volkstanzwannwo-at",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "97.24%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "98.65%",
+    "uptimeDay": "97.77%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "99.54%",
     "time": 1910,
     "timeDay": 1966,
@@ -681,7 +683,7 @@
     "timeMonth": 1816,
     "timeYear": 1910,
     "dailyMinutesDown": {
-      "2021-11-05": 40,
+      "2021-11-05": 32,
       "2021-11-04": 33,
       "2021-11-03": 36,
       "2021-11-02": 18,
@@ -737,7 +739,7 @@
       "2021-07-26": 56,
       "2021-07-25": 19,
       "2021-07-15": 42,
-      "2021-07-13": 34
+      "2021-07-13": 51
     }
   },
   {
@@ -747,9 +749,9 @@
     "slug": "kinderundjugendtanz-at",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "97.34%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "98.72%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "99.53%",
     "time": 1983,
     "timeDay": 2054,
@@ -757,7 +759,7 @@
     "timeMonth": 1844,
     "timeYear": 1983,
     "dailyMinutesDown": {
-      "2021-11-05": 39,
+      "2021-11-05": 32,
       "2021-11-04": 33,
       "2021-11-03": 34,
       "2021-11-02": 18,
@@ -814,7 +816,7 @@
       "2021-07-10": 16,
       "2021-07-07": 24,
       "2021-07-05": 33,
-      "2021-07-04": 16
+      "2021-07-04": 33
     }
   },
   {
