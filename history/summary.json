@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 231,
-    "timeWeek": 142,
+    "timeDay": 68,
+    "timeWeek": 143,
     "timeMonth": 110,
     "timeYear": 94,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 289,
-    "timeWeek": 275,
-    "timeMonth": 254,
+    "timeDay": 220,
+    "timeWeek": 274,
+    "timeMonth": 253,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -42,17 +42,16 @@
     "slug": "bretterhofer-at",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.32%",
     "time": 1738,
-    "timeDay": 1794,
-    "timeWeek": 1642,
-    "timeMonth": 1623,
+    "timeDay": 1687,
+    "timeWeek": 1639,
+    "timeMonth": 1624,
     "timeYear": 1738,
     "dailyMinutesDown": {
-      "2021-11-21": 11,
       "2021-11-12": 15,
       "2021-11-11": 44,
       "2021-11-10": 15,
@@ -109,7 +108,7 @@
       "2021-07-30": 24,
       "2021-07-29": 36,
       "2021-07-28": 15,
-      "2021-07-27": 17
+      "2021-07-27": 32
     }
   },
   {
@@ -117,18 +116,19 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
-    "status": "up",
-    "uptime": "96.06%",
+    "status": "down",
+    "uptime": "96.07%",
     "uptimeDay": "93.73%",
-    "uptimeWeek": "94.99%",
-    "uptimeMonth": "95.10%",
-    "uptimeYear": "96.06%",
+    "uptimeWeek": "94.98%",
+    "uptimeMonth": "95.24%",
+    "uptimeYear": "96.07%",
     "time": 680,
-    "timeDay": 565,
-    "timeWeek": 642,
-    "timeMonth": 657,
+    "timeDay": 596,
+    "timeWeek": 648,
+    "timeMonth": 656,
     "timeYear": 680,
     "dailyMinutesDown": {
+      "2021-11-22": 0,
       "2021-11-21": 90,
       "2021-11-20": 67,
       "2021-11-19": 60,
@@ -236,8 +236,7 @@
       "2021-08-09": 1440,
       "2021-08-08": 1440,
       "2021-08-07": 460,
-      "2021-08-06": 59,
-      "2021-08-05": 59
+      "2021-08-06": 59
     }
   },
   {
@@ -257,7 +256,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-21": 914,
+      "2021-11-22": 1,
+      "2021-11-21": 1440,
       "2021-11-20": 1440,
       "2021-11-19": 1440,
       "2021-11-18": 1440,
@@ -613,17 +613,16 @@
     "slug": "volkstanz-st",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.11%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.27%",
     "time": 1694,
-    "timeDay": 1387,
-    "timeWeek": 1480,
-    "timeMonth": 1578,
+    "timeDay": 1436,
+    "timeWeek": 1479,
+    "timeMonth": 1579,
     "timeYear": 1694,
     "dailyMinutesDown": {
-      "2021-11-21": 11,
       "2021-11-11": 42,
       "2021-11-05": 34,
       "2021-11-04": 34,
@@ -682,7 +681,7 @@
       "2021-07-26": 56,
       "2021-07-25": 20,
       "2021-07-16": 15,
-      "2021-07-15": 22
+      "2021-07-15": 44
     }
   },
   {
@@ -692,17 +691,16 @@
     "slug": "volkstanzwannwo-at",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.16%",
     "uptimeYear": "99.56%",
     "time": 1901,
-    "timeDay": 1825,
-    "timeWeek": 1730,
-    "timeMonth": 1823,
+    "timeDay": 1980,
+    "timeWeek": 1755,
+    "timeMonth": 1824,
     "timeYear": 1901,
     "dailyMinutesDown": {
-      "2021-11-21": 10,
       "2021-11-11": 42,
       "2021-11-05": 32,
       "2021-11-04": 33,
@@ -759,7 +757,8 @@
       "2021-07-27": 199,
       "2021-07-26": 56,
       "2021-07-25": 19,
-      "2021-07-15": 42
+      "2021-07-15": 42,
+      "2021-07-13": 17
     }
   },
   {
@@ -769,17 +768,16 @@
     "slug": "kinderundjugendtanz-at",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "99.55%",
     "time": 1969,
-    "timeDay": 1771,
+    "timeDay": 1828,
     "timeWeek": 1839,
-    "timeMonth": 1816,
+    "timeMonth": 1818,
     "timeYear": 1969,
     "dailyMinutesDown": {
-      "2021-11-21": 10,
       "2021-11-11": 40,
       "2021-11-05": 32,
       "2021-11-04": 33,
@@ -836,7 +834,8 @@
       "2021-07-15": 42,
       "2021-07-13": 82,
       "2021-07-10": 16,
-      "2021-07-07": 24
+      "2021-07-07": 24,
+      "2021-07-05": 33
     }
   },
   {
@@ -851,9 +850,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.59%",
     "time": 586,
-    "timeDay": 449,
-    "timeWeek": 506,
-    "timeMonth": 534,
+    "timeDay": 448,
+    "timeWeek": 507,
+    "timeMonth": 532,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2021-10-21": 904,
