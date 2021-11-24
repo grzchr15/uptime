@@ -48,7 +48,7 @@
     "uptimeYear": "99.32%",
     "time": 1737,
     "timeDay": 1661,
-    "timeWeek": 1678,
+    "timeWeek": 1686,
     "timeMonth": 1604,
     "timeYear": 1737,
     "dailyMinutesDown": {
@@ -119,13 +119,13 @@
     "slug": "h4-bretterhofer-at",
     "status": "up",
     "uptime": "98.65%",
-    "uptimeDay": "95.36%",
-    "uptimeWeek": "94.59%",
+    "uptimeDay": "95.44%",
+    "uptimeWeek": "94.76%",
     "uptimeMonth": "95.04%",
     "uptimeYear": "98.65%",
     "time": 678,
-    "timeDay": 540,
-    "timeWeek": 552,
+    "timeDay": 483,
+    "timeWeek": 544,
     "timeMonth": 623,
     "timeYear": 678,
     "dailyMinutesDown": {
@@ -249,7 +249,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-24": 71,
+      "2021-11-24": 672,
       "2021-11-23": 1440,
       "2021-11-22": 1440,
       "2021-11-21": 1440,
@@ -614,7 +614,7 @@
     "uptimeYear": "99.28%",
     "time": 1693,
     "timeDay": 1662,
-    "timeWeek": 1520,
+    "timeWeek": 1523,
     "timeMonth": 1570,
     "timeYear": 1693,
     "dailyMinutesDown": {
@@ -693,7 +693,7 @@
     "uptimeYear": "99.56%",
     "time": 1901,
     "timeDay": 1917,
-    "timeWeek": 1795,
+    "timeWeek": 1812,
     "timeMonth": 1821,
     "timeYear": 1901,
     "dailyMinutesDown": {
@@ -763,18 +763,19 @@
     "url": "https://kinderundjugendtanz.at",
     "icon": "https://favicons.githubusercontent.com/kinderundjugendtanz.at",
     "slug": "kinderundjugendtanz-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "99.66%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.28%",
     "uptimeYear": "99.56%",
     "time": 1968,
     "timeDay": 1978,
-    "timeWeek": 1870,
+    "timeWeek": 1884,
     "timeMonth": 1808,
     "timeYear": 1968,
     "dailyMinutesDown": {
+      "2021-11-24": 1,
       "2021-11-23": 18,
       "2021-11-22": 17,
       "2021-11-11": 40,
@@ -831,8 +832,7 @@
       "2021-07-26": 55,
       "2021-07-25": 19,
       "2021-07-15": 42,
-      "2021-07-13": 82,
-      "2021-07-10": 16
+      "2021-07-13": 82
     }
   },
   {
