@@ -41,18 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/bretterhofer.at",
     "slug": "bretterhofer-at",
     "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.34%",
+    "uptime": "99.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.33%",
     "time": 1738,
     "timeDay": 1536,
-    "timeWeek": 1858,
-    "timeMonth": 1634,
+    "timeWeek": 1868,
+    "timeMonth": 1638,
     "timeYear": 1738,
     "dailyMinutesDown": {
-      "2021-11-30": 9,
       "2021-11-29": 17,
       "2021-11-23": 19,
       "2021-11-22": 18,
@@ -110,7 +109,7 @@
       "2021-08-07": 43,
       "2021-08-04": 72,
       "2021-07-30": 24,
-      "2021-07-29": 19
+      "2021-07-29": 36
     }
   },
   {
@@ -250,7 +249,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-30": 1262,
+      "2021-11-30": 1357,
       "2021-11-29": 1440,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
@@ -621,8 +620,8 @@
     "uptimeYear": "99.29%",
     "time": 1692,
     "timeDay": 1557,
-    "timeWeek": 1565,
-    "timeMonth": 1564,
+    "timeWeek": 1532,
+    "timeMonth": 1566,
     "timeYear": 1692,
     "dailyMinutesDown": {
       "2021-11-23": 19,
@@ -692,18 +691,19 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://favicons.githubusercontent.com/volkstanzwannwo.at",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.57%",
     "time": 1900,
     "timeDay": 1572,
-    "timeWeek": 1856,
-    "timeMonth": 1806,
+    "timeWeek": 1827,
+    "timeMonth": 1810,
     "timeYear": 1900,
     "dailyMinutesDown": {
+      "2021-11-30": 0,
       "2021-11-23": 18,
       "2021-11-22": 17,
       "2021-11-11": 42,
@@ -761,8 +761,7 @@
       "2021-07-29": 35,
       "2021-07-27": 199,
       "2021-07-26": 56,
-      "2021-07-25": 19,
-      "2021-07-15": 21
+      "2021-07-25": 19
     }
   },
   {
@@ -778,8 +777,8 @@
     "uptimeYear": "99.56%",
     "time": 1967,
     "timeDay": 1630,
-    "timeWeek": 1862,
-    "timeMonth": 1812,
+    "timeWeek": 1834,
+    "timeMonth": 1816,
     "timeYear": 1967,
     "dailyMinutesDown": {
       "2021-11-23": 18,
