@@ -40,18 +40,19 @@
     "url": "https://bretterhofer.at",
     "icon": "https://favicons.githubusercontent.com/bretterhofer.at",
     "slug": "bretterhofer-at",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.42%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.34%",
     "time": 1738,
     "timeDay": 1438,
     "timeWeek": 1857,
     "timeMonth": 1638,
     "timeYear": 1738,
     "dailyMinutesDown": {
+      "2021-12-01": 1,
       "2021-11-29": 17,
       "2021-11-23": 19,
       "2021-11-22": 18,
@@ -109,7 +110,7 @@
       "2021-08-07": 43,
       "2021-08-04": 72,
       "2021-07-30": 24,
-      "2021-07-29": 36
+      "2021-07-29": 19
     }
   },
   {
@@ -249,7 +250,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-01": 92,
+      "2021-12-01": 436,
       "2021-11-30": 1440,
       "2021-11-29": 1440,
       "2021-11-28": 1440,
@@ -613,10 +614,10 @@
     "url": "https://volkstanz.st",
     "icon": "https://favicons.githubusercontent.com/volkstanz.st",
     "slug": "volkstanz-st",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.29%",
     "time": 1692,
@@ -625,6 +626,7 @@
     "timeMonth": 1563,
     "timeYear": 1692,
     "dailyMinutesDown": {
+      "2021-12-01": 1,
       "2021-11-23": 19,
       "2021-11-22": 18,
       "2021-11-11": 42,
@@ -683,8 +685,7 @@
       "2021-07-29": 35,
       "2021-07-27": 202,
       "2021-07-26": 56,
-      "2021-07-25": 20,
-      "2021-07-16": 15
+      "2021-07-25": 20
     }
   },
   {
@@ -692,10 +693,10 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://favicons.githubusercontent.com/volkstanzwannwo.at",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.57%",
     "time": 1899,
@@ -704,6 +705,7 @@
     "timeMonth": 1807,
     "timeYear": 1899,
     "dailyMinutesDown": {
+      "2021-12-01": 1,
       "2021-11-23": 18,
       "2021-11-22": 17,
       "2021-11-11": 42,
@@ -761,8 +763,7 @@
       "2021-07-29": 35,
       "2021-07-27": 199,
       "2021-07-26": 56,
-      "2021-07-25": 19,
-      "2021-07-15": 21
+      "2021-07-25": 19
     }
   },
   {
