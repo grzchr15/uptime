@@ -48,8 +48,8 @@
     "uptimeYear": "99.35%",
     "time": 1735,
     "timeDay": 1566,
-    "timeWeek": 1454,
-    "timeMonth": 1619,
+    "timeWeek": 1462,
+    "timeMonth": 1616,
     "timeYear": 1735,
     "dailyMinutesDown": {
       "2021-11-29": 17,
@@ -249,7 +249,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-08": 93,
+      "2021-12-08": 719,
       "2021-12-07": 1440,
       "2021-12-06": 1440,
       "2021-12-05": 1440,
@@ -620,18 +620,19 @@
     "url": "https://volkstanz.st",
     "icon": "https://favicons.githubusercontent.com/volkstanz.st",
     "slug": "volkstanz-st",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.30%",
+    "uptimeYear": "99.31%",
     "time": 1688,
     "timeDay": 1513,
-    "timeWeek": 1381,
-    "timeMonth": 1518,
+    "timeWeek": 1408,
+    "timeMonth": 1515,
     "timeYear": 1688,
     "dailyMinutesDown": {
+      "2021-12-08": 1,
       "2021-11-23": 19,
       "2021-11-22": 18,
       "2021-11-11": 42,
@@ -690,8 +691,7 @@
       "2021-07-29": 35,
       "2021-07-27": 202,
       "2021-07-26": 56,
-      "2021-07-25": 20,
-      "2021-07-16": 15
+      "2021-07-25": 20
     }
   },
   {
@@ -707,8 +707,8 @@
     "uptimeYear": "99.58%",
     "time": 1897,
     "timeDay": 1904,
-    "timeWeek": 1677,
-    "timeMonth": 1789,
+    "timeWeek": 1717,
+    "timeMonth": 1727,
     "timeYear": 1897,
     "dailyMinutesDown": {
       "2021-11-23": 18,
@@ -785,8 +785,8 @@
     "uptimeYear": "99.57%",
     "time": 1965,
     "timeDay": 1929,
-    "timeWeek": 1814,
-    "timeMonth": 1804,
+    "timeWeek": 1844,
+    "timeMonth": 1806,
     "timeYear": 1965,
     "dailyMinutesDown": {
       "2021-11-23": 18,
