@@ -48,8 +48,8 @@
     "uptimeYear": "99.35%",
     "time": 1702,
     "timeDay": 1152,
-    "timeWeek": 1296,
-    "timeMonth": 1343,
+    "timeWeek": 1301,
+    "timeMonth": 1340,
     "timeYear": 1638,
     "dailyMinutesDown": {
       "2022-01-27": 34,
@@ -120,17 +120,17 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
-    "status": "up",
-    "uptime": "98.88%",
-    "uptimeDay": "95.26%",
-    "uptimeWeek": "95.13%",
+    "status": "down",
+    "uptime": "98.89%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "95.42%",
     "uptimeMonth": "95.33%",
-    "uptimeYear": "98.73%",
+    "uptimeYear": "98.74%",
     "time": 661,
-    "timeDay": 717,
-    "timeWeek": 667,
+    "timeDay": 605,
+    "timeWeek": 662,
     "timeMonth": 610,
-    "timeYear": 637,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2022-01-30": 46,
       "2022-01-29": 72,
@@ -231,8 +231,7 @@
       "2021-10-26": 63,
       "2021-10-25": 73,
       "2021-10-24": 71,
-      "2021-10-23": 59,
-      "2021-10-22": 59
+      "2021-10-23": 57
     }
   },
   {
@@ -252,7 +251,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-30": 61,
+      "2022-01-30": 951,
       "2022-01-29": 1440,
       "2022-01-28": 1440,
       "2022-01-27": 1440,
@@ -632,8 +631,8 @@
     "uptimeYear": "99.34%",
     "time": 1659,
     "timeDay": 1131,
-    "timeWeek": 1369,
-    "timeMonth": 1286,
+    "timeWeek": 1373,
+    "timeMonth": 1288,
     "timeYear": 1586,
     "dailyMinutesDown": {
       "2022-01-27": 50,
@@ -711,8 +710,8 @@
     "uptimeYear": "99.62%",
     "time": 1874,
     "timeDay": 1355,
-    "timeWeek": 1693,
-    "timeMonth": 1616,
+    "timeWeek": 1664,
+    "timeMonth": 1617,
     "timeYear": 1824,
     "dailyMinutesDown": {
       "2022-01-27": 32,
@@ -791,8 +790,8 @@
     "uptimeYear": "99.58%",
     "time": 1946,
     "timeDay": 1428,
-    "timeWeek": 1599,
-    "timeMonth": 1748,
+    "timeWeek": 1557,
+    "timeMonth": 1756,
     "timeYear": 1886,
     "dailyMinutesDown": {
       "2022-01-27": 32,
