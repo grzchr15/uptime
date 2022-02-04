@@ -40,9 +40,9 @@
     "url": "https://bretterhofer.at",
     "icon": "https://favicons.githubusercontent.com/bretterhofer.at",
     "slug": "bretterhofer-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.35%",
@@ -52,6 +52,7 @@
     "timeMonth": 1343,
     "timeYear": 1632,
     "dailyMinutesDown": {
+      "2022-02-04": 0,
       "2022-02-02": 16,
       "2022-01-27": 34,
       "2022-01-23": 22,
@@ -112,7 +113,7 @@
       "2021-08-14": 63,
       "2021-08-12": 74,
       "2021-08-10": 18,
-      "2021-08-07": 43
+      "2021-08-07": 26
     }
   },
   {
@@ -252,7 +253,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-04": 995,
+      "2022-02-04": 1008,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
       "2022-02-01": 1440,
@@ -786,9 +787,9 @@
     "slug": "kinderundjugendtanz-at",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.58%",
     "time": 1944,
     "timeDay": 1842,
@@ -796,7 +797,6 @@
     "timeMonth": 1790,
     "timeYear": 1882,
     "dailyMinutesDown": {
-      "2022-02-04": 15,
       "2022-01-27": 32,
       "2022-01-23": 21,
       "2022-01-21": 18,
@@ -856,7 +856,7 @@
       "2021-07-27": 198,
       "2021-07-26": 55,
       "2021-07-25": 19,
-      "2021-07-15": 21
+      "2021-07-15": 42
     }
   },
   {
