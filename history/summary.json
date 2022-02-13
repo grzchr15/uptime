@@ -40,9 +40,9 @@
     "url": "https://bretterhofer.at",
     "icon": "https://favicons.githubusercontent.com/bretterhofer.at",
     "slug": "bretterhofer-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.35%",
@@ -52,6 +52,7 @@
     "timeMonth": 1424,
     "timeYear": 1626,
     "dailyMinutesDown": {
+      "2022-02-13": 1,
       "2022-02-02": 16,
       "2022-01-27": 34,
       "2022-01-23": 22,
@@ -112,7 +113,7 @@
       "2021-08-14": 63,
       "2021-08-12": 74,
       "2021-08-10": 18,
-      "2021-08-07": 43
+      "2021-08-07": 26
     }
   },
   {
@@ -124,13 +125,13 @@
     "uptime": "98.94%",
     "uptimeDay": "95.45%",
     "uptimeWeek": "96.24%",
-    "uptimeMonth": "95.65%",
+    "uptimeMonth": "95.67%",
     "uptimeYear": "98.76%",
     "time": 658,
     "timeDay": 637,
     "timeWeek": 609,
-    "timeMonth": 623,
-    "timeYear": 638,
+    "timeMonth": 624,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2022-02-13": 66,
       "2022-02-12": 48,
@@ -251,7 +252,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-13": 67,
+      "2022-02-13": 525,
       "2022-02-12": 1440,
       "2022-02-11": 1440,
       "2022-02-10": 1440,
@@ -863,7 +864,7 @@
     "icon": "https://favicons.githubusercontent.com/andritz.me",
     "slug": "andritz-me",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
