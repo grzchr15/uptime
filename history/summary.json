@@ -41,10 +41,10 @@
     "icon": "https://favicons.githubusercontent.com/bretterhofer.at",
     "slug": "bretterhofer-at",
     "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.73%",
+    "uptime": "99.45%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.35%",
     "time": 1695,
     "timeDay": 1466,
@@ -52,7 +52,7 @@
     "timeMonth": 1423,
     "timeYear": 1624,
     "dailyMinutesDown": {
-      "2022-02-16": 26,
+      "2022-02-16": 16,
       "2022-02-02": 16,
       "2022-01-27": 34,
       "2022-01-23": 22,
@@ -112,7 +112,8 @@
       "2021-08-16": 23,
       "2021-08-14": 63,
       "2021-08-12": 74,
-      "2021-08-10": 18
+      "2021-08-10": 18,
+      "2021-08-07": 26
     }
   },
   {
@@ -120,18 +121,19 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "96.31%",
-    "uptimeMonth": "95.76%",
-    "uptimeYear": "98.77%",
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "96.71%",
+    "uptimeWeek": "96.30%",
+    "uptimeMonth": "95.77%",
+    "uptimeYear": "98.79%",
     "time": 657,
     "timeDay": 642,
     "timeWeek": 520,
     "timeMonth": 613,
     "timeYear": 633,
     "dailyMinutesDown": {
+      "2022-02-17": 0,
       "2022-02-16": 47,
       "2022-02-15": 68,
       "2022-02-14": 47,
@@ -230,8 +232,7 @@
       "2021-11-13": 73,
       "2021-11-12": 72,
       "2021-11-11": 89,
-      "2021-11-10": 63,
-      "2021-11-09": 74
+      "2021-11-10": 63
     }
   },
   {
@@ -251,7 +252,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-16": 1394,
+      "2022-02-17": 8,
+      "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
@@ -614,8 +616,7 @@
       "2021-02-21": 1440,
       "2021-02-20": 1440,
       "2021-02-19": 1440,
-      "2021-02-18": 1440,
-      "2021-02-17": 1440
+      "2021-02-18": 1440
     }
   },
   {
@@ -625,17 +626,17 @@
     "slug": "volkstanz-st",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.34%",
     "time": 1650,
     "timeDay": 1272,
     "timeWeek": 1221,
     "timeMonth": 1340,
     "timeYear": 1555,
     "dailyMinutesDown": {
-      "2022-02-16": 25,
+      "2022-02-16": 16,
       "2022-02-02": 15,
       "2022-01-27": 50,
       "2022-01-23": 22,
@@ -695,7 +696,7 @@
       "2021-08-07": 41,
       "2021-08-04": 123,
       "2021-07-30": 23,
-      "2021-07-29": 18
+      "2021-07-29": 35
     }
   },
   {
@@ -704,10 +705,10 @@
     "icon": "https://favicons.githubusercontent.com/volkstanzwannwo.at",
     "slug": "volkstanzwannwo-at",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.78%",
+    "uptime": "99.67%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.62%",
     "time": 1867,
     "timeDay": 1569,
@@ -715,7 +716,7 @@
     "timeMonth": 1655,
     "timeYear": 1798,
     "dailyMinutesDown": {
-      "2022-02-16": 24,
+      "2022-02-16": 15,
       "2022-01-27": 32,
       "2022-01-23": 21,
       "2022-01-21": 18,
@@ -775,7 +776,8 @@
       "2021-08-10": 17,
       "2021-08-07": 41,
       "2021-08-04": 51,
-      "2021-07-30": 23
+      "2021-07-30": 23,
+      "2021-07-29": 18
     }
   },
   {
@@ -785,9 +787,9 @@
     "slug": "kinderundjugendtanz-at",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.58%",
     "time": 1938,
     "timeDay": 1514,
@@ -795,7 +797,6 @@
     "timeMonth": 1680,
     "timeYear": 1844,
     "dailyMinutesDown": {
-      "2022-02-16": 8,
       "2022-01-27": 32,
       "2022-01-23": 21,
       "2022-01-21": 18,
@@ -855,7 +856,7 @@
       "2021-07-27": 198,
       "2021-07-26": 55,
       "2021-07-25": 19,
-      "2021-07-15": 21
+      "2021-07-15": 42
     }
   },
   {
@@ -864,7 +865,7 @@
     "icon": "https://favicons.githubusercontent.com/andritz.me",
     "slug": "andritz-me",
     "status": "up",
-    "uptime": "98.87%",
+    "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
