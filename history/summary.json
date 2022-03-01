@@ -254,7 +254,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-01": 585,
+      "2022-03-01": 777,
       "2022-02-28": 1440,
       "2022-02-27": 1440,
       "2022-02-26": 1440,
@@ -709,11 +709,11 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://favicons.githubusercontent.com/volkstanzwannwo.at",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.62%",
     "time": 1858,
     "timeDay": 1760,
@@ -721,7 +721,7 @@
     "timeMonth": 1617,
     "timeYear": 1790,
     "dailyMinutesDown": {
-      "2022-03-01": 8,
+      "2022-03-01": 1,
       "2022-02-25": 19,
       "2022-02-24": 1,
       "2022-02-23": 16,
@@ -795,9 +795,9 @@
     "slug": "kinderundjugendtanz-at",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.61%",
     "time": 1911,
     "timeDay": 1843,
@@ -805,7 +805,6 @@
     "timeMonth": 1705,
     "timeYear": 1825,
     "dailyMinutesDown": {
-      "2022-03-01": 8,
       "2022-02-25": 19,
       "2022-02-24": 16,
       "2022-02-23": 16,
@@ -866,7 +865,7 @@
       "2021-08-04": 35,
       "2021-07-30": 22,
       "2021-07-29": 33,
-      "2021-07-27": 79
+      "2021-07-27": 95
     }
   },
   {
