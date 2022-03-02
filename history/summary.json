@@ -24,18 +24,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
     "timeDay": 336,
     "timeWeek": 259,
     "timeMonth": 268,
-    "timeYear": 220,
-    "dailyMinutesDown": {
-      "2022-03-01": 4
-    }
+    "timeYear": 221,
+    "dailyMinutesDown": {}
   },
   {
     "name": "bretterhofer.at",
@@ -49,8 +47,8 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.36%",
     "time": 1667,
-    "timeDay": 1760,
-    "timeWeek": 1509,
+    "timeDay": 1789,
+    "timeWeek": 1524,
     "timeMonth": 1475,
     "timeYear": 1616,
     "dailyMinutesDown": {
@@ -127,7 +125,7 @@
     "slug": "h4-bretterhofer-at",
     "status": "up",
     "uptime": "99.02%",
-    "uptimeDay": "94.91%",
+    "uptimeDay": "95.71%",
     "uptimeWeek": "96.22%",
     "uptimeMonth": "96.39%",
     "uptimeYear": "98.80%",
@@ -135,7 +133,7 @@
     "timeDay": 608,
     "timeWeek": 621,
     "timeMonth": 594,
-    "timeYear": 629,
+    "timeYear": 630,
     "dailyMinutesDown": {
       "2022-03-01": 73,
       "2022-02-28": 53,
@@ -256,7 +254,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-01": 1384,
+      "2022-03-02": 13,
+      "2022-03-01": 1440,
       "2022-02-28": 1440,
       "2022-02-27": 1440,
       "2022-02-26": 1440,
@@ -619,8 +618,7 @@
       "2021-03-06": 1440,
       "2021-03-05": 1440,
       "2021-03-04": 1440,
-      "2021-03-03": 1440,
-      "2021-03-02": 1440
+      "2021-03-03": 1440
     }
   },
   {
@@ -635,8 +633,8 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.35%",
     "time": 1639,
-    "timeDay": 1561,
-    "timeWeek": 1403,
+    "timeDay": 1483,
+    "timeWeek": 1417,
     "timeMonth": 1314,
     "timeYear": 1545,
     "dailyMinutesDown": {
@@ -712,16 +710,16 @@
     "icon": "https://favicons.githubusercontent.com/volkstanzwannwo.at",
     "slug": "volkstanzwannwo-at",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.62%",
     "time": 1858,
-    "timeDay": 1763,
-    "timeWeek": 1672,
+    "timeDay": 1692,
+    "timeWeek": 1681,
     "timeMonth": 1624,
-    "timeYear": 1789,
+    "timeYear": 1790,
     "dailyMinutesDown": {
       "2022-02-25": 19,
       "2022-02-24": 1,
@@ -802,8 +800,8 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.61%",
     "time": 1901,
-    "timeDay": 1909,
-    "timeWeek": 1778,
+    "timeDay": 1859,
+    "timeWeek": 1787,
     "timeMonth": 1717,
     "timeYear": 1825,
     "dailyMinutesDown": {
