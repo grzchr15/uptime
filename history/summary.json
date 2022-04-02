@@ -32,7 +32,7 @@
     "timeDay": 78,
     "timeWeek": 128,
     "timeMonth": 179,
-    "timeYear": 226,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 1895,
     "timeWeek": 1894,
     "timeMonth": 1635,
-    "timeYear": 1618,
+    "timeYear": 1619,
     "dailyMinutesDown": {
       "2022-03-21": 18,
       "2022-03-03": 15,
@@ -125,19 +125,20 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
-    "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "94.50%",
-    "uptimeWeek": "95.21%",
-    "uptimeMonth": "95.53%",
-    "uptimeYear": "98.83%",
-    "time": 630,
-    "timeDay": 500,
-    "timeWeek": 604,
-    "timeMonth": 609,
-    "timeYear": 631,
+    "status": "up",
+    "uptime": "99.10%",
+    "uptimeDay": "94.52%",
+    "uptimeWeek": "94.64%",
+    "uptimeMonth": "95.40%",
+    "uptimeYear": "98.82%",
+    "time": 629,
+    "timeDay": 498,
+    "timeWeek": 592,
+    "timeMonth": 607,
+    "timeYear": 630,
     "dailyMinutesDown": {
-      "2022-04-01": 24,
+      "2022-04-02": 2,
+      "2022-04-01": 79,
       "2022-03-31": 67,
       "2022-03-30": 73,
       "2022-03-29": 76,
@@ -255,7 +256,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-01": 1384,
+      "2022-04-02": 3,
+      "2022-04-01": 1440,
       "2022-03-31": 1440,
       "2022-03-30": 1440,
       "2022-03-29": 1440,
@@ -618,8 +620,7 @@
       "2021-04-06": 1440,
       "2021-04-05": 1440,
       "2021-04-04": 1440,
-      "2021-04-03": 1440,
-      "2021-04-02": 1440
+      "2021-04-03": 1440
     }
   },
   {
@@ -712,7 +713,7 @@
     "icon": "https://favicons.githubusercontent.com/volkstanzwannwo.at",
     "slug": "volkstanzwannwo-at",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
@@ -721,7 +722,7 @@
     "timeDay": 1982,
     "timeWeek": 1696,
     "timeMonth": 1695,
-    "timeYear": 1786,
+    "timeYear": 1787,
     "dailyMinutesDown": {
       "2022-03-21": 17,
       "2022-03-07": 17,
@@ -887,7 +888,7 @@
     "timeDay": 716,
     "timeWeek": 583,
     "timeMonth": 748,
-    "timeYear": 596,
+    "timeYear": 597,
     "dailyMinutesDown": {
       "2022-03-04": 460,
       "2022-03-03": 509,
