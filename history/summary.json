@@ -256,7 +256,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-18": 1147,
+      "2022-04-18": 1160,
       "2022-04-17": 1440,
       "2022-04-16": 1440,
       "2022-04-15": 1440,
@@ -628,10 +628,10 @@
     "url": "https://volkstanz.st",
     "icon": "https://favicons.githubusercontent.com/volkstanz.st",
     "slug": "volkstanz-st",
-    "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.36%",
     "time": 1575,
@@ -640,6 +640,7 @@
     "timeMonth": 1447,
     "timeYear": 1539,
     "dailyMinutesDown": {
+      "2022-04-18": 1,
       "2022-03-21": 18,
       "2022-03-07": 19,
       "2022-02-25": 19,
@@ -703,8 +704,7 @@
       "2021-08-16": 22,
       "2021-08-14": 61,
       "2021-08-12": 72,
-      "2021-08-10": 17,
-      "2021-08-07": 25
+      "2021-08-10": 17
     }
   },
   {
@@ -712,10 +712,10 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://favicons.githubusercontent.com/volkstanzwannwo.at",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.62%",
     "time": 1815,
@@ -724,6 +724,7 @@
     "timeMonth": 1750,
     "timeYear": 1786,
     "dailyMinutesDown": {
+      "2022-04-18": 1,
       "2022-03-21": 17,
       "2022-03-07": 17,
       "2022-02-25": 19,
@@ -788,8 +789,7 @@
       "2021-08-16": 22,
       "2021-08-14": 45,
       "2021-08-12": 71,
-      "2021-08-10": 17,
-      "2021-08-07": 25
+      "2021-08-10": 17
     }
   },
   {
@@ -799,9 +799,9 @@
     "slug": "kinderundjugendtanz-at",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.61%",
     "time": 1899,
     "timeDay": 2226,
@@ -809,7 +809,6 @@
     "timeMonth": 1876,
     "timeYear": 1827,
     "dailyMinutesDown": {
-      "2022-04-18": 9,
       "2022-03-21": 17,
       "2022-02-25": 19,
       "2022-02-24": 16,
@@ -871,7 +870,7 @@
       "2021-08-04": 35,
       "2021-07-30": 22,
       "2021-07-29": 33,
-      "2021-07-27": 61
+      "2021-07-27": 79
     }
   },
   {
