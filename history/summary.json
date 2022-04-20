@@ -40,11 +40,11 @@
     "url": "https://bretterhofer.at",
     "icon": "https://favicons.githubusercontent.com/bretterhofer.at",
     "slug": "bretterhofer-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.36%",
     "time": 1665,
     "timeDay": 1835,
@@ -52,6 +52,7 @@
     "timeMonth": 1598,
     "timeYear": 1617,
     "dailyMinutesDown": {
+      "2022-04-20": 2,
       "2022-03-21": 18,
       "2022-03-03": 15,
       "2022-02-25": 19,
@@ -116,8 +117,7 @@
       "2021-08-26": 19,
       "2021-08-25": 42,
       "2021-08-18": 63,
-      "2021-08-16": 23,
-      "2021-08-14": 20
+      "2021-08-16": 23
     }
   },
   {
@@ -129,12 +129,12 @@
     "uptime": "99.12%",
     "uptimeDay": "95.13%",
     "uptimeWeek": "95.04%",
-    "uptimeMonth": "95.01%",
+    "uptimeMonth": "95.10%",
     "uptimeYear": "98.80%",
     "time": 632,
     "timeDay": 509,
     "timeWeek": 625,
-    "timeMonth": 629,
+    "timeMonth": 632,
     "timeYear": 620,
     "dailyMinutesDown": {
       "2022-04-20": 13,
@@ -256,7 +256,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-20": 34,
+      "2022-04-20": 932,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 1440,
@@ -628,18 +628,19 @@
     "url": "https://volkstanz.st",
     "icon": "https://favicons.githubusercontent.com/volkstanz.st",
     "slug": "volkstanz-st",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.36%",
-    "time": 1574,
+    "time": 1573,
     "timeDay": 1447,
     "timeWeek": 1397,
     "timeMonth": 1442,
     "timeYear": 1539,
     "dailyMinutesDown": {
+      "2022-04-20": 2,
       "2022-03-21": 18,
       "2022-03-07": 19,
       "2022-02-25": 19,
@@ -703,8 +704,7 @@
       "2021-08-16": 22,
       "2021-08-14": 61,
       "2021-08-12": 72,
-      "2021-08-10": 17,
-      "2021-08-07": 25
+      "2021-08-10": 17
     }
   },
   {
@@ -712,10 +712,10 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://favicons.githubusercontent.com/volkstanzwannwo.at",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.62%",
     "time": 1813,
@@ -724,6 +724,7 @@
     "timeMonth": 1748,
     "timeYear": 1784,
     "dailyMinutesDown": {
+      "2022-04-20": 1,
       "2022-03-21": 17,
       "2022-03-07": 17,
       "2022-02-25": 19,
@@ -788,8 +789,7 @@
       "2021-08-16": 22,
       "2021-08-14": 45,
       "2021-08-12": 71,
-      "2021-08-10": 17,
-      "2021-08-07": 25
+      "2021-08-10": 17
     }
   },
   {
@@ -797,10 +797,10 @@
     "url": "https://kinderundjugendtanz.at",
     "icon": "https://favicons.githubusercontent.com/kinderundjugendtanz.at",
     "slug": "kinderundjugendtanz-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.61%",
     "time": 1898,
@@ -809,6 +809,7 @@
     "timeMonth": 1881,
     "timeYear": 1826,
     "dailyMinutesDown": {
+      "2022-04-20": 1,
       "2022-03-21": 17,
       "2022-02-25": 19,
       "2022-02-24": 16,
@@ -870,7 +871,7 @@
       "2021-08-04": 35,
       "2021-07-30": 22,
       "2021-07-29": 33,
-      "2021-07-27": 79
+      "2021-07-27": 61
     }
   },
   {
@@ -879,7 +880,7 @@
     "icon": "https://favicons.githubusercontent.com/andritz.me",
     "slug": "andritz-me",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
