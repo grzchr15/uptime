@@ -32,7 +32,7 @@
     "timeDay": 232,
     "timeWeek": 218,
     "timeMonth": 174,
-    "timeYear": 227,
+    "timeYear": 226,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 1120,
     "timeWeek": 1711,
     "timeMonth": 1643,
-    "timeYear": 1617,
+    "timeYear": 1616,
     "dailyMinutesDown": {
       "2022-03-21": 18,
       "2022-03-03": 15,
@@ -126,18 +126,19 @@
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "99.12%",
-    "uptimeDay": "95.68%",
+    "uptime": "99.11%",
+    "uptimeDay": "95.21%",
     "uptimeWeek": "95.13%",
-    "uptimeMonth": "95.06%",
-    "uptimeYear": "98.80%",
+    "uptimeMonth": "94.91%",
+    "uptimeYear": "98.79%",
     "time": 630,
-    "timeDay": 504,
+    "timeDay": 0,
     "timeWeek": 609,
     "timeMonth": 643,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2022-04-23": 6,
+      "2022-04-24": 12,
+      "2022-04-23": 63,
       "2022-04-22": 78,
       "2022-04-21": 66,
       "2022-04-20": 69,
@@ -255,7 +256,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-23": 1384,
+      "2022-04-24": 13,
+      "2022-04-23": 1440,
       "2022-04-22": 1440,
       "2022-04-21": 1440,
       "2022-04-20": 1440,
@@ -618,8 +620,7 @@
       "2021-04-28": 1440,
       "2021-04-27": 1440,
       "2021-04-26": 1440,
-      "2021-04-25": 1440,
-      "2021-04-24": 1440
+      "2021-04-25": 1440
     }
   },
   {
@@ -806,7 +807,7 @@
     "timeDay": 1549,
     "timeWeek": 2027,
     "timeMonth": 1894,
-    "timeYear": 1826,
+    "timeYear": 1825,
     "dailyMinutesDown": {
       "2022-03-21": 17,
       "2022-02-25": 19,
