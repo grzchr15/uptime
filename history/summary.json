@@ -127,14 +127,14 @@
     "slug": "h4-bretterhofer-at",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "94.53%",
-    "uptimeWeek": "95.14%",
-    "uptimeMonth": "94.86%",
+    "uptimeDay": "95.29%",
+    "uptimeWeek": "95.19%",
+    "uptimeMonth": "95.03%",
     "uptimeYear": "98.79%",
     "time": 630,
-    "timeDay": 647,
-    "timeWeek": 634,
-    "timeMonth": 649,
+    "timeDay": 677,
+    "timeWeek": 628,
+    "timeMonth": 653,
     "timeYear": 621,
     "dailyMinutesDown": {
       "2022-04-25": 8,
@@ -256,7 +256,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-25": 11,
+      "2022-04-25": 1065,
       "2022-04-24": 1440,
       "2022-04-23": 1440,
       "2022-04-22": 1440,
@@ -628,10 +628,10 @@
     "url": "https://volkstanz.st",
     "icon": "https://favicons.githubusercontent.com/volkstanz.st",
     "slug": "volkstanz-st",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
     "time": 1570,
@@ -640,6 +640,7 @@
     "timeMonth": 1457,
     "timeYear": 1538,
     "dailyMinutesDown": {
+      "2022-04-25": 1,
       "2022-03-21": 18,
       "2022-03-07": 19,
       "2022-02-25": 19,
@@ -703,8 +704,7 @@
       "2021-08-16": 22,
       "2021-08-14": 61,
       "2021-08-12": 72,
-      "2021-08-10": 17,
-      "2021-08-07": 25
+      "2021-08-10": 17
     }
   },
   {
@@ -712,10 +712,10 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://favicons.githubusercontent.com/volkstanzwannwo.at",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
     "time": 1810,
@@ -724,6 +724,7 @@
     "timeMonth": 1804,
     "timeYear": 1783,
     "dailyMinutesDown": {
+      "2022-04-25": 1,
       "2022-03-21": 17,
       "2022-03-07": 17,
       "2022-02-25": 19,
@@ -788,8 +789,7 @@
       "2021-08-16": 22,
       "2021-08-14": 45,
       "2021-08-12": 71,
-      "2021-08-10": 17,
-      "2021-08-07": 25
+      "2021-08-10": 17
     }
   },
   {
