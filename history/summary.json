@@ -49,7 +49,7 @@
     "time": 1650,
     "timeDay": 1257,
     "timeWeek": 1494,
-    "timeMonth": 1671,
+    "timeMonth": 1686,
     "timeYear": 1616,
     "dailyMinutesDown": {
       "2022-04-25": 54,
@@ -124,12 +124,12 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
-    "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "94.41%",
-    "uptimeWeek": "94.87%",
+    "status": "down",
+    "uptime": "99.14%",
+    "uptimeDay": "94.39%",
+    "uptimeWeek": "94.86%",
     "uptimeMonth": "95.06%",
-    "uptimeYear": "98.78%",
+    "uptimeYear": "98.80%",
     "time": 629,
     "timeDay": 646,
     "timeWeek": 585,
@@ -234,8 +234,7 @@
       "2022-01-29": 72,
       "2022-01-28": 72,
       "2022-01-27": 69,
-      "2022-01-26": 47,
-      "2022-01-25": 79
+      "2022-01-26": 47
     }
   },
   {
@@ -255,7 +254,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-04": 24,
+      "2022-05-04": 1381,
       "2022-05-03": 1440,
       "2022-05-02": 1440,
       "2022-05-01": 1440,
@@ -636,7 +635,7 @@
     "time": 1562,
     "timeDay": 1464,
     "timeWeek": 1389,
-    "timeMonth": 1616,
+    "timeMonth": 1628,
     "timeYear": 1541,
     "dailyMinutesDown": {
       "2022-04-25": 62,
@@ -719,7 +718,7 @@
     "time": 1801,
     "timeDay": 1380,
     "timeWeek": 1473,
-    "timeMonth": 1757,
+    "timeMonth": 1768,
     "timeYear": 1777,
     "dailyMinutesDown": {
       "2022-04-25": 86,
@@ -803,7 +802,7 @@
     "time": 1885,
     "timeDay": 1823,
     "timeWeek": 1664,
-    "timeMonth": 1878,
+    "timeMonth": 1885,
     "timeYear": 1821,
     "dailyMinutesDown": {
       "2022-04-25": 72,
@@ -876,7 +875,7 @@
     "icon": "https://favicons.githubusercontent.com/andritz.me",
     "slug": "andritz-me",
     "status": "up",
-    "uptime": "98.53%",
+    "uptime": "98.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
