@@ -256,7 +256,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-05": 770,
+      "2022-05-05": 968,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
       "2022-05-02": 1440,
@@ -797,9 +797,9 @@
     "url": "https://kinderundjugendtanz.at",
     "icon": "https://favicons.githubusercontent.com/kinderundjugendtanz.at",
     "slug": "kinderundjugendtanz-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "98.56%",
+    "uptimeDay": "98.50%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.61%",
@@ -809,7 +809,7 @@
     "timeMonth": 1849,
     "timeYear": 1820,
     "dailyMinutesDown": {
-      "2022-05-05": 21,
+      "2022-05-05": 22,
       "2022-04-25": 72,
       "2022-03-21": 17,
       "2022-02-25": 19,
@@ -870,8 +870,7 @@
       "2021-08-10": 63,
       "2021-08-07": 39,
       "2021-08-04": 35,
-      "2021-07-30": 22,
-      "2021-07-29": 17
+      "2021-07-30": 22
     }
   },
   {
