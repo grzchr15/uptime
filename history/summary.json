@@ -40,11 +40,11 @@
     "url": "https://bretterhofer.at",
     "icon": "https://favicons.githubusercontent.com/bretterhofer.at",
     "slug": "bretterhofer-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.36%",
     "time": 1649,
     "timeDay": 1167,
@@ -52,6 +52,7 @@
     "timeMonth": 1685,
     "timeYear": 1615,
     "dailyMinutesDown": {
+      "2022-05-05": 2,
       "2022-04-25": 54,
       "2022-03-21": 18,
       "2022-03-03": 15,
@@ -116,7 +117,7 @@
       "2021-08-28": 17,
       "2021-08-26": 19,
       "2021-08-25": 42,
-      "2021-08-18": 63
+      "2021-08-18": 42
     }
   },
   {
@@ -126,13 +127,13 @@
     "slug": "h4-bretterhofer-at",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "94.23%",
-    "uptimeWeek": "94.86%",
+    "uptimeDay": "94.50%",
+    "uptimeWeek": "94.97%",
     "uptimeMonth": "95.05%",
     "uptimeYear": "98.78%",
     "time": 629,
-    "timeDay": 605,
-    "timeWeek": 583,
+    "timeDay": 563,
+    "timeWeek": 586,
     "timeMonth": 604,
     "timeYear": 619,
     "dailyMinutesDown": {
@@ -255,7 +256,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-05": 20,
+      "2022-05-05": 750,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
       "2022-05-02": 1440,
@@ -627,18 +628,19 @@
     "url": "https://volkstanz.st",
     "icon": "https://favicons.githubusercontent.com/volkstanz.st",
     "slug": "volkstanz-st",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.36%",
     "time": 1562,
     "timeDay": 1186,
     "timeWeek": 1375,
     "timeMonth": 1629,
     "timeYear": 1541,
     "dailyMinutesDown": {
+      "2022-05-05": 2,
       "2022-04-25": 62,
       "2022-03-21": 18,
       "2022-03-07": 19,
@@ -702,7 +704,7 @@
       "2021-08-18": 61,
       "2021-08-16": 22,
       "2021-08-14": 61,
-      "2021-08-12": 72
+      "2021-08-12": 50
     }
   },
   {
@@ -710,18 +712,19 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://favicons.githubusercontent.com/volkstanzwannwo.at",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.62%",
     "time": 1801,
     "timeDay": 1385,
     "timeWeek": 1439,
     "timeMonth": 1768,
     "timeYear": 1777,
     "dailyMinutesDown": {
+      "2022-05-05": 1,
       "2022-04-25": 86,
       "2022-03-21": 17,
       "2022-03-07": 17,
@@ -786,7 +789,7 @@
       "2021-08-18": 60,
       "2021-08-16": 22,
       "2021-08-14": 45,
-      "2021-08-12": 50
+      "2021-08-12": 17
     }
   },
   {
@@ -794,18 +797,19 @@
     "url": "https://kinderundjugendtanz.at",
     "icon": "https://favicons.githubusercontent.com/kinderundjugendtanz.at",
     "slug": "kinderundjugendtanz-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.61%",
-    "time": 1885,
+    "time": 1884,
     "timeDay": 1464,
     "timeWeek": 1654,
     "timeMonth": 1859,
     "timeYear": 1820,
     "dailyMinutesDown": {
+      "2022-05-05": 1,
       "2022-04-25": 72,
       "2022-03-21": 17,
       "2022-02-25": 19,
@@ -867,7 +871,7 @@
       "2021-08-07": 39,
       "2021-08-04": 35,
       "2021-07-30": 22,
-      "2021-07-29": 33
+      "2021-07-29": 17
     }
   },
   {
