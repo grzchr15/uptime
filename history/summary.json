@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 92,
     "timeDay": 75,
-    "timeWeek": 65,
+    "timeWeek": 66,
     "timeMonth": 72,
     "timeYear": 98,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 203,
     "timeDay": 122,
-    "timeWeek": 195,
+    "timeWeek": 192,
     "timeMonth": 197,
     "timeYear": 224,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "99.36%",
     "time": 1631,
     "timeDay": 1376,
-    "timeWeek": 1459,
+    "timeWeek": 1417,
     "timeMonth": 1576,
     "timeYear": 1613,
     "dailyMinutesDown": {
@@ -126,19 +126,20 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
-    "status": "down",
-    "uptime": "99.14%",
-    "uptimeDay": "96.08%",
-    "uptimeWeek": "95.00%",
+    "status": "up",
+    "uptime": "99.13%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "94.96%",
     "uptimeMonth": "95.10%",
-    "uptimeYear": "98.78%",
+    "uptimeYear": "98.77%",
     "time": 628,
-    "timeDay": 502,
-    "timeWeek": 640,
-    "timeMonth": 617,
+    "timeDay": 495,
+    "timeWeek": 618,
+    "timeMonth": 613,
     "timeYear": 619,
     "dailyMinutesDown": {
-      "2022-05-09": 0,
+      "2022-05-10": 5,
+      "2022-05-09": 56,
       "2022-05-08": 70,
       "2022-05-07": 81,
       "2022-05-06": 77,
@@ -256,7 +257,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-09": 1384,
+      "2022-05-10": 5,
+      "2022-05-09": 1440,
       "2022-05-08": 1440,
       "2022-05-07": 1440,
       "2022-05-06": 1440,
@@ -619,8 +621,7 @@
       "2021-05-14": 1440,
       "2021-05-13": 1440,
       "2021-05-12": 1440,
-      "2021-05-11": 1440,
-      "2021-05-10": 1440
+      "2021-05-11": 1440
     }
   },
   {
@@ -638,7 +639,7 @@
     "timeDay": 1385,
     "timeWeek": 1404,
     "timeMonth": 1576,
-    "timeYear": 1539,
+    "timeYear": 1540,
     "dailyMinutesDown": {
       "2022-05-09": 17,
       "2022-05-05": 22,
@@ -808,7 +809,7 @@
     "timeDay": 1765,
     "timeWeek": 1701,
     "timeMonth": 1790,
-    "timeYear": 1818,
+    "timeYear": 1817,
     "dailyMinutesDown": {
       "2022-05-09": 16,
       "2022-05-05": 21,
