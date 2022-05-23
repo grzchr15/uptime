@@ -134,7 +134,7 @@
     "uptimeMonth": "94.84%",
     "uptimeYear": "98.71%",
     "time": 629,
-    "timeDay": 555,
+    "timeDay": 490,
     "timeWeek": 608,
     "timeMonth": 591,
     "timeYear": 616,
@@ -258,7 +258,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-23": 27,
+      "2022-05-23": 1205,
       "2022-05-22": 1440,
       "2022-05-21": 1440,
       "2022-05-20": 1440,
@@ -630,11 +630,11 @@
     "url": "https://volkstanz.st",
     "icon": "https://favicons.githubusercontent.com/volkstanz.st",
     "slug": "volkstanz-st",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.36%",
     "time": 1539,
     "timeDay": 1298,
@@ -642,6 +642,7 @@
     "timeMonth": 1554,
     "timeYear": 1536,
     "dailyMinutesDown": {
+      "2022-05-23": 1,
       "2022-05-15": 17,
       "2022-05-11": 16,
       "2022-05-09": 17,
@@ -708,7 +709,7 @@
       "2021-08-20": 17,
       "2021-08-18": 61,
       "2021-08-16": 22,
-      "2021-08-14": 34
+      "2021-08-14": 19
     }
   },
   {
@@ -716,18 +717,19 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://favicons.githubusercontent.com/volkstanzwannwo.at",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.62%",
-    "time": 1783,
+    "time": 1809,
     "timeDay": 1859,
     "timeWeek": 1867,
     "timeMonth": 1675,
     "timeYear": 1766,
     "dailyMinutesDown": {
+      "2022-05-23": 1,
       "2022-05-11": 15,
       "2022-05-09": 17,
       "2022-05-05": 21,
@@ -793,8 +795,7 @@
       "2021-08-25": 40,
       "2021-08-20": 16,
       "2021-08-18": 60,
-      "2021-08-16": 22,
-      "2021-08-14": 19
+      "2021-08-16": 22
     }
   },
   {
