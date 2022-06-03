@@ -42,9 +42,9 @@
     "slug": "bretterhofer-at",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.36%",
     "time": 1614,
     "timeDay": 1371,
@@ -52,7 +52,6 @@
     "timeMonth": 1514,
     "timeYear": 1607,
     "dailyMinutesDown": {
-      "2022-06-03": 8,
       "2022-05-25": 37,
       "2022-05-20": 18,
       "2022-05-11": 16,
@@ -118,7 +117,8 @@
       "2021-09-04": 48,
       "2021-09-03": 35,
       "2021-08-31": 1285,
-      "2021-08-30": 71
+      "2021-08-30": 71,
+      "2021-08-28": 17
     }
   },
   {
@@ -257,7 +257,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-03": 538,
+      "2022-06-03": 671,
       "2022-06-02": 1440,
       "2022-06-01": 1440,
       "2022-05-31": 1440,
@@ -716,10 +716,10 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://favicons.githubusercontent.com/volkstanzwannwo.at",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.62%",
     "time": 1802,
@@ -728,6 +728,7 @@
     "timeMonth": 1736,
     "timeYear": 1765,
     "dailyMinutesDown": {
+      "2022-06-03": 1,
       "2022-05-25": 21,
       "2022-05-11": 15,
       "2022-05-09": 17,
@@ -793,8 +794,7 @@
       "2021-08-26": 18,
       "2021-08-25": 40,
       "2021-08-20": 16,
-      "2021-08-18": 60,
-      "2021-08-16": 22
+      "2021-08-18": 60
     }
   },
   {
