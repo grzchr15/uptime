@@ -127,18 +127,19 @@
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "98.93%",
-    "uptimeDay": "95.67%",
+    "uptime": "98.92%",
+    "uptimeDay": "95.22%",
     "uptimeWeek": "94.75%",
     "uptimeMonth": "91.34%",
-    "uptimeYear": "98.40%",
+    "uptimeYear": "98.38%",
     "time": 629,
-    "timeDay": 731,
+    "timeDay": 0,
     "timeWeek": 713,
     "timeMonth": 605,
     "timeYear": 618,
     "dailyMinutesDown": {
-      "2022-06-11": 7,
+      "2022-06-12": 12,
+      "2022-06-11": 62,
       "2022-06-10": 76,
       "2022-06-09": 66,
       "2022-06-08": 82,
@@ -256,7 +257,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-11": 1384,
+      "2022-06-12": 13,
+      "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
       "2022-06-08": 1440,
@@ -619,8 +621,7 @@
       "2021-06-16": 1440,
       "2021-06-15": 1440,
       "2021-06-14": 1440,
-      "2021-06-13": 1440,
-      "2021-06-12": 1440
+      "2021-06-13": 1440
     }
   },
   {
@@ -716,7 +717,7 @@
     "icon": "https://favicons.githubusercontent.com/volkstanzwannwo.at",
     "slug": "volkstanzwannwo-at",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.84%",
