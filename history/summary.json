@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 57,
-    "timeWeek": 86,
-    "timeMonth": 88,
+    "timeDay": 137,
+    "timeWeek": 85,
+    "timeMonth": 91,
     "timeYear": 98,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 170,
-    "timeWeek": 176,
-    "timeMonth": 205,
+    "timeDay": 103,
+    "timeWeek": 174,
+    "timeMonth": 198,
     "timeYear": 230,
     "dailyMinutesDown": {}
   },
@@ -41,18 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/bretterhofer.at",
     "slug": "bretterhofer-at",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.61%",
+    "uptime": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.61%",
     "time": 1613,
-    "timeDay": 1234,
-    "timeWeek": 1528,
+    "timeDay": 1499,
+    "timeWeek": 1539,
     "timeMonth": 1572,
     "timeYear": 1603,
     "dailyMinutesDown": {
-      "2022-06-19": 10,
       "2022-06-17": 21,
       "2022-06-16": 15,
       "2022-06-14": 16,
@@ -120,7 +119,8 @@
       "2021-09-09": 19,
       "2021-09-08": 17,
       "2021-09-07": 18,
-      "2021-09-06": 34
+      "2021-09-06": 34,
+      "2021-09-04": 26
     }
   },
   {
@@ -128,12 +128,12 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "94.34%",
+    "uptimeDay": "94.35%",
     "uptimeWeek": "94.69%",
     "uptimeMonth": "91.42%",
-    "uptimeYear": "98.35%",
+    "uptimeYear": "98.36%",
     "time": 638,
     "timeDay": 659,
     "timeWeek": 1467,
@@ -238,8 +238,7 @@
       "2022-03-16": 69,
       "2022-03-15": 73,
       "2022-03-14": 78,
-      "2022-03-13": 75,
-      "2022-03-12": 50
+      "2022-03-13": 75
     }
   },
   {
@@ -259,7 +258,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-19": 1266,
+      "2022-06-19": 1384,
       "2022-06-18": 1440,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
@@ -633,17 +632,16 @@
     "slug": "volkstanz-st",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.36%",
     "time": 1540,
-    "timeDay": 1360,
-    "timeWeek": 1589,
-    "timeMonth": 1566,
-    "timeYear": 1535,
+    "timeDay": 1519,
+    "timeWeek": 1581,
+    "timeMonth": 1575,
+    "timeYear": 1534,
     "dailyMinutesDown": {
-      "2022-06-19": 9,
       "2022-06-14": 15,
       "2022-06-10": 17,
       "2022-06-04": 17,
@@ -712,7 +710,7 @@
       "2021-08-26": 18,
       "2021-08-25": 40,
       "2021-08-20": 17,
-      "2021-08-18": 17
+      "2021-08-18": 41
     }
   },
   {
@@ -722,17 +720,16 @@
     "slug": "volkstanzwannwo-at",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.62%",
     "time": 1789,
-    "timeDay": 1466,
-    "timeWeek": 1643,
-    "timeMonth": 1931,
+    "timeDay": 1655,
+    "timeWeek": 1635,
+    "timeMonth": 1926,
     "timeYear": 1770,
     "dailyMinutesDown": {
-      "2022-06-19": 9,
       "2022-06-17": 20,
       "2022-06-10": 16,
       "2022-06-04": 16,
@@ -800,7 +797,8 @@
       "2021-09-03": 19,
       "2021-08-28": 16,
       "2021-08-26": 18,
-      "2021-08-25": 40
+      "2021-08-25": 40,
+      "2021-08-20": 16
     }
   },
   {
@@ -810,17 +808,16 @@
     "slug": "kinderundjugendtanz-at",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.61%",
-    "time": 1825,
-    "timeDay": 1536,
-    "timeWeek": 1902,
-    "timeMonth": 1924,
+    "time": 1824,
+    "timeDay": 1712,
+    "timeWeek": 1901,
+    "timeMonth": 1927,
     "timeYear": 1814,
     "dailyMinutesDown": {
-      "2022-06-19": 8,
       "2022-06-10": 16,
       "2022-06-04": 16,
       "2022-06-03": 16,
@@ -885,7 +882,7 @@
       "2021-08-16": 21,
       "2021-08-14": 62,
       "2021-08-12": 69,
-      "2021-08-10": 47
+      "2021-08-10": 63
     }
   },
   {
@@ -900,9 +897,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.99%",
     "time": 579,
-    "timeDay": 436,
-    "timeWeek": 509,
-    "timeMonth": 542,
+    "timeDay": 581,
+    "timeWeek": 500,
+    "timeMonth": 547,
     "timeYear": 563,
     "dailyMinutesDown": {
       "2022-03-04": 460,
