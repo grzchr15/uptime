@@ -128,16 +128,16 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
-    "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "94.02%",
-    "uptimeWeek": "94.76%",
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "94.09%",
+    "uptimeWeek": "94.75%",
     "uptimeMonth": "91.34%",
-    "uptimeYear": "98.35%",
+    "uptimeYear": "98.36%",
     "time": 639,
     "timeDay": 1314,
     "timeWeek": 852,
-    "timeMonth": 943,
+    "timeMonth": 953,
     "timeYear": 639,
     "dailyMinutesDown": {
       "2022-06-22": 28,
@@ -238,8 +238,7 @@
       "2022-03-19": 51,
       "2022-03-18": 73,
       "2022-03-17": 53,
-      "2022-03-16": 69,
-      "2022-03-15": 73
+      "2022-03-16": 69
     }
   },
   {
@@ -259,7 +258,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-22": 450,
+      "2022-06-22": 1383,
       "2022-06-21": 1440,
       "2022-06-20": 1440,
       "2022-06-19": 1440,
@@ -721,17 +720,16 @@
     "slug": "volkstanzwannwo-at",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.62%",
     "time": 1773,
     "timeDay": 1710,
     "timeWeek": 1570,
     "timeMonth": 1933,
-    "timeYear": 1767,
+    "timeYear": 1766,
     "dailyMinutesDown": {
-      "2022-06-22": 11,
       "2022-06-17": 20,
       "2022-06-10": 16,
       "2022-06-04": 16,
@@ -799,7 +797,8 @@
       "2021-09-03": 19,
       "2021-08-28": 16,
       "2021-08-26": 18,
-      "2021-08-25": 40
+      "2021-08-25": 40,
+      "2021-08-20": 16
     }
   },
   {
@@ -817,7 +816,7 @@
     "timeDay": 1786,
     "timeWeek": 1851,
     "timeMonth": 1921,
-    "timeYear": 1811,
+    "timeYear": 1810,
     "dailyMinutesDown": {
       "2022-06-10": 16,
       "2022-06-04": 16,
@@ -892,7 +891,7 @@
     "icon": "https://favicons.githubusercontent.com/andritz.me",
     "slug": "andritz-me",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
