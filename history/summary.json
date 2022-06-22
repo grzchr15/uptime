@@ -50,7 +50,7 @@
     "timeDay": 2345,
     "timeWeek": 1607,
     "timeMonth": 1601,
-    "timeYear": 1600,
+    "timeYear": 1599,
     "dailyMinutesDown": {
       "2022-06-17": 21,
       "2022-06-16": 15,
@@ -259,7 +259,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-22": 28,
+      "2022-06-22": 440,
       "2022-06-21": 1440,
       "2022-06-20": 1440,
       "2022-06-19": 1440,
@@ -719,18 +719,19 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://favicons.githubusercontent.com/volkstanzwannwo.at",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.62%",
-    "time": 1773,
+    "time": 1774,
     "timeDay": 1751,
     "timeWeek": 1560,
     "timeMonth": 1937,
-    "timeYear": 1768,
+    "timeYear": 1767,
     "dailyMinutesDown": {
+      "2022-06-22": 1,
       "2022-06-17": 20,
       "2022-06-10": 16,
       "2022-06-04": 16,
@@ -798,8 +799,7 @@
       "2021-09-03": 19,
       "2021-08-28": 16,
       "2021-08-26": 18,
-      "2021-08-25": 40,
-      "2021-08-20": 16
+      "2021-08-25": 40
     }
   },
   {
