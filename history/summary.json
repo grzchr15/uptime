@@ -40,10 +40,10 @@
     "url": "https://bretterhofer.at",
     "icon": "https://favicons.githubusercontent.com/bretterhofer.at",
     "slug": "bretterhofer-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.61%",
     "time": 1611,
@@ -52,7 +52,7 @@
     "timeMonth": 1573,
     "timeYear": 1597,
     "dailyMinutesDown": {
-      "2022-06-27": 22,
+      "2022-06-27": 24,
       "2022-06-17": 21,
       "2022-06-16": 15,
       "2022-06-14": 16,
@@ -120,7 +120,7 @@
       "2021-09-09": 19,
       "2021-09-08": 17,
       "2021-09-07": 18,
-      "2021-09-06": 34
+      "2021-09-06": 17
     }
   },
   {
@@ -259,7 +259,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-27": 774,
+      "2022-06-27": 1066,
       "2022-06-26": 1440,
       "2022-06-25": 1440,
       "2022-06-24": 1440,
@@ -631,10 +631,10 @@
     "url": "https://volkstanz.st",
     "icon": "https://favicons.githubusercontent.com/volkstanz.st",
     "slug": "volkstanz-st",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.36%",
     "time": 1538,
@@ -643,7 +643,7 @@
     "timeMonth": 1602,
     "timeYear": 1536,
     "dailyMinutesDown": {
-      "2022-06-27": 22,
+      "2022-06-27": 24,
       "2022-06-14": 15,
       "2022-06-10": 17,
       "2022-06-04": 17,
@@ -711,8 +711,7 @@
       "2021-08-28": 17,
       "2021-08-26": 18,
       "2021-08-25": 40,
-      "2021-08-20": 17,
-      "2021-08-18": 17
+      "2021-08-20": 17
     }
   },
   {
@@ -720,10 +719,10 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://favicons.githubusercontent.com/volkstanzwannwo.at",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.62%",
     "time": 1788,
@@ -732,7 +731,7 @@
     "timeMonth": 1908,
     "timeYear": 1765,
     "dailyMinutesDown": {
-      "2022-06-27": 22,
+      "2022-06-27": 23,
       "2022-06-17": 20,
       "2022-06-10": 16,
       "2022-06-04": 16,
@@ -800,7 +799,7 @@
       "2021-09-03": 19,
       "2021-08-28": 16,
       "2021-08-26": 18,
-      "2021-08-25": 40
+      "2021-08-25": 17
     }
   },
   {
@@ -808,19 +807,19 @@
     "url": "https://kinderundjugendtanz.at",
     "icon": "https://favicons.githubusercontent.com/kinderundjugendtanz.at",
     "slug": "kinderundjugendtanz-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "98.54%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "99.61%",
-    "time": 1822,
+    "uptimeYear": "99.62%",
+    "time": 1821,
     "timeDay": 1684,
     "timeWeek": 1912,
     "timeMonth": 1896,
     "timeYear": 1811,
     "dailyMinutesDown": {
-      "2022-06-27": 21,
+      "2022-06-27": 22,
       "2022-06-10": 16,
       "2022-06-04": 16,
       "2022-06-03": 16,
@@ -884,8 +883,7 @@
       "2021-08-18": 59,
       "2021-08-16": 21,
       "2021-08-14": 62,
-      "2021-08-12": 69,
-      "2021-08-10": 47
+      "2021-08-12": 69
     }
   },
   {
