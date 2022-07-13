@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 94,
     "timeDay": 84,
-    "timeWeek": 126,
+    "timeWeek": 132,
     "timeMonth": 99,
     "timeYear": 99,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 212,
     "timeDay": 136,
-    "timeWeek": 185,
+    "timeWeek": 183,
     "timeMonth": 217,
     "timeYear": 227,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "99.61%",
     "time": 1595,
     "timeDay": 1558,
-    "timeWeek": 1652,
+    "timeWeek": 1621,
     "timeMonth": 1580,
     "timeYear": 1590,
     "dailyMinutesDown": {
@@ -130,18 +130,19 @@
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "98.95%",
-    "uptimeDay": "95.54%",
+    "uptime": "98.94%",
+    "uptimeDay": "95.06%",
     "uptimeWeek": "94.82%",
     "uptimeMonth": "94.94%",
-    "uptimeYear": "98.33%",
+    "uptimeYear": "98.32%",
     "time": 642,
-    "timeDay": 656,
+    "timeDay": 0,
     "timeWeek": 688,
     "timeMonth": 972,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2022-07-12": 8,
+      "2022-07-13": 15,
+      "2022-07-12": 64,
       "2022-07-11": 57,
       "2022-07-10": 65,
       "2022-07-09": 78,
@@ -260,7 +261,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-12": 1384,
+      "2022-07-13": 15,
+      "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
       "2022-07-09": 1440,
@@ -623,8 +625,7 @@
       "2021-07-17": 1440,
       "2021-07-16": 1440,
       "2021-07-15": 1440,
-      "2021-07-14": 1440,
-      "2021-07-13": 1440
+      "2021-07-14": 1440
     }
   },
   {
@@ -640,7 +641,7 @@
     "uptimeYear": "99.36%",
     "time": 1538,
     "timeDay": 1713,
-    "timeWeek": 1527,
+    "timeWeek": 1523,
     "timeMonth": 1616,
     "timeYear": 1540,
     "dailyMinutesDown": {
@@ -730,7 +731,7 @@
     "uptimeYear": "99.61%",
     "time": 1768,
     "timeDay": 1745,
-    "timeWeek": 1713,
+    "timeWeek": 1705,
     "timeMonth": 1700,
     "timeYear": 1758,
     "dailyMinutesDown": {
