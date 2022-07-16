@@ -48,7 +48,7 @@
     "uptimeYear": "99.61%",
     "time": 1594,
     "timeDay": 1737,
-    "timeWeek": 1564,
+    "timeWeek": 1547,
     "timeMonth": 1577,
     "timeYear": 1588,
     "dailyMinutesDown": {
@@ -129,19 +129,20 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
-    "status": "down",
+    "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "94.09%",
+    "uptimeDay": "94.11%",
     "uptimeWeek": "95.11%",
-    "uptimeMonth": "94.98%",
-    "uptimeYear": "98.33%",
+    "uptimeMonth": "94.97%",
+    "uptimeYear": "98.32%",
     "time": 643,
-    "timeDay": 2028,
-    "timeWeek": 856,
-    "timeMonth": 813,
+    "timeDay": 1257,
+    "timeWeek": 809,
+    "timeMonth": 808,
     "timeYear": 643,
     "dailyMinutesDown": {
-      "2022-07-15": 30,
+      "2022-07-16": 11,
+      "2022-07-15": 86,
       "2022-07-14": 60,
       "2022-07-13": 83,
       "2022-07-12": 64,
@@ -260,7 +261,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-15": 1385,
+      "2022-07-16": 11,
+      "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
@@ -623,8 +625,7 @@
       "2021-07-20": 1440,
       "2021-07-19": 1440,
       "2021-07-18": 1440,
-      "2021-07-17": 1440,
-      "2021-07-16": 1440
+      "2021-07-17": 1440
     }
   },
   {
@@ -640,7 +641,7 @@
     "uptimeYear": "99.36%",
     "time": 1537,
     "timeDay": 1337,
-    "timeWeek": 1582,
+    "timeWeek": 1516,
     "timeMonth": 1599,
     "timeYear": 1541,
     "dailyMinutesDown": {
@@ -730,7 +731,7 @@
     "uptimeYear": "99.61%",
     "time": 1759,
     "timeDay": 1423,
-    "timeWeek": 1761,
+    "timeWeek": 1773,
     "timeMonth": 1694,
     "timeYear": 1759,
     "dailyMinutesDown": {
@@ -819,7 +820,7 @@
     "uptimeYear": "99.61%",
     "time": 1818,
     "timeDay": 3919,
-    "timeWeek": 2357,
+    "timeWeek": 2392,
     "timeMonth": 2020,
     "timeYear": 1821,
     "dailyMinutesDown": {
