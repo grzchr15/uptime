@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 94,
     "timeDay": 0,
-    "timeWeek": 72,
+    "timeWeek": 75,
     "timeMonth": 95,
     "timeYear": 99,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 215,
     "timeDay": 0,
-    "timeWeek": 231,
+    "timeWeek": 189,
     "timeMonth": 239,
     "timeYear": 227,
     "dailyMinutesDown": {}
@@ -48,9 +48,9 @@
     "uptimeYear": "99.61%",
     "time": 1588,
     "timeDay": 0,
-    "timeWeek": 1411,
+    "timeWeek": 1378,
     "timeMonth": 1533,
-    "timeYear": 1583,
+    "timeYear": 1582,
     "dailyMinutesDown": {
       "2022-07-07": 32,
       "2022-07-06": 24,
@@ -130,18 +130,19 @@
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "98.96%",
-    "uptimeDay": "93.91%",
-    "uptimeWeek": "94.43%",
+    "uptime": "98.95%",
+    "uptimeDay": "93.86%",
+    "uptimeWeek": "94.38%",
     "uptimeMonth": "94.91%",
-    "uptimeYear": "98.32%",
+    "uptimeYear": "98.30%",
     "time": 645,
     "timeDay": 831,
-    "timeWeek": 759,
+    "timeWeek": 804,
     "timeMonth": 792,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2022-07-22": 31,
+      "2022-07-23": 14,
+      "2022-07-22": 88,
       "2022-07-21": 76,
       "2022-07-20": 79,
       "2022-07-19": 88,
@@ -260,7 +261,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-22": 1383,
+      "2022-07-23": 15,
+      "2022-07-22": 1440,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
       "2022-07-19": 1440,
@@ -623,8 +625,7 @@
       "2021-07-27": 1440,
       "2021-07-26": 1440,
       "2021-07-25": 1440,
-      "2021-07-24": 1440,
-      "2021-07-23": 1440
+      "2021-07-24": 1440
     }
   },
   {
@@ -640,7 +641,7 @@
     "uptimeYear": "99.36%",
     "time": 1538,
     "timeDay": 0,
-    "timeWeek": 1568,
+    "timeWeek": 1591,
     "timeMonth": 1613,
     "timeYear": 1539,
     "dailyMinutesDown": {
@@ -730,7 +731,7 @@
     "uptimeYear": "99.61%",
     "time": 1760,
     "timeDay": 0,
-    "timeWeek": 1819,
+    "timeWeek": 1863,
     "timeMonth": 1735,
     "timeYear": 1758,
     "dailyMinutesDown": {
@@ -819,7 +820,7 @@
     "uptimeYear": "99.61%",
     "time": 1821,
     "timeDay": 0,
-    "timeWeek": 2410,
+    "timeWeek": 2243,
     "timeMonth": 2074,
     "timeYear": 1822,
     "dailyMinutesDown": {
@@ -906,7 +907,7 @@
     "uptimeYear": "97.99%",
     "time": 582,
     "timeDay": 0,
-    "timeWeek": 549,
+    "timeWeek": 578,
     "timeMonth": 540,
     "timeYear": 566,
     "dailyMinutesDown": {
