@@ -42,17 +42,16 @@
     "slug": "bretterhofer-at",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
     "time": 1580,
     "timeDay": 1237,
     "timeWeek": 1443,
-    "timeMonth": 1465,
+    "timeMonth": 1456,
     "timeYear": 1578,
     "dailyMinutesDown": {
-      "2022-08-08": 11,
       "2022-07-07": 32,
       "2022-07-06": 24,
       "2022-07-04": 21,
@@ -121,7 +120,8 @@
       "2021-09-16": 56,
       "2021-09-12": 47,
       "2021-09-11": 53,
-      "2021-09-09": 19
+      "2021-09-09": 19,
+      "2021-09-08": 17
     }
   },
   {
@@ -129,12 +129,12 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
-    "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "95.97%",
-    "uptimeWeek": "94.89%",
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "95.94%",
+    "uptimeWeek": "94.88%",
     "uptimeMonth": "94.57%",
-    "uptimeYear": "98.29%",
+    "uptimeYear": "98.31%",
     "time": 646,
     "timeDay": 405,
     "timeWeek": 567,
@@ -240,8 +240,7 @@
       "2022-05-04": 84,
       "2022-05-03": 57,
       "2022-05-02": 56,
-      "2022-05-01": 87,
-      "2022-04-30": 57
+      "2022-05-01": 57
     }
   },
   {
@@ -261,7 +260,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-08": 1150,
+      "2022-08-08": 1382,
       "2022-08-07": 1440,
       "2022-08-06": 1440,
       "2022-08-05": 1440,
@@ -642,7 +641,7 @@
     "time": 1541,
     "timeDay": 1659,
     "timeWeek": 1589,
-    "timeMonth": 1561,
+    "timeMonth": 1563,
     "timeYear": 1527,
     "dailyMinutesDown": {
       "2022-07-07": 31,
@@ -732,7 +731,7 @@
     "time": 1763,
     "timeDay": 2183,
     "timeWeek": 1930,
-    "timeMonth": 1872,
+    "timeMonth": 1877,
     "timeYear": 1755,
     "dailyMinutesDown": {
       "2022-07-07": 31,
@@ -821,7 +820,7 @@
     "time": 1825,
     "timeDay": 1904,
     "timeWeek": 1927,
-    "timeMonth": 2128,
+    "timeMonth": 2142,
     "timeYear": 1828,
     "dailyMinutesDown": {
       "2022-07-07": 30,
