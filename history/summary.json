@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 79,
-    "timeWeek": 79,
-    "timeMonth": 90,
+    "timeDay": 0,
+    "timeWeek": 78,
+    "timeMonth": 89,
     "timeYear": 99,
     "dailyMinutesDown": {}
   },
@@ -30,8 +30,8 @@
     "uptimeYear": "100.00%",
     "time": 220,
     "timeDay": 0,
-    "timeWeek": 219,
-    "timeMonth": 225,
+    "timeWeek": 224,
+    "timeMonth": 229,
     "timeYear": 227,
     "dailyMinutesDown": {}
   },
@@ -48,7 +48,7 @@
     "uptimeYear": "99.61%",
     "time": 1579,
     "timeDay": 1109,
-    "timeWeek": 1342,
+    "timeWeek": 1335,
     "timeMonth": 1412,
     "timeYear": 1578,
     "dailyMinutesDown": {
@@ -130,18 +130,19 @@
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "98.98%",
-    "uptimeDay": "95.37%",
-    "uptimeWeek": "94.57%",
-    "uptimeMonth": "94.45%",
-    "uptimeYear": "98.30%",
+    "uptime": "98.97%",
+    "uptimeDay": "95.13%",
+    "uptimeWeek": "94.56%",
+    "uptimeMonth": "94.42%",
+    "uptimeYear": "98.28%",
     "time": 646,
-    "timeDay": 609,
+    "timeDay": 0,
     "timeWeek": 589,
-    "timeMonth": 707,
+    "timeMonth": 717,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2022-08-13": 11,
+      "2022-08-14": 13,
+      "2022-08-13": 67,
       "2022-08-12": 83,
       "2022-08-11": 84,
       "2022-08-10": 82,
@@ -260,7 +261,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-13": 1384,
+      "2022-08-14": 13,
+      "2022-08-13": 1440,
       "2022-08-12": 1440,
       "2022-08-11": 1440,
       "2022-08-10": 1440,
@@ -623,8 +625,7 @@
       "2021-08-18": 1440,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
-      "2021-08-15": 1440,
-      "2021-08-14": 1440
+      "2021-08-15": 1440
     }
   },
   {
@@ -640,7 +641,7 @@
     "uptimeYear": "99.36%",
     "time": 1533,
     "timeDay": 1306,
-    "timeWeek": 1409,
+    "timeWeek": 1382,
     "timeMonth": 1508,
     "timeYear": 1528,
     "dailyMinutesDown": {
@@ -730,7 +731,7 @@
     "uptimeYear": "99.61%",
     "time": 1766,
     "timeDay": 3511,
-    "timeWeek": 2430,
+    "timeWeek": 2500,
     "timeMonth": 2035,
     "timeYear": 1760,
     "dailyMinutesDown": {
@@ -819,7 +820,7 @@
     "uptimeYear": "99.62%",
     "time": 1826,
     "timeDay": 2640,
-    "timeWeek": 2015,
+    "timeWeek": 2013,
     "timeMonth": 2089,
     "timeYear": 1831,
     "dailyMinutesDown": {
@@ -888,8 +889,7 @@
       "2021-08-25": 38,
       "2021-08-20": 16,
       "2021-08-18": 59,
-      "2021-08-16": 21,
-      "2021-08-14": 62
+      "2021-08-16": 21
     }
   },
   {
@@ -905,7 +905,7 @@
     "uptimeYear": "98.07%",
     "time": 584,
     "timeDay": 0,
-    "timeWeek": 543,
+    "timeWeek": 529,
     "timeMonth": 551,
     "timeYear": 567,
     "dailyMinutesDown": {
