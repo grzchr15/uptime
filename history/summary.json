@@ -40,10 +40,10 @@
     "url": "https://bretterhofer.at",
     "icon": "https://favicons.githubusercontent.com/bretterhofer.at",
     "slug": "bretterhofer-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
     "time": 1578,
@@ -52,6 +52,7 @@
     "timeMonth": 1429,
     "timeYear": 1575,
     "dailyMinutesDown": {
+      "2022-08-16": 2,
       "2022-07-07": 32,
       "2022-07-06": 24,
       "2022-07-04": 21,
@@ -120,8 +121,7 @@
       "2021-09-16": 56,
       "2021-09-12": 47,
       "2021-09-11": 53,
-      "2021-09-09": 19,
-      "2021-09-08": 17
+      "2021-09-09": 19
     }
   },
   {
@@ -130,7 +130,7 @@
     "icon": "https://favicons.githubusercontent.com/h4.bretterhofer.at",
     "slug": "h4-bretterhofer-at",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "uptimeDay": "93.87%",
     "uptimeWeek": "94.40%",
     "uptimeMonth": "94.36%",
@@ -261,7 +261,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-16": 32,
+      "2022-08-16": 1183,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
       "2022-08-13": 1440,
@@ -723,18 +723,19 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://favicons.githubusercontent.com/volkstanzwannwo.at",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.62%",
     "time": 1766,
     "timeDay": 1610,
     "timeWeek": 2426,
     "timeMonth": 2041,
-    "timeYear": 1758,
+    "timeYear": 1756,
     "dailyMinutesDown": {
+      "2022-08-16": 1,
       "2022-07-07": 31,
       "2022-07-06": 23,
       "2022-07-04": 20,
@@ -803,8 +804,7 @@
       "2021-09-07": 17,
       "2021-09-06": 33,
       "2021-09-04": 46,
-      "2021-09-03": 19,
-      "2021-08-28": 16
+      "2021-09-03": 19
     }
   },
   {
@@ -822,7 +822,7 @@
     "timeDay": 1898,
     "timeWeek": 2025,
     "timeMonth": 2031,
-    "timeYear": 1825,
+    "timeYear": 1826,
     "dailyMinutesDown": {
       "2022-07-07": 30,
       "2022-07-06": 22,
@@ -897,7 +897,7 @@
     "icon": "https://favicons.githubusercontent.com/andritz.me",
     "slug": "andritz-me",
     "status": "up",
-    "uptime": "98.78%",
+    "uptime": "98.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
