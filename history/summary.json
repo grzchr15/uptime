@@ -40,11 +40,11 @@
     "url": "https://bretterhofer.at",
     "icon": "https://favicons.githubusercontent.com/bretterhofer.at",
     "slug": "bretterhofer-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.61%",
     "time": 1583,
     "timeDay": 1283,
@@ -52,7 +52,7 @@
     "timeMonth": 1662,
     "timeYear": 1578,
     "dailyMinutesDown": {
-      "2022-08-24": 26,
+      "2022-08-24": 18,
       "2022-07-07": 32,
       "2022-07-06": 24,
       "2022-07-04": 21,
@@ -260,7 +260,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-24": 1171,
+      "2022-08-24": 1255,
       "2022-08-23": 1440,
       "2022-08-22": 1440,
       "2022-08-21": 1440,
@@ -632,10 +632,10 @@
     "url": "https://volkstanz.st",
     "icon": "https://favicons.githubusercontent.com/volkstanz.st",
     "slug": "volkstanz-st",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
     "time": 1527,
@@ -644,6 +644,7 @@
     "timeMonth": 1501,
     "timeYear": 1529,
     "dailyMinutesDown": {
+      "2022-08-24": 1,
       "2022-07-07": 31,
       "2022-07-06": 23,
       "2022-07-04": 20,
@@ -713,8 +714,7 @@
       "2021-08-31": 1285,
       "2021-08-30": 55,
       "2021-08-28": 17,
-      "2021-08-26": 18,
-      "2021-08-25": 17
+      "2021-08-26": 18
     }
   },
   {
