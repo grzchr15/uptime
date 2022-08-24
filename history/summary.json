@@ -40,10 +40,10 @@
     "url": "https://bretterhofer.at",
     "icon": "https://favicons.githubusercontent.com/bretterhofer.at",
     "slug": "bretterhofer-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.61%",
     "time": 1583,
@@ -120,8 +120,7 @@
       "2021-09-17": 107,
       "2021-09-16": 56,
       "2021-09-12": 47,
-      "2021-09-11": 53,
-      "2021-09-09": 19
+      "2021-09-11": 53
     }
   },
   {
@@ -261,7 +260,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-24": 1005,
+      "2022-08-24": 1162,
       "2022-08-23": 1440,
       "2022-08-22": 1440,
       "2022-08-21": 1440,
