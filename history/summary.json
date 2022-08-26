@@ -40,9 +40,9 @@
     "url": "https://bretterhofer.at",
     "icon": "https://favicons.githubusercontent.com/bretterhofer.at",
     "slug": "bretterhofer-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "98.72%",
+    "uptimeDay": "98.67%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.61%",
@@ -50,9 +50,9 @@
     "timeDay": 2901,
     "timeWeek": 2596,
     "timeMonth": 1792,
-    "timeYear": 1583,
+    "timeYear": 1581,
     "dailyMinutesDown": {
-      "2022-08-26": 18,
+      "2022-08-26": 19,
       "2022-08-24": 17,
       "2022-07-07": 32,
       "2022-07-06": 24,
@@ -121,7 +121,7 @@
       "2021-09-17": 107,
       "2021-09-16": 56,
       "2021-09-12": 47,
-      "2021-09-11": 53
+      "2021-09-11": 36
     }
   },
   {
@@ -261,7 +261,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-26": 801,
+      "2022-08-26": 1113,
       "2022-08-25": 1440,
       "2022-08-24": 1440,
       "2022-08-23": 1440,
@@ -633,9 +633,9 @@
     "url": "https://volkstanz.st",
     "icon": "https://favicons.githubusercontent.com/volkstanz.st",
     "slug": "volkstanz-st",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "98.75%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "98.72%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.36%",
@@ -643,7 +643,7 @@
     "timeDay": 2896,
     "timeWeek": 2017,
     "timeMonth": 1643,
-    "timeYear": 1535,
+    "timeYear": 1534,
     "dailyMinutesDown": {
       "2022-08-26": 18,
       "2022-07-07": 31,
@@ -732,7 +732,7 @@
     "timeDay": 3597,
     "timeWeek": 2749,
     "timeMonth": 2253,
-    "timeYear": 1767,
+    "timeYear": 1765,
     "dailyMinutesDown": {
       "2022-08-26": 18,
       "2022-07-07": 31,
@@ -821,7 +821,7 @@
     "timeDay": 2073,
     "timeWeek": 2455,
     "timeMonth": 2074,
-    "timeYear": 1834,
+    "timeYear": 1833,
     "dailyMinutesDown": {
       "2022-08-26": 17,
       "2022-07-07": 30,
@@ -893,7 +893,7 @@
     "icon": "https://favicons.githubusercontent.com/andritz.me",
     "slug": "andritz-me",
     "status": "up",
-    "uptime": "98.80%",
+    "uptime": "98.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
