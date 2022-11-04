@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 86,
-    "timeWeek": 82,
-    "timeMonth": 109,
+    "timeDay": 74,
+    "timeWeek": 80,
+    "timeMonth": 99,
     "timeYear": 95,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 102,
-    "timeWeek": 220,
-    "timeMonth": 189,
-    "timeYear": 218,
+    "time": 222,
+    "timeDay": 635,
+    "timeWeek": 300,
+    "timeMonth": 207,
+    "timeYear": 219,
     "dailyMinutesDown": {}
   },
   {
@@ -46,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.78%",
-    "time": 1589,
-    "timeDay": 6397,
-    "timeWeek": 2037,
-    "timeMonth": 1918,
+    "time": 1588,
+    "timeDay": 1093,
+    "timeWeek": 1990,
+    "timeMonth": 1887,
     "timeYear": 1587,
     "dailyMinutesDown": {
       "2022-10-20": 17,
@@ -96,8 +96,7 @@
       "2021-11-12": 15,
       "2021-11-11": 44,
       "2021-11-10": 15,
-      "2021-11-05": 34,
-      "2021-11-04": 34
+      "2021-11-05": 34
     }
   },
   {
@@ -107,14 +106,14 @@
     "slug": "h4-bretterhofer-at",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "93.40%",
-    "uptimeWeek": "94.98%",
-    "uptimeMonth": "94.67%",
+    "uptimeDay": "94.15%",
+    "uptimeWeek": "95.67%",
+    "uptimeMonth": "94.80%",
     "uptimeYear": "98.55%",
     "time": 669,
-    "timeDay": 636,
-    "timeWeek": 1036,
-    "timeMonth": 739,
+    "timeDay": 479,
+    "timeWeek": 1021,
+    "timeMonth": 740,
     "timeYear": 672,
     "dailyMinutesDown": {
       "2022-11-03": 95,
@@ -237,7 +236,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-03": 1223,
+      "2022-11-04": 16,
+      "2022-11-03": 1440,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
@@ -600,8 +600,7 @@
       "2021-11-08": 1440,
       "2021-11-07": 1440,
       "2021-11-06": 1440,
-      "2021-11-05": 1440,
-      "2021-11-04": 1440
+      "2021-11-05": 1440
     }
   },
   {
@@ -611,17 +610,16 @@
     "slug": "volkstanz-st",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.82%",
     "time": 1535,
-    "timeDay": 1187,
-    "timeWeek": 1948,
-    "timeMonth": 1822,
+    "timeDay": 1095,
+    "timeWeek": 1883,
+    "timeMonth": 1818,
     "timeYear": 1525,
     "dailyMinutesDown": {
-      "2022-11-03": 12,
       "2022-10-20": 17,
       "2022-09-28": 20,
       "2022-09-16": 19,
@@ -658,8 +656,7 @@
       "2021-11-23": 19,
       "2021-11-22": 18,
       "2021-11-11": 42,
-      "2021-11-05": 34,
-      "2021-11-04": 34
+      "2021-11-05": 34
     }
   },
   {
@@ -673,11 +670,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 1850,
-    "timeDay": 3032,
-    "timeWeek": 2133,
-    "timeMonth": 2142,
-    "timeYear": 1850,
+    "time": 1849,
+    "timeDay": 1771,
+    "timeWeek": 2121,
+    "timeMonth": 2137,
+    "timeYear": 1851,
     "dailyMinutesDown": {
       "2022-09-28": 19,
       "2022-09-16": 18,
@@ -715,8 +712,7 @@
       "2021-11-23": 18,
       "2021-11-22": 17,
       "2021-11-11": 42,
-      "2021-11-05": 32,
-      "2021-11-04": 33
+      "2021-11-05": 32
     }
   },
   {
@@ -729,12 +725,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.68%",
     "time": 1876,
-    "timeDay": 2067,
-    "timeWeek": 2442,
-    "timeMonth": 2257,
-    "timeYear": 1881,
+    "timeDay": 1622,
+    "timeWeek": 2411,
+    "timeMonth": 2256,
+    "timeYear": 1882,
     "dailyMinutesDown": {
       "2022-09-28": 19,
       "2022-09-21": 777,
@@ -769,8 +765,7 @@
       "2021-11-23": 18,
       "2021-11-22": 17,
       "2021-11-11": 40,
-      "2021-11-05": 32,
-      "2021-11-04": 33
+      "2021-11-05": 32
     }
   },
   {
@@ -784,10 +779,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
-    "time": 562,
-    "timeDay": 590,
-    "timeWeek": 535,
-    "timeMonth": 554,
+    "time": 561,
+    "timeDay": 440,
+    "timeWeek": 514,
+    "timeMonth": 549,
     "timeYear": 566,
     "dailyMinutesDown": {
       "2022-03-04": 460,
