@@ -106,7 +106,7 @@
     "uptime": "99.31%",
     "uptimeDay": "96.32%",
     "uptimeWeek": "96.10%",
-    "uptimeMonth": "95.33%",
+    "uptimeMonth": "95.34%",
     "uptimeYear": "98.61%",
     "time": 692,
     "timeDay": 691,
@@ -234,7 +234,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-11": 1405,
+      "2022-12-12": 12,
+      "2022-12-11": 1440,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
       "2022-12-08": 1440,
@@ -597,8 +598,7 @@
       "2021-12-16": 1440,
       "2021-12-15": 1440,
       "2021-12-14": 1440,
-      "2021-12-13": 1440,
-      "2021-12-12": 1440
+      "2021-12-13": 1440
     }
   },
   {
@@ -663,9 +663,9 @@
     "slug": "volkstanzwannwo-at",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.82%",
     "time": 1919,
     "timeDay": 3056,
@@ -673,7 +673,6 @@
     "timeMonth": 2678,
     "timeYear": 1950,
     "dailyMinutesDown": {
-      "2022-12-11": 11,
       "2022-12-02": 24,
       "2022-11-30": 21,
       "2022-11-27": 22,
@@ -726,7 +725,7 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.69%",
     "time": 1902,
-    "timeDay": 3234,
+    "timeDay": 3806,
     "timeWeek": 2260,
     "timeMonth": 2141,
     "timeYear": 1920,
