@@ -104,18 +104,19 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "94.62%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "94.74%",
     "uptimeWeek": "95.81%",
     "uptimeMonth": "95.72%",
-    "uptimeYear": "98.66%",
+    "uptimeYear": "98.68%",
     "time": 705,
     "timeDay": 451,
     "timeWeek": 957,
     "timeMonth": 858,
     "timeYear": 728,
     "dailyMinutesDown": {
+      "2023-01-01": 0,
       "2022-12-31": 77,
       "2022-12-30": 58,
       "2022-12-29": 59,
@@ -215,8 +216,7 @@
       "2022-09-26": 87,
       "2022-09-25": 86,
       "2022-09-24": 57,
-      "2022-09-23": 91,
-      "2022-09-22": 56
+      "2022-09-23": 56
     }
   },
   {
@@ -236,7 +236,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-31": 1433,
+      "2023-01-01": 11,
+      "2022-12-31": 1440,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
@@ -599,8 +600,7 @@
       "2022-01-05": 1440,
       "2022-01-04": 1440,
       "2022-01-03": 1440,
-      "2022-01-02": 1440,
-      "2022-01-01": 1440
+      "2022-01-02": 1440
     }
   },
   {
@@ -785,9 +785,9 @@
     "slug": "andritz-me",
     "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "55.81%",
-    "uptimeWeek": "93.41%",
-    "uptimeMonth": "98.48%",
+    "uptimeDay": "56.58%",
+    "uptimeWeek": "93.50%",
+    "uptimeMonth": "98.50%",
     "uptimeYear": "99.16%",
     "time": 560,
     "timeDay": 550,
@@ -795,7 +795,7 @@
     "timeMonth": 551,
     "timeYear": 569,
     "dailyMinutesDown": {
-      "2022-12-31": 636,
+      "2022-12-31": 627,
       "2022-12-30": 28,
       "2022-03-04": 460,
       "2022-03-03": 509,
