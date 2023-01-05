@@ -104,18 +104,19 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "95.96%",
-    "uptimeWeek": "95.35%",
+    "uptimeDay": "95.93%",
+    "uptimeWeek": "95.34%",
     "uptimeMonth": "95.68%",
-    "uptimeYear": "98.67%",
+    "uptimeYear": "98.68%",
     "time": 728,
     "timeDay": 2842,
     "timeWeek": 1598,
     "timeMonth": 1078,
     "timeYear": 756,
     "dailyMinutesDown": {
+      "2023-01-05": 0,
       "2023-01-04": 58,
       "2023-01-03": 51,
       "2023-01-02": 82,
@@ -215,8 +216,7 @@
       "2022-09-30": 65,
       "2022-09-29": 58,
       "2022-09-28": 58,
-      "2022-09-27": 83,
-      "2022-09-26": 56
+      "2022-09-27": 57
     }
   },
   {
@@ -236,7 +236,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-05": 12,
+      "2023-01-05": 16,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
       "2023-01-02": 1440,
@@ -786,8 +786,8 @@
     "status": "down",
     "uptime": "98.48%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.92%",
-    "uptimeMonth": "86.87%",
+    "uptimeWeek": "42.88%",
+    "uptimeMonth": "86.86%",
     "uptimeYear": "98.19%",
     "time": 564,
     "timeDay": 0,
@@ -795,7 +795,7 @@
     "timeMonth": 557,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2023-01-05": 13,
+      "2023-01-05": 16,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
       "2023-01-02": 1440,
