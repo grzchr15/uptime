@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 73,
-    "timeWeek": 120,
-    "timeMonth": 105,
-    "timeYear": 98,
+    "timeDay": 372,
+    "timeWeek": 162,
+    "timeMonth": 114,
+    "timeYear": 99,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 305,
+    "timeDay": 157,
     "timeWeek": 169,
-    "timeMonth": 210,
+    "timeMonth": 206,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2023-01-25": 25
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "96.99%",
     "uptimeYear": "99.53%",
-    "time": 1664,
-    "timeDay": 2649,
-    "timeWeek": 2444,
-    "timeMonth": 1802,
-    "timeYear": 1714,
+    "time": 1692,
+    "timeDay": 1348,
+    "timeWeek": 2451,
+    "timeMonth": 1729,
+    "timeYear": 1722,
     "dailyMinutesDown": {
       "2023-02-13": 16,
       "2023-02-09": 390,
@@ -99,8 +99,7 @@
       "2022-03-03": 15,
       "2022-02-25": 19,
       "2022-02-24": 18,
-      "2022-02-23": 17,
-      "2022-02-19": 21
+      "2022-02-23": 17
     }
   },
   {
@@ -110,15 +109,15 @@
     "slug": "h4-bretterhofer-at",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "93.70%",
-    "uptimeWeek": "94.72%",
+    "uptimeDay": "94.87%",
+    "uptimeWeek": "94.82%",
     "uptimeMonth": "95.20%",
     "uptimeYear": "98.77%",
     "time": 761,
-    "timeDay": 635,
+    "timeDay": 688,
     "timeWeek": 638,
-    "timeMonth": 731,
-    "timeYear": 796,
+    "timeMonth": 710,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2023-02-18": 86,
       "2023-02-17": 64,
@@ -238,7 +237,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-18": 88,
+      "2023-02-19": 14,
+      "2023-02-18": 1440,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
@@ -601,8 +601,7 @@
       "2022-02-23": 1440,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
-      "2022-02-20": 1440,
-      "2022-02-19": 1440
+      "2022-02-20": 1440
     }
   },
   {
@@ -615,12 +614,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "97.00%",
-    "uptimeYear": "99.55%",
-    "time": 1538,
-    "timeDay": 980,
-    "timeWeek": 1866,
-    "timeMonth": 1572,
-    "timeYear": 1564,
+    "uptimeYear": "99.56%",
+    "time": 1545,
+    "timeDay": 6114,
+    "timeWeek": 2139,
+    "timeMonth": 1646,
+    "timeYear": 1580,
     "dailyMinutesDown": {
       "2023-02-13": 15,
       "2023-02-09": 390,
@@ -662,8 +661,7 @@
       "2022-03-07": 19,
       "2022-02-25": 19,
       "2022-02-24": 16,
-      "2022-02-23": 17,
-      "2022-02-19": 21
+      "2022-02-23": 17
     }
   },
   {
@@ -677,11 +675,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.00%",
     "uptimeYear": "99.56%",
-    "time": 2119,
-    "timeDay": 2002,
-    "timeWeek": 2518,
-    "timeMonth": 3040,
-    "timeYear": 2197,
+    "time": 2120,
+    "timeDay": 2006,
+    "timeWeek": 2508,
+    "timeMonth": 3034,
+    "timeYear": 2210,
     "dailyMinutesDown": {
       "2023-02-09": 390,
       "2023-02-08": 783,
@@ -722,8 +720,7 @@
       "2022-03-07": 17,
       "2022-02-25": 19,
       "2022-02-24": 1,
-      "2022-02-23": 16,
-      "2022-02-19": 20
+      "2022-02-23": 16
     }
   },
   {
@@ -737,11 +734,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.06%",
     "uptimeYear": "99.43%",
-    "time": 2080,
-    "timeDay": 4023,
-    "timeWeek": 3256,
-    "timeMonth": 3190,
-    "timeYear": 2138,
+    "time": 2081,
+    "timeDay": 1850,
+    "timeWeek": 2792,
+    "timeMonth": 3073,
+    "timeYear": 2150,
     "dailyMinutesDown": {
       "2023-02-09": 390,
       "2023-02-08": 783,
@@ -781,8 +778,7 @@
       "2022-03-21": 17,
       "2022-02-25": 19,
       "2022-02-24": 16,
-      "2022-02-23": 16,
-      "2022-02-19": 20
+      "2022-02-23": 16
     }
   },
   {
@@ -791,18 +787,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "93.04%",
+    "uptime": "92.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.13%",
+    "uptimeYear": "86.00%",
     "time": 563,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 569,
     "dailyMinutesDown": {
-      "2023-02-18": 88,
+      "2023-02-19": 14,
+      "2023-02-18": 1440,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
@@ -855,8 +852,7 @@
       "2022-12-30": 28,
       "2022-03-04": 460,
       "2022-03-03": 509,
-      "2022-02-20": 634,
-      "2022-02-19": 1440
+      "2022-02-20": 634
     }
   }
 ]
