@@ -105,18 +105,19 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "95.73%",
+    "uptimeDay": "95.72%",
     "uptimeWeek": "96.39%",
     "uptimeMonth": "95.94%",
-    "uptimeYear": "98.80%",
+    "uptimeYear": "98.82%",
     "time": 781,
     "timeDay": 743,
     "timeWeek": 605,
     "timeMonth": 827,
     "timeYear": 819,
     "dailyMinutesDown": {
+      "2023-03-10": 0,
       "2023-03-09": 61,
       "2023-03-08": 62,
       "2023-03-07": 63,
@@ -214,8 +215,7 @@
       "2022-12-04": 58,
       "2022-12-03": 47,
       "2022-12-02": 84,
-      "2022-12-01": 66,
-      "2022-11-30": 86
+      "2022-12-01": 66
     }
   },
   {
@@ -235,7 +235,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-10": 13,
+      "2023-03-10": 27,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
       "2023-03-07": 1440,
@@ -789,7 +789,7 @@
     "timeMonth": 0,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2023-03-10": 14,
+      "2023-03-10": 27,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
       "2023-03-07": 1440,
