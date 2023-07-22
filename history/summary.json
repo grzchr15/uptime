@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 101,
     "timeDay": 91,
-    "timeWeek": 128,
+    "timeWeek": 133,
     "timeMonth": 112,
     "timeYear": 106,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 201,
     "timeDay": 84,
-    "timeWeek": 167,
+    "timeWeek": 176,
     "timeMonth": 198,
     "timeYear": 199,
     "dailyMinutesDown": {
@@ -50,7 +50,7 @@
     "uptimeYear": "99.33%",
     "time": 1657,
     "timeDay": 1392,
-    "timeWeek": 1420,
+    "timeWeek": 1381,
     "timeMonth": 1466,
     "timeYear": 1668,
     "dailyMinutesDown": {
@@ -116,16 +116,17 @@
     "status": "down",
     "uptime": "99.44%",
     "uptimeDay": "94.50%",
-    "uptimeWeek": "94.29%",
+    "uptimeWeek": "94.19%",
     "uptimeMonth": "94.75%",
-    "uptimeYear": "98.55%",
+    "uptimeYear": "98.53%",
     "time": 814,
     "timeDay": 741,
-    "timeWeek": 600,
+    "timeWeek": 617,
     "timeMonth": 660,
     "timeYear": 815,
     "dailyMinutesDown": {
-      "2023-07-21": 23,
+      "2023-07-22": 12,
+      "2023-07-21": 80,
       "2023-07-20": 67,
       "2023-07-19": 95,
       "2023-07-18": 99,
@@ -244,7 +245,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 1384,
+      "2023-07-22": 12,
+      "2023-07-21": 1440,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
@@ -607,8 +609,7 @@
       "2022-07-26": 1440,
       "2022-07-25": 1440,
       "2022-07-24": 1440,
-      "2022-07-23": 1440,
-      "2022-07-22": 1440
+      "2022-07-23": 1440
     }
   },
   {
@@ -822,14 +823,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "44.67%",
+    "uptimeYear": "44.66%",
     "time": 551,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2023-07-21": 1384,
+      "2023-07-22": 13,
+      "2023-07-21": 1440,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
