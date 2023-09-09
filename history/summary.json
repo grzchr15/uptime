@@ -112,7 +112,7 @@
     "slug": "h4-bretterhofer-at",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "94.71%",
+    "uptimeDay": "94.80%",
     "uptimeWeek": "95.23%",
     "uptimeMonth": "95.08%",
     "uptimeYear": "98.57%",
@@ -242,7 +242,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-09": 10,
+      "2023-09-09": 11,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
@@ -827,7 +827,7 @@
     "timeMonth": 0,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2023-09-09": 10,
+      "2023-09-09": 11,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
