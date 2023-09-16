@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 83,
+    "timeDay": 91,
     "timeWeek": 79,
     "timeMonth": 99,
     "timeYear": 108,
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 485,
+    "timeDay": 548,
     "timeWeek": 312,
     "timeMonth": 241,
-    "timeYear": 201,
+    "timeYear": 202,
     "dailyMinutesDown": {
       "2023-01-25": 25
     }
@@ -42,18 +42,19 @@
     "url": "https://bretterhofer.at",
     "icon": "https://icons.duckduckgo.com/ip3/bretterhofer.at.ico",
     "slug": "bretterhofer-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.37%",
-    "time": 1652,
+    "time": 1653,
     "timeDay": 1752,
     "timeWeek": 2179,
     "timeMonth": 1637,
     "timeYear": 1637,
     "dailyMinutesDown": {
+      "2023-09-16": 2,
       "2023-08-15": 18,
       "2023-08-01": 60,
       "2023-07-21": 20,
@@ -100,8 +101,7 @@
       "2022-11-29": 15,
       "2022-11-27": 23,
       "2022-11-17": 22,
-      "2022-10-20": 17,
-      "2022-09-16": 19
+      "2022-10-20": 17
     }
   },
   {
@@ -109,19 +109,20 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
-    "status": "down",
+    "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "94.54%",
-    "uptimeWeek": "95.07%",
-    "uptimeMonth": "95.07%",
-    "uptimeYear": "98.59%",
+    "uptimeDay": "94.67%",
+    "uptimeWeek": "95.09%",
+    "uptimeMonth": "95.06%",
+    "uptimeYear": "98.58%",
     "time": 807,
-    "timeDay": 506,
-    "timeWeek": 649,
-    "timeMonth": 787,
+    "timeDay": 533,
+    "timeWeek": 638,
+    "timeMonth": 778,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2023-09-15": 22,
+      "2023-09-16": 7,
+      "2023-09-15": 79,
       "2023-09-14": 78,
       "2023-09-13": 70,
       "2023-09-12": 60,
@@ -240,7 +241,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-15": 1384,
+      "2023-09-16": 9,
+      "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
@@ -603,8 +605,7 @@
       "2022-09-20": 1440,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
-      "2022-09-17": 1440,
-      "2022-09-16": 1440
+      "2022-09-17": 1440
     }
   },
   {
@@ -612,10 +613,10 @@
     "url": "https://volkstanz.st",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanz.st.ico",
     "slug": "volkstanz-st",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.48%",
     "time": 1492,
@@ -624,6 +625,7 @@
     "timeMonth": 1472,
     "timeYear": 1471,
     "dailyMinutesDown": {
+      "2023-09-16": 1,
       "2023-09-13": 17,
       "2023-08-15": 18,
       "2023-08-04": 35,
@@ -668,8 +670,7 @@
       "2022-11-30": 22,
       "2022-11-17": 22,
       "2022-10-20": 17,
-      "2022-09-28": 20,
-      "2022-09-16": 19
+      "2022-09-28": 20
     }
   },
   {
@@ -677,10 +678,10 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanzwannwo.at.ico",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.21%",
     "time": 2459,
@@ -689,6 +690,7 @@
     "timeMonth": 2359,
     "timeYear": 2483,
     "dailyMinutesDown": {
+      "2023-09-16": 1,
       "2023-09-13": 16,
       "2023-08-15": 17,
       "2023-08-14": 19,
@@ -736,8 +738,7 @@
       "2022-11-27": 22,
       "2022-11-17": 42,
       "2022-11-04": 23,
-      "2022-09-28": 19,
-      "2022-09-16": 18
+      "2022-09-28": 19
     }
   },
   {
@@ -745,10 +746,10 @@
     "url": "https://kinderundjugendtanz.at",
     "icon": "https://icons.duckduckgo.com/ip3/kinderundjugendtanz.at.ico",
     "slug": "kinderundjugendtanz-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
     "time": 2255,
@@ -757,6 +758,7 @@
     "timeMonth": 2314,
     "timeYear": 2269,
     "dailyMinutesDown": {
+      "2023-09-16": 1,
       "2023-08-15": 42,
       "2023-08-14": 19,
       "2023-08-04": 32,
@@ -803,8 +805,7 @@
       "2022-11-04": 22,
       "2022-09-28": 19,
       "2022-09-21": 777,
-      "2022-09-20": 56,
-      "2022-09-16": 18
+      "2022-09-20": 56
     }
   },
   {
@@ -817,14 +818,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.33%",
+    "uptimeYear": "29.32%",
     "time": 549,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2023-09-15": 1384,
+      "2023-09-16": 9,
+      "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
