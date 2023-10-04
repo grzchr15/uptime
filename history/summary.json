@@ -14,7 +14,7 @@
     "timeDay": 98,
     "timeWeek": 90,
     "timeMonth": 90,
-    "timeYear": 108,
+    "timeYear": 107,
     "dailyMinutesDown": {}
   },
   {
@@ -117,14 +117,15 @@
     "uptimeDay": "94.72%",
     "uptimeWeek": "95.13%",
     "uptimeMonth": "95.23%",
-    "uptimeYear": "98.62%",
+    "uptimeYear": "98.61%",
     "time": 804,
     "timeDay": 716,
     "timeWeek": 674,
     "timeMonth": 774,
     "timeYear": 805,
     "dailyMinutesDown": {
-      "2023-10-03": 20,
+      "2023-10-04": 11,
+      "2023-10-03": 76,
       "2023-10-02": 80,
       "2023-10-01": 62,
       "2023-09-30": 77,
@@ -243,7 +244,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 1384,
+      "2023-10-04": 11,
+      "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -606,8 +608,7 @@
       "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
-      "2022-10-05": 1440,
-      "2022-10-04": 1440
+      "2022-10-05": 1440
     }
   },
   {
@@ -820,18 +821,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "72.37%",
+    "uptime": "72.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "24.40%",
+    "uptimeYear": "24.38%",
     "time": 552,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2023-10-03": 1384,
+      "2023-10-04": 12,
+      "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
