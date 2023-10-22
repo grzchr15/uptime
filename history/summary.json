@@ -32,7 +32,7 @@
     "timeDay": 208,
     "timeWeek": 222,
     "timeMonth": 176,
-    "timeYear": 202,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2023-01-25": 25
     }
@@ -52,7 +52,7 @@
     "timeDay": 1191,
     "timeWeek": 1377,
     "timeMonth": 1577,
-    "timeYear": 1625,
+    "timeYear": 1623,
     "dailyMinutesDown": {
       "2023-10-15": 37,
       "2023-10-10": 26,
@@ -114,18 +114,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "99.52%",
+    "uptime": "99.51%",
     "uptimeDay": "94.60%",
     "uptimeWeek": "94.47%",
     "uptimeMonth": "94.97%",
-    "uptimeYear": "98.62%",
+    "uptimeYear": "98.61%",
     "time": 800,
     "timeDay": 573,
     "timeWeek": 593,
-    "timeMonth": 657,
+    "timeMonth": 665,
     "timeYear": 806,
     "dailyMinutesDown": {
-      "2023-10-21": 21,
+      "2023-10-22": 12,
+      "2023-10-21": 78,
       "2023-10-20": 82,
       "2023-10-19": 81,
       "2023-10-18": 75,
@@ -244,7 +245,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-21": 1384,
+      "2023-10-22": 12,
+      "2023-10-21": 1440,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
@@ -607,8 +609,7 @@
       "2022-10-26": 1440,
       "2022-10-25": 1440,
       "2022-10-24": 1440,
-      "2022-10-23": 1440,
-      "2022-10-22": 1440
+      "2022-10-23": 1440
     }
   },
   {
@@ -823,18 +824,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "71.12%",
+    "uptime": "71.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "19.47%",
+    "uptimeYear": "19.45%",
     "time": 553,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2023-10-21": 1384,
+      "2023-10-22": 13,
+      "2023-10-21": 1440,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
