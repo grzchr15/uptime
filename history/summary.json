@@ -32,7 +32,7 @@
     "timeDay": 206,
     "timeWeek": 2771,
     "timeMonth": 842,
-    "timeYear": 253,
+    "timeYear": 254,
     "dailyMinutesDown": {
       "2023-01-25": 25
     }
@@ -114,18 +114,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "99.53%",
+    "uptime": "99.52%",
     "uptimeDay": "94.94%",
     "uptimeWeek": "94.78%",
     "uptimeMonth": "94.88%",
-    "uptimeYear": "98.63%",
+    "uptimeYear": "98.62%",
     "time": 802,
     "timeDay": 772,
     "timeWeek": 760,
-    "timeMonth": 687,
+    "timeMonth": 672,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2023-10-27": 16,
+      "2023-10-28": 11,
+      "2023-10-27": 73,
       "2023-10-26": 78,
       "2023-10-25": 79,
       "2023-10-24": 79,
@@ -244,7 +245,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-27": 1384,
+      "2023-10-28": 11,
+      "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
@@ -607,8 +609,7 @@
       "2022-11-01": 1440,
       "2022-10-31": 1440,
       "2022-10-30": 1440,
-      "2022-10-29": 1440,
-      "2022-10-28": 1440
+      "2022-10-29": 1440
     }
   },
   {
@@ -827,14 +828,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "17.82%",
+    "uptimeYear": "17.81%",
     "time": 553,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2023-10-27": 1384,
+      "2023-10-28": 11,
+      "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
