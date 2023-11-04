@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 98,
-    "timeWeek": 96,
-    "timeMonth": 138,
+    "time": 106,
+    "timeDay": 70,
+    "timeWeek": 87,
+    "timeMonth": 137,
     "timeYear": 110,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 90,
-    "timeWeek": 114,
-    "timeMonth": 779,
-    "timeYear": 251,
+    "timeDay": 177,
+    "timeWeek": 110,
+    "timeMonth": 781,
+    "timeYear": 250,
     "dailyMinutesDown": {
       "2023-01-25": 25
     }
@@ -49,10 +49,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.34%",
     "time": 1645,
-    "timeDay": 1433,
-    "timeWeek": 2445,
-    "timeMonth": 1696,
-    "timeYear": 1625,
+    "timeDay": 1401,
+    "timeWeek": 2491,
+    "timeMonth": 1670,
+    "timeYear": 1626,
     "dailyMinutesDown": {
       "2023-10-15": 37,
       "2023-10-10": 26,
@@ -115,15 +115,15 @@
     "slug": "h4-bretterhofer-at",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "94.96%",
-    "uptimeWeek": "95.44%",
-    "uptimeMonth": "94.78%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "94.93%",
     "uptimeYear": "98.63%",
     "time": 802,
-    "timeDay": 582,
-    "timeWeek": 713,
-    "timeMonth": 692,
-    "timeYear": 801,
+    "timeDay": 671,
+    "timeWeek": 724,
+    "timeMonth": 696,
+    "timeYear": 802,
     "dailyMinutesDown": {
       "2023-11-03": 73,
       "2023-11-02": 54,
@@ -245,7 +245,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-03": 81,
+      "2023-11-04": 11,
+      "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
@@ -608,8 +609,7 @@
       "2022-11-08": 1440,
       "2022-11-07": 1440,
       "2022-11-06": 1440,
-      "2022-11-05": 1440,
-      "2022-11-04": 1440
+      "2022-11-05": 1440
     }
   },
   {
@@ -623,11 +623,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.46%",
-    "time": 1467,
-    "timeDay": 1404,
-    "timeWeek": 1328,
-    "timeMonth": 1304,
-    "timeYear": 1427,
+    "time": 1466,
+    "timeDay": 1165,
+    "timeWeek": 1312,
+    "timeMonth": 1290,
+    "timeYear": 1428,
     "dailyMinutesDown": {
       "2023-10-15": 19,
       "2023-10-10": 26,
@@ -692,9 +692,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.20%",
     "time": 2493,
-    "timeDay": 2046,
-    "timeWeek": 2233,
-    "timeMonth": 2327,
+    "timeDay": 2033,
+    "timeWeek": 2211,
+    "timeMonth": 2293,
     "timeYear": 2490,
     "dailyMinutesDown": {
       "2023-10-09": 19,
@@ -747,8 +747,7 @@
       "2022-12-02": 24,
       "2022-11-30": 21,
       "2022-11-27": 22,
-      "2022-11-17": 42,
-      "2022-11-04": 23
+      "2022-11-17": 42
     }
   },
   {
@@ -763,9 +762,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 2269,
-    "timeDay": 1787,
-    "timeWeek": 1914,
-    "timeMonth": 2328,
+    "timeDay": 1630,
+    "timeWeek": 1837,
+    "timeMonth": 2250,
     "timeYear": 2283,
     "dailyMinutesDown": {
       "2023-10-01": 19,
@@ -814,8 +813,7 @@
       "2022-12-15": 40,
       "2022-12-02": 23,
       "2022-11-30": 21,
-      "2022-11-27": 22,
-      "2022-11-04": 22
+      "2022-11-27": 22
     }
   },
   {
@@ -824,18 +822,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "70.30%",
+    "uptime": "70.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.15%",
-    "time": 553,
+    "uptimeYear": "15.89%",
+    "time": 554,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 554,
+    "timeYear": 555,
     "dailyMinutesDown": {
-      "2023-11-03": 82,
+      "2023-11-04": 12,
+      "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
