@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 96,
-    "timeWeek": 85,
-    "timeMonth": 96,
+    "timeDay": 61,
+    "timeWeek": 81,
+    "timeMonth": 93,
     "timeYear": 110,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 151,
-    "timeWeek": 204,
-    "timeMonth": 197,
-    "timeYear": 252,
+    "timeDay": 197,
+    "timeWeek": 222,
+    "timeMonth": 190,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2023-01-25": 25
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
-    "time": 1623,
-    "timeDay": 1759,
-    "timeWeek": 1568,
-    "timeMonth": 1346,
-    "timeYear": 1593,
+    "time": 1622,
+    "timeDay": 1066,
+    "timeWeek": 1509,
+    "timeMonth": 1342,
+    "timeYear": 1589,
     "dailyMinutesDown": {
       "2023-10-15": 37,
       "2023-10-10": 26,
@@ -99,8 +99,7 @@
       "2023-01-12": 35,
       "2022-12-23": 33,
       "2022-12-22": 47,
-      "2022-12-16": 23,
-      "2022-12-15": 45
+      "2022-12-16": 23
     }
   },
   {
@@ -108,18 +107,19 @@
     "url": "https://h4.bretterhofer.at/toggle.php",
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "96.09%",
+    "status": "down",
+    "uptime": "99.59%",
+    "uptimeDay": "96.07%",
     "uptimeWeek": "95.91%",
     "uptimeMonth": "96.10%",
-    "uptimeYear": "98.74%",
+    "uptimeYear": "98.76%",
     "time": 789,
-    "timeDay": 1129,
-    "timeWeek": 796,
-    "timeMonth": 730,
+    "timeDay": 580,
+    "timeWeek": 790,
+    "timeMonth": 727,
     "timeYear": 784,
     "dailyMinutesDown": {
+      "2023-12-15": 0,
       "2023-12-14": 56,
       "2023-12-13": 57,
       "2023-12-12": 52,
@@ -219,8 +219,7 @@
       "2023-09-09": 66,
       "2023-09-08": 76,
       "2023-09-07": 69,
-      "2023-09-06": 62,
-      "2023-09-05": 57
+      "2023-09-06": 57
     }
   },
   {
@@ -240,7 +239,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-14": 81,
+      "2023-12-15": 2,
+      "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
@@ -603,8 +603,7 @@
       "2022-12-19": 1440,
       "2022-12-18": 1440,
       "2022-12-17": 1440,
-      "2022-12-16": 1440,
-      "2022-12-15": 1440
+      "2022-12-16": 1440
     }
   },
   {
@@ -618,11 +617,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
-    "time": 1438,
-    "timeDay": 1283,
-    "timeWeek": 1250,
-    "timeMonth": 1207,
-    "timeYear": 1419,
+    "time": 1437,
+    "timeDay": 862,
+    "timeWeek": 1186,
+    "timeMonth": 1199,
+    "timeYear": 1418,
     "dailyMinutesDown": {
       "2023-10-15": 19,
       "2023-10-10": 26,
@@ -668,8 +667,7 @@
       "2023-01-12": 34,
       "2022-12-23": 33,
       "2022-12-22": 47,
-      "2022-12-16": 45,
-      "2022-12-15": 42
+      "2022-12-16": 45
     }
   },
   {
@@ -684,10 +682,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.23%",
     "time": 2457,
-    "timeDay": 2245,
-    "timeWeek": 2161,
-    "timeMonth": 2035,
-    "timeYear": 2455,
+    "timeDay": 1755,
+    "timeWeek": 2093,
+    "timeMonth": 2007,
+    "timeYear": 2451,
     "dailyMinutesDown": {
       "2023-10-09": 19,
       "2023-09-30": 22,
@@ -734,8 +732,7 @@
       "2023-01-12": 34,
       "2022-12-23": 49,
       "2022-12-22": 46,
-      "2022-12-16": 45,
-      "2022-12-15": 41
+      "2022-12-16": 45
     }
   },
   {
@@ -749,11 +746,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.46%",
-    "time": 2272,
-    "timeDay": 1844,
-    "timeWeek": 1965,
-    "timeMonth": 1890,
-    "timeYear": 2276,
+    "time": 2271,
+    "timeDay": 2560,
+    "timeWeek": 2020,
+    "timeMonth": 1909,
+    "timeYear": 2274,
     "dailyMinutesDown": {
       "2023-10-01": 19,
       "2023-09-30": 21,
@@ -797,8 +794,7 @@
       "2023-01-12": 32,
       "2022-12-23": 16,
       "2022-12-22": 46,
-      "2022-12-16": 44,
-      "2022-12-15": 40
+      "2022-12-16": 44
     }
   },
   {
@@ -807,18 +803,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "67.67%",
+    "uptime": "67.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "4.92%",
+    "uptimeYear": "4.66%",
     "time": 555,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 561,
+    "timeYear": 559,
     "dailyMinutesDown": {
-      "2023-12-14": 81,
+      "2023-12-15": 2,
+      "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
