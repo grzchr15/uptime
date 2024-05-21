@@ -1,7 +1,7 @@
 url: https://h4.bretterhofer.at/toggle.php
-status: up
-code: 200
-responseTime: 491
-lastUpdated: 2024-05-20T23:03:27.600Z
+status: down
+code: 500
+responseTime: 727
+lastUpdated: 2024-05-21T01:21:03.469Z
 startTime: 2020-12-10T23:02:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
