@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 359,
-    "timeWeek": 137,
+    "timeDay": 87,
+    "timeWeek": 141,
     "timeMonth": 120,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 178,
-    "timeWeek": 218,
-    "timeMonth": 228,
+    "timeDay": 71,
+    "timeWeek": 197,
+    "timeMonth": 224,
     "timeYear": 249,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.83%",
-    "time": 1505,
-    "timeDay": 1139,
-    "timeWeek": 1344,
-    "timeMonth": 1441,
-    "timeYear": 1501,
+    "time": 1506,
+    "timeDay": 1918,
+    "timeWeek": 1445,
+    "timeMonth": 1466,
+    "timeYear": 1503,
     "dailyMinutesDown": {
       "2024-06-04": 31,
       "2024-03-21": 32,
@@ -75,8 +75,7 @@
       "2023-07-04": 60,
       "2023-06-28": 22,
       "2023-06-23": 18,
-      "2023-06-19": 77,
-      "2023-06-17": 34
+      "2023-06-19": 77
     }
   },
   {
@@ -85,18 +84,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "93.20%",
+    "uptime": "93.19%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.26%",
-    "uptimeMonth": "91.91%",
-    "uptimeYear": "76.11%",
+    "uptimeWeek": "74.51%",
+    "uptimeMonth": "91.50%",
+    "uptimeYear": "76.08%",
     "time": 665,
     "timeDay": 0,
-    "timeWeek": 597,
-    "timeMonth": 636,
+    "timeWeek": 599,
+    "timeMonth": 638,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2024-06-15": 1278,
+      "2024-06-16": 14,
+      "2024-06-15": 1440,
       "2024-06-14": 857,
       "2024-06-13": 47,
       "2024-06-12": 57,
@@ -297,7 +297,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-15": 1278,
+      "2024-06-16": 14,
+      "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -660,8 +661,7 @@
       "2023-06-21": 1440,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
-      "2023-06-18": 1440,
-      "2023-06-17": 1440
+      "2023-06-18": 1440
     }
   },
   {
@@ -675,11 +675,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1320,
-    "timeDay": 995,
-    "timeWeek": 1077,
-    "timeMonth": 1406,
-    "timeYear": 1316,
+    "time": 1321,
+    "timeDay": 1610,
+    "timeWeek": 1163,
+    "timeMonth": 1425,
+    "timeYear": 1317,
     "dailyMinutesDown": {
       "2024-03-21": 31,
       "2024-02-07": 21,
@@ -701,8 +701,7 @@
       "2023-07-11": 17,
       "2023-07-08": 17,
       "2023-07-04": 58,
-      "2023-06-19": 17,
-      "2023-06-17": 34
+      "2023-06-19": 17
     }
   },
   {
@@ -714,13 +713,13 @@
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.86%",
-    "time": 2389,
-    "timeDay": 2180,
-    "timeWeek": 2476,
-    "timeMonth": 2400,
-    "timeYear": 2398,
+    "time": 2390,
+    "timeDay": 2519,
+    "timeWeek": 2503,
+    "timeMonth": 2426,
+    "timeYear": 2399,
     "dailyMinutesDown": {
       "2024-05-16": 24,
       "2024-05-15": 3,
@@ -742,8 +741,7 @@
       "2023-07-11": 16,
       "2023-07-04": 58,
       "2023-06-28": 40,
-      "2023-06-19": 38,
-      "2023-06-17": 32
+      "2023-06-19": 38
     }
   },
   {
@@ -753,17 +751,16 @@
     "slug": "kinderundjugendtanz-at",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 2107,
-    "timeDay": 2683,
-    "timeWeek": 2885,
-    "timeMonth": 2293,
-    "timeYear": 2100,
+    "time": 2108,
+    "timeDay": 2621,
+    "timeWeek": 2874,
+    "timeMonth": 2312,
+    "timeYear": 2101,
     "dailyMinutesDown": {
-      "2024-06-15": 11,
       "2024-02-07": 20,
       "2024-02-05": 175,
       "2023-10-01": 19,
@@ -780,8 +777,7 @@
       "2023-07-13": 16,
       "2023-07-11": 16,
       "2023-07-04": 57,
-      "2023-06-19": 37,
-      "2023-06-17": 32
+      "2023-06-19": 37
     }
   },
   {
@@ -801,7 +797,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-15": 1278,
+      "2024-06-16": 14,
+      "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -1164,8 +1161,7 @@
       "2023-06-21": 1440,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
-      "2023-06-18": 1440,
-      "2023-06-17": 1440
+      "2023-06-18": 1440
     }
   }
 ]
