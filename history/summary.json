@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 87,
-    "timeWeek": 94,
-    "timeMonth": 104,
+    "timeDay": 84,
+    "timeWeek": 92,
+    "timeMonth": 100,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2024-05-01": 32
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 443,
-    "timeWeek": 323,
+    "time": 246,
+    "timeDay": 230,
+    "timeWeek": 324,
     "timeMonth": 248,
-    "timeYear": 262,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1504,
-    "timeDay": 1632,
-    "timeWeek": 1516,
-    "timeMonth": 1538,
-    "timeYear": 1479,
+    "time": 1503,
+    "timeDay": 1302,
+    "timeWeek": 1453,
+    "timeMonth": 1493,
+    "timeYear": 1480,
     "dailyMinutesDown": {
       "2024-06-27": 16,
       "2024-06-20": 16,
@@ -61,8 +61,7 @@
       "2024-02-07": 22,
       "2024-02-05": 174,
       "2023-10-15": 37,
-      "2023-10-10": 26,
-      "2023-09-30": 23
+      "2023-10-10": 26
     }
   },
   {
@@ -71,18 +70,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "86.21%",
+    "uptime": "86.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.58%",
+    "uptimeYear": "47.31%",
     "time": 671,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2024-09-28": 15,
+      "2024-09-29": 17,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -388,7 +388,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-28": 15,
+      "2024-09-29": 17,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -751,8 +752,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -767,9 +767,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1265,
-    "timeDay": 1744,
-    "timeWeek": 1686,
-    "timeMonth": 1343,
+    "timeDay": 1051,
+    "timeWeek": 1682,
+    "timeMonth": 1329,
     "timeYear": 1244,
     "dailyMinutesDown": {
       "2024-06-27": 16,
@@ -777,8 +777,7 @@
       "2024-02-07": 21,
       "2024-02-05": 175,
       "2023-10-15": 19,
-      "2023-10-10": 26,
-      "2023-09-30": 22
+      "2023-10-10": 26
     }
   },
   {
@@ -793,10 +792,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 2393,
-    "timeDay": 3884,
-    "timeWeek": 2722,
-    "timeMonth": 2372,
-    "timeYear": 2380,
+    "timeDay": 1945,
+    "timeWeek": 2765,
+    "timeMonth": 2369,
+    "timeYear": 2381,
     "dailyMinutesDown": {
       "2024-08-26": 16,
       "2024-06-20": 15,
@@ -804,8 +803,7 @@
       "2024-05-15": 3,
       "2024-02-07": 21,
       "2024-02-05": 175,
-      "2023-10-09": 19,
-      "2023-09-30": 22
+      "2023-10-09": 19
     }
   },
   {
@@ -819,16 +817,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 2138,
-    "timeDay": 4050,
-    "timeWeek": 2359,
-    "timeMonth": 2251,
-    "timeYear": 2095,
+    "time": 2137,
+    "timeDay": 1772,
+    "timeWeek": 2344,
+    "timeMonth": 2250,
+    "timeYear": 2094,
     "dailyMinutesDown": {
       "2024-02-07": 20,
       "2024-02-05": 175,
-      "2023-10-01": 19,
-      "2023-09-30": 21
+      "2023-10-01": 19
     }
   },
   {
@@ -837,7 +834,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "53.56%",
+    "uptime": "53.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -848,7 +845,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-28": 15,
+      "2024-09-29": 17,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -1211,8 +1209,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   }
 ]
