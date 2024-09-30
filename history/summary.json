@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 84,
-    "timeWeek": 92,
-    "timeMonth": 100,
+    "timeDay": 85,
+    "timeWeek": 88,
+    "timeMonth": 96,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2024-05-01": 32
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 230,
-    "timeWeek": 324,
-    "timeMonth": 248,
+    "time": 247,
+    "timeDay": 345,
+    "timeWeek": 348,
+    "timeMonth": 253,
     "timeYear": 263,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1503,
-    "timeDay": 1302,
-    "timeWeek": 1453,
-    "timeMonth": 1493,
-    "timeYear": 1480,
+    "time": 1504,
+    "timeDay": 1540,
+    "timeWeek": 1521,
+    "timeMonth": 1479,
+    "timeYear": 1481,
     "dailyMinutesDown": {
       "2024-06-27": 16,
       "2024-06-20": 16,
@@ -70,18 +70,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "86.14%",
+    "uptime": "86.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.31%",
+    "uptimeYear": "47.03%",
     "time": 671,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2024-09-29": 17,
+      "2024-09-30": 16,
+      "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
@@ -388,7 +389,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-29": 17,
+      "2024-09-30": 16,
+      "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
@@ -751,8 +753,7 @@
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
-      "2023-10-02": 1440,
-      "2023-10-01": 1440
+      "2023-10-02": 1440
     }
   },
   {
@@ -766,11 +767,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1265,
-    "timeDay": 1051,
-    "timeWeek": 1682,
-    "timeMonth": 1329,
-    "timeYear": 1244,
+    "time": 1264,
+    "timeDay": 1320,
+    "timeWeek": 1737,
+    "timeMonth": 1333,
+    "timeYear": 1246,
     "dailyMinutesDown": {
       "2024-06-27": 16,
       "2024-03-21": 31,
@@ -791,11 +792,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 2393,
-    "timeDay": 1945,
-    "timeWeek": 2765,
-    "timeMonth": 2369,
-    "timeYear": 2381,
+    "time": 2394,
+    "timeDay": 2909,
+    "timeWeek": 2861,
+    "timeMonth": 2390,
+    "timeYear": 2377,
     "dailyMinutesDown": {
       "2024-08-26": 16,
       "2024-06-20": 15,
@@ -817,15 +818,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 2137,
-    "timeDay": 1772,
-    "timeWeek": 2344,
-    "timeMonth": 2250,
-    "timeYear": 2094,
+    "time": 2139,
+    "timeDay": 3018,
+    "timeWeek": 2449,
+    "timeMonth": 2268,
+    "timeYear": 2096,
     "dailyMinutesDown": {
       "2024-02-07": 20,
-      "2024-02-05": 175,
-      "2023-10-01": 19
+      "2024-02-05": 175
     }
   },
   {
@@ -834,7 +834,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "53.52%",
+    "uptime": "53.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -845,7 +845,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-29": 17,
+      "2024-09-30": 16,
+      "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
@@ -1208,8 +1209,7 @@
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
-      "2023-10-02": 1440,
-      "2023-10-01": 1440
+      "2023-10-02": 1440
     }
   }
 ]
