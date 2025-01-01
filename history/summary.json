@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 107,
-    "timeDay": 102,
+    "time": 108,
+    "timeDay": 91,
     "timeWeek": 97,
-    "timeMonth": 101,
+    "timeMonth": 102,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2024-05-01": 32
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
-    "timeDay": 325,
-    "timeWeek": 237,
+    "timeDay": 223,
+    "timeWeek": 236,
     "timeMonth": 289,
-    "timeYear": 226,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +49,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.93%",
     "time": 1491,
-    "timeDay": 1803,
-    "timeWeek": 1433,
-    "timeMonth": 1505,
-    "timeYear": 1449,
+    "timeDay": 1112,
+    "timeWeek": 1362,
+    "timeMonth": 1504,
+    "timeYear": 1447,
     "dailyMinutesDown": {
       "2024-12-13": 30,
       "2024-12-06": 17,
@@ -73,7 +73,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "80.69%",
+    "uptime": "80.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -84,7 +84,8 @@
     "timeMonth": 0,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2024-12-31": 1189,
+      "2025-01-01": 17,
+      "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
@@ -446,8 +447,7 @@
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
-      "2024-01-03": 1440,
-      "2024-01-02": 1440
+      "2024-01-03": 1440
     }
   },
   {
@@ -467,7 +467,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-31": 1189,
+      "2025-01-01": 17,
+      "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
@@ -830,8 +831,7 @@
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
-      "2024-01-03": 1440,
-      "2024-01-02": 1440
+      "2024-01-03": 1440
     }
   },
   {
@@ -846,10 +846,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.94%",
     "time": 1240,
-    "timeDay": 1593,
-    "timeWeek": 1700,
+    "timeDay": 1064,
+    "timeWeek": 1639,
     "timeMonth": 1245,
-    "timeYear": 1243,
+    "timeYear": 1241,
     "dailyMinutesDown": {
       "2024-12-13": 29,
       "2024-12-06": 17,
@@ -869,17 +869,17 @@
     "slug": "volkstanzwannwo-at",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.94%",
-    "time": 2298,
-    "timeDay": 2182,
-    "timeWeek": 1973,
-    "timeMonth": 2008,
-    "timeYear": 2327,
+    "time": 2297,
+    "timeDay": 1943,
+    "timeWeek": 1895,
+    "timeMonth": 2005,
+    "timeYear": 2325,
     "dailyMinutesDown": {
-      "2024-12-31": 24,
+      "2024-12-31": 16,
       "2024-12-13": 29,
       "2024-12-06": 16,
       "2024-08-26": 16,
@@ -897,17 +897,17 @@
     "slug": "kinderundjugendtanz-at",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.95%",
-    "time": 2170,
-    "timeDay": 2053,
-    "timeWeek": 2526,
-    "timeMonth": 2325,
+    "time": 2171,
+    "timeDay": 2034,
+    "timeWeek": 2516,
+    "timeMonth": 2331,
     "timeYear": 2196,
     "dailyMinutesDown": {
-      "2024-12-31": 24,
+      "2024-12-31": 16,
       "2024-12-13": 28,
       "2024-12-06": 16,
       "2024-02-07": 20,
@@ -920,7 +920,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "50.13%",
+    "uptime": "50.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -931,7 +931,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-31": 1189,
+      "2025-01-01": 17,
+      "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
@@ -1294,8 +1295,7 @@
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
-      "2024-01-03": 1440,
-      "2024-01-02": 1440
+      "2024-01-03": 1440
     }
   }
 ]
