@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 78,
-    "timeWeek": 130,
+    "timeDay": 97,
+    "timeWeek": 127,
     "timeMonth": 100,
     "timeYear": 106,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 223,
-    "timeWeek": 109,
-    "timeMonth": 125,
-    "timeYear": 219,
+    "timeDay": 477,
+    "timeWeek": 166,
+    "timeMonth": 140,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
     "time": 1466,
-    "timeDay": 1106,
-    "timeWeek": 1469,
-    "timeMonth": 1436,
-    "timeYear": 1478,
+    "timeDay": 1442,
+    "timeWeek": 1412,
+    "timeMonth": 1443,
+    "timeYear": 1479,
     "dailyMinutesDown": {
       "2025-04-23": 18,
       "2025-03-21": 15,
@@ -72,18 +72,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "74.17%",
+    "uptime": "74.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "9.11%",
+    "uptimeYear": "8.84%",
     "time": 641,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 642,
+    "timeYear": 640,
     "dailyMinutesDown": {
-      "2025-05-11": 19,
+      "2025-05-12": 19,
+      "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
@@ -446,8 +447,7 @@
       "2024-05-16": 45,
       "2024-05-15": 49,
       "2024-05-14": 44,
-      "2024-05-13": 46,
-      "2024-05-12": 48
+      "2024-05-13": 46
     }
   },
   {
@@ -467,7 +467,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-11": 19,
+      "2025-05-12": 19,
+      "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
@@ -830,8 +831,7 @@
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
-      "2024-05-13": 1440,
-      "2024-05-12": 1440
+      "2024-05-13": 1440
     }
   },
   {
@@ -845,11 +845,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.38%",
-    "time": 1315,
-    "timeDay": 1847,
-    "timeWeek": 2151,
-    "timeMonth": 2443,
-    "timeYear": 1343,
+    "time": 1317,
+    "timeDay": 2888,
+    "timeWeek": 2269,
+    "timeMonth": 2472,
+    "timeYear": 1347,
     "dailyMinutesDown": {
       "2025-04-23": 17,
       "2025-04-05": 517,
@@ -876,11 +876,11 @@
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.95%",
-    "time": 2243,
-    "timeDay": 2599,
-    "timeWeek": 2076,
-    "timeMonth": 1967,
-    "timeYear": 2159,
+    "time": 2252,
+    "timeDay": 7636,
+    "timeWeek": 2741,
+    "timeMonth": 2133,
+    "timeYear": 2169,
     "dailyMinutesDown": {
       "2025-05-09": 37,
       "2025-04-23": 17,
@@ -907,11 +907,11 @@
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.96%",
-    "time": 2234,
-    "timeDay": 2388,
-    "timeWeek": 2230,
-    "timeMonth": 2174,
-    "timeYear": 2320,
+    "time": 2244,
+    "timeDay": 8716,
+    "timeWeek": 3007,
+    "timeMonth": 2366,
+    "timeYear": 2333,
     "dailyMinutesDown": {
       "2025-05-09": 36,
       "2025-04-23": 16,
@@ -929,7 +929,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "46.08%",
+    "uptime": "46.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -940,7 +940,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-11": 19,
+      "2025-05-12": 19,
+      "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
@@ -1303,8 +1304,7 @@
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
-      "2024-05-13": 1440,
-      "2024-05-12": 1440
+      "2024-05-13": 1440
     }
   }
 ]
