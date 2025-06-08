@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 78,
-    "timeWeek": 97,
-    "timeMonth": 98,
+    "timeDay": 85,
+    "timeWeek": 93,
+    "timeMonth": 95,
     "timeYear": 105,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 100,
-    "timeWeek": 164,
-    "timeMonth": 169,
-    "timeYear": 215,
+    "time": 212,
+    "timeDay": 66,
+    "timeWeek": 121,
+    "timeMonth": 168,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "97.54%",
     "uptimeYear": "99.75%",
     "time": 1474,
-    "timeDay": 1393,
-    "timeWeek": 1718,
-    "timeMonth": 1514,
+    "timeDay": 1656,
+    "timeWeek": 1754,
+    "timeMonth": 1513,
     "timeYear": 1485,
     "dailyMinutesDown": {
       "2025-05-14": 208,
@@ -73,18 +73,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "72.95%",
+    "uptime": "72.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.96%",
-    "time": 637,
+    "uptimeYear": "1.69%",
+    "time": 636,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 607,
+    "timeYear": 610,
     "dailyMinutesDown": {
-      "2025-06-07": 18,
+      "2025-06-08": 20,
+      "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -447,8 +448,7 @@
       "2024-06-12": 57,
       "2024-06-11": 48,
       "2024-06-10": 51,
-      "2024-06-09": 55,
-      "2024-06-08": 46
+      "2024-06-09": 55
     }
   },
   {
@@ -468,7 +468,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-07": 18,
+      "2025-06-08": 20,
+      "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -831,8 +832,7 @@
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
-      "2024-06-09": 1440,
-      "2024-06-08": 1440
+      "2024-06-09": 1440
     }
   },
   {
@@ -846,11 +846,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "97.51%",
     "uptimeYear": "99.18%",
-    "time": 1398,
-    "timeDay": 1995,
-    "timeWeek": 2338,
+    "time": 1400,
+    "timeDay": 2017,
+    "timeWeek": 2293,
     "timeMonth": 2373,
-    "timeYear": 1405,
+    "timeYear": 1407,
     "dailyMinutesDown": {
       "2025-06-04": 16,
       "2025-05-14": 208,
@@ -881,10 +881,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
     "time": 2233,
-    "timeDay": 1783,
-    "timeWeek": 2133,
-    "timeMonth": 2178,
-    "timeYear": 2140,
+    "timeDay": 2032,
+    "timeWeek": 2137,
+    "timeMonth": 2185,
+    "timeYear": 2138,
     "dailyMinutesDown": {
       "2025-05-09": 37,
       "2025-04-23": 17,
@@ -909,11 +909,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 2264,
-    "timeDay": 2279,
-    "timeWeek": 2629,
-    "timeMonth": 2608,
-    "timeYear": 2353,
+    "time": 2325,
+    "timeDay": 2325,
+    "timeWeek": 2316,
+    "timeMonth": 2627,
+    "timeYear": 2355,
     "dailyMinutesDown": {
       "2025-05-09": 36,
       "2025-04-23": 16,
@@ -931,7 +931,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "45.32%",
+    "uptime": "45.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -942,7 +942,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-07": 18,
+      "2025-06-08": 21,
+      "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -1305,8 +1306,7 @@
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
-      "2024-06-09": 1440,
-      "2024-06-08": 1440
+      "2024-06-09": 1440
     }
   }
 ]
