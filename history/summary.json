@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 84,
-    "timeWeek": 132,
+    "timeDay": 94,
+    "timeWeek": 131,
     "timeMonth": 104,
     "timeYear": 105,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 71,
-    "timeWeek": 270,
-    "timeMonth": 171,
-    "timeYear": 215,
+    "timeDay": 38,
+    "timeWeek": 261,
+    "timeMonth": 169,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 1480,
-    "timeDay": 1161,
-    "timeWeek": 1255,
-    "timeMonth": 1586,
+    "timeDay": 1136,
+    "timeWeek": 1259,
+    "timeMonth": 1564,
     "timeYear": 1499,
     "dailyMinutesDown": {
       "2025-05-14": 208,
@@ -76,13 +76,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 641,
+    "time": 642,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-28": 1203,
+      "2025-06-29": 21,
+      "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -445,8 +446,7 @@
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
-      "2024-06-30": 1440,
-      "2024-06-29": 1440
+      "2024-06-30": 1440
     }
   },
   {
@@ -466,7 +466,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-28": 1203,
+      "2025-06-29": 21,
+      "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -829,8 +830,7 @@
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
-      "2024-06-30": 1440,
-      "2024-06-29": 1440
+      "2024-06-30": 1440
     }
   },
   {
@@ -844,11 +844,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.18%",
-    "time": 1435,
-    "timeDay": 1825,
-    "timeWeek": 2153,
-    "timeMonth": 2334,
-    "timeYear": 1462,
+    "time": 1436,
+    "timeDay": 1890,
+    "timeWeek": 2155,
+    "timeMonth": 2305,
+    "timeYear": 1464,
     "dailyMinutesDown": {
       "2025-06-04": 16,
       "2025-05-14": 208,
@@ -873,17 +873,16 @@
     "slug": "volkstanzwannwo-at",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 2219,
-    "timeDay": 2069,
-    "timeWeek": 2160,
-    "timeMonth": 2100,
-    "timeYear": 2118,
+    "time": 2217,
+    "timeDay": 2061,
+    "timeWeek": 2124,
+    "timeMonth": 2079,
+    "timeYear": 2117,
     "dailyMinutesDown": {
-      "2025-06-28": 10,
       "2025-05-09": 37,
       "2025-04-23": 17,
       "2025-04-04": 41,
@@ -902,17 +901,16 @@
     "slug": "kinderundjugendtanz-at",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 2334,
-    "timeDay": 2582,
-    "timeWeek": 2348,
-    "timeMonth": 2347,
+    "time": 2335,
+    "timeDay": 2587,
+    "timeWeek": 2352,
+    "timeMonth": 2343,
     "timeYear": 2354,
     "dailyMinutesDown": {
-      "2025-06-28": 9,
       "2025-05-09": 36,
       "2025-04-23": 16,
       "2025-04-04": 41,
@@ -940,7 +938,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-28": 1204,
+      "2025-06-29": 21,
+      "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -1303,8 +1302,7 @@
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
-      "2024-06-30": 1440,
-      "2024-06-29": 1440
+      "2024-06-30": 1440
     }
   }
 ]
