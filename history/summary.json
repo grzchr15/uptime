@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 91,
-    "timeWeek": 142,
-    "timeMonth": 117,
+    "timeDay": 68,
+    "timeWeek": 140,
+    "timeMonth": 116,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2025-07-06": 22
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 383,
-    "timeWeek": 200,
-    "timeMonth": 181,
-    "timeYear": 213,
+    "timeDay": 214,
+    "timeWeek": 217,
+    "timeMonth": 186,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 1480,
-    "timeDay": 1248,
-    "timeWeek": 1399,
-    "timeMonth": 1462,
+    "timeDay": 1390,
+    "timeWeek": 1430,
+    "timeMonth": 1431,
     "timeYear": 1498,
     "dailyMinutesDown": {
       "2025-05-14": 208,
@@ -78,13 +78,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 645,
+    "time": 647,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-09": 1379,
+      "2025-07-10": 19,
+      "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
@@ -447,8 +448,7 @@
       "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
-      "2024-07-11": 1440,
-      "2024-07-10": 1440
+      "2024-07-11": 1440
     }
   },
   {
@@ -468,7 +468,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-09": 1379,
+      "2025-07-10": 19,
+      "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
@@ -831,8 +832,7 @@
       "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
-      "2024-07-11": 1440,
-      "2024-07-10": 1440
+      "2024-07-11": 1440
     }
   },
   {
@@ -846,11 +846,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
-    "time": 1454,
-    "timeDay": 2446,
-    "timeWeek": 2330,
-    "timeMonth": 2299,
-    "timeYear": 1486,
+    "time": 1455,
+    "timeDay": 1836,
+    "timeWeek": 2328,
+    "timeMonth": 2297,
+    "timeYear": 1488,
     "dailyMinutesDown": {
       "2025-06-04": 16,
       "2025-05-14": 208,
@@ -875,17 +875,16 @@
     "slug": "volkstanzwannwo-at",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 2196,
-    "timeDay": 1898,
-    "timeWeek": 1897,
-    "timeMonth": 1999,
+    "time": 2195,
+    "timeDay": 1906,
+    "timeWeek": 1869,
+    "timeMonth": 1993,
     "timeYear": 2097,
     "dailyMinutesDown": {
-      "2025-07-09": 8,
       "2025-05-09": 37,
       "2025-04-23": 17,
       "2025-04-04": 41,
@@ -904,17 +903,16 @@
     "slug": "kinderundjugendtanz-at",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 2305,
-    "timeDay": 2552,
-    "timeWeek": 2612,
-    "timeMonth": 2405,
-    "timeYear": 2359,
+    "timeDay": 2555,
+    "timeWeek": 2601,
+    "timeMonth": 2401,
+    "timeYear": 2360,
     "dailyMinutesDown": {
-      "2025-07-09": 8,
       "2025-05-09": 36,
       "2025-04-23": 16,
       "2025-04-04": 41,
@@ -942,7 +940,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-09": 1380,
+      "2025-07-10": 19,
+      "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
@@ -1305,8 +1304,7 @@
       "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
-      "2024-07-11": 1440,
-      "2024-07-10": 1440
+      "2024-07-11": 1440
     }
   }
 ]
