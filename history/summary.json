@@ -10,10 +10,10 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 109,
-    "timeDay": 72,
-    "timeWeek": 137,
-    "timeMonth": 115,
+    "time": 110,
+    "timeDay": 122,
+    "timeWeek": 139,
+    "timeMonth": 116,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2025-07-06": 22
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 744,
-    "timeWeek": 288,
-    "timeMonth": 213,
-    "timeYear": 213,
+    "timeDay": 407,
+    "timeWeek": 329,
+    "timeMonth": 209,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 1479,
-    "timeDay": 1130,
-    "timeWeek": 1387,
+    "time": 1480,
+    "timeDay": 1547,
+    "timeWeek": 1290,
     "timeMonth": 1434,
-    "timeYear": 1499,
+    "timeYear": 1498,
     "dailyMinutesDown": {
       "2025-05-14": 208,
       "2025-05-13": 868,
@@ -73,7 +73,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "71.43%",
+    "uptime": "71.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -84,7 +84,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-12": 18,
+      "2025-07-13": 21,
+      "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
@@ -447,8 +448,7 @@
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
-      "2024-07-14": 1440,
-      "2024-07-13": 1440
+      "2024-07-14": 1440
     }
   },
   {
@@ -468,7 +468,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-12": 18,
+      "2025-07-13": 21,
+      "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
@@ -831,8 +832,7 @@
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
-      "2024-07-14": 1440,
-      "2024-07-13": 1440
+      "2024-07-14": 1440
     }
   },
   {
@@ -846,11 +846,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
-    "time": 1457,
-    "timeDay": 1916,
-    "timeWeek": 2243,
-    "timeMonth": 2294,
-    "timeYear": 1492,
+    "time": 1459,
+    "timeDay": 2659,
+    "timeWeek": 2197,
+    "timeMonth": 2279,
+    "timeYear": 1495,
     "dailyMinutesDown": {
       "2025-06-04": 16,
       "2025-05-14": 208,
@@ -880,10 +880,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 2194,
-    "timeDay": 1735,
-    "timeWeek": 1867,
-    "timeMonth": 1993,
-    "timeYear": 2095,
+    "timeDay": 2862,
+    "timeWeek": 1905,
+    "timeMonth": 2004,
+    "timeYear": 2096,
     "dailyMinutesDown": {
       "2025-05-09": 37,
       "2025-04-23": 17,
@@ -908,8 +908,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 2304,
-    "timeDay": 1661,
-    "timeWeek": 2505,
+    "timeDay": 2248,
+    "timeWeek": 2302,
     "timeMonth": 2376,
     "timeYear": 2360,
     "dailyMinutesDown": {
@@ -929,7 +929,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "44.37%",
+    "uptime": "44.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -940,7 +940,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-12": 18,
+      "2025-07-13": 21,
+      "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
@@ -1303,8 +1304,7 @@
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
-      "2024-07-14": 1440,
-      "2024-07-13": 1440
+      "2024-07-14": 1440
     }
   }
 ]
