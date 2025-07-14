@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 122,
-    "timeWeek": 96,
-    "timeMonth": 116,
+    "timeDay": 151,
+    "timeWeek": 107,
+    "timeMonth": 118,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2025-07-06": 22
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 407,
-    "timeWeek": 329,
-    "timeMonth": 209,
-    "timeYear": 214,
+    "timeDay": 165,
+    "timeWeek": 347,
+    "timeMonth": 211,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 1480,
-    "timeDay": 1547,
-    "timeWeek": 1290,
-    "timeMonth": 1434,
+    "timeDay": 1273,
+    "timeWeek": 1312,
+    "timeMonth": 1403,
     "timeYear": 1498,
     "dailyMinutesDown": {
       "2025-05-14": 208,
@@ -73,18 +73,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "71.35%",
+    "uptime": "71.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 645,
+    "time": 642,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-13": 1203,
+      "2025-07-14": 20,
+      "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
@@ -447,8 +448,7 @@
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
-      "2024-07-15": 1440,
-      "2024-07-14": 1440
+      "2024-07-15": 1440
     }
   },
   {
@@ -468,7 +468,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-13": 1203,
+      "2025-07-14": 20,
+      "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
@@ -831,8 +832,7 @@
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
-      "2024-07-15": 1440,
-      "2024-07-14": 1440
+      "2024-07-15": 1440
     }
   },
   {
@@ -846,11 +846,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
-    "time": 1459,
-    "timeDay": 2659,
-    "timeWeek": 2197,
-    "timeMonth": 2279,
-    "timeYear": 1495,
+    "time": 1461,
+    "timeDay": 2660,
+    "timeWeek": 2291,
+    "timeMonth": 2238,
+    "timeYear": 1499,
     "dailyMinutesDown": {
       "2025-06-04": 16,
       "2025-05-14": 208,
@@ -875,17 +875,16 @@
     "slug": "volkstanzwannwo-at",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 2192,
-    "timeDay": 2462,
-    "timeWeek": 1950,
-    "timeMonth": 2015,
-    "timeYear": 2096,
+    "time": 2193,
+    "timeDay": 2373,
+    "timeWeek": 2003,
+    "timeMonth": 2022,
+    "timeYear": 2097,
     "dailyMinutesDown": {
-      "2025-07-13": 10,
       "2025-05-09": 37,
       "2025-04-23": 17,
       "2025-04-04": 41,
@@ -909,9 +908,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 2305,
-    "timeDay": 1962,
-    "timeWeek": 2263,
-    "timeMonth": 2360,
+    "timeDay": 1825,
+    "timeWeek": 2272,
+    "timeMonth": 2355,
     "timeYear": 2359,
     "dailyMinutesDown": {
       "2025-05-09": 36,
@@ -941,7 +940,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-13": 1203,
+      "2025-07-14": 20,
+      "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
@@ -1304,8 +1304,7 @@
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
-      "2024-07-15": 1440,
-      "2024-07-14": 1440
+      "2024-07-15": 1440
     }
   }
 ]
