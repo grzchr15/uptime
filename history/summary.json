@@ -11,8 +11,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 124,
-    "timeDay": 207,
-    "timeWeek": 112,
+    "timeDay": 100,
+    "timeWeek": 115,
     "timeMonth": 369,
     "timeYear": 129,
     "dailyMinutesDown": {
@@ -32,9 +32,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 218,
-    "timeDay": 172,
-    "timeWeek": 220,
-    "timeMonth": 213,
+    "timeDay": 110,
+    "timeWeek": 218,
+    "timeMonth": 210,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2025-11-11": 28
@@ -47,15 +47,15 @@
     "slug": "bretterhofer-at",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "98.02%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.71%",
     "time": 1553,
-    "timeDay": 1552,
-    "timeWeek": 2049,
-    "timeMonth": 1760,
-    "timeYear": 1565,
+    "timeDay": 1636,
+    "timeWeek": 2051,
+    "timeMonth": 1769,
+    "timeYear": 1566,
     "dailyMinutesDown": {
       "2025-12-08": 29,
       "2025-11-29": 11,
@@ -83,7 +83,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "65.55%",
+    "uptime": "65.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -94,7 +94,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-09": 19,
+      "2025-12-10": 19,
+      "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -457,8 +458,7 @@
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
-      "2024-12-11": 1440,
-      "2024-12-10": 1440
+      "2024-12-11": 1440
     }
   },
   {
@@ -478,7 +478,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-09": 19,
+      "2025-12-10": 19,
+      "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -841,8 +842,7 @@
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
-      "2024-12-11": 1440,
-      "2024-12-10": 1440
+      "2024-12-11": 1440
     }
   },
   {
@@ -852,15 +852,15 @@
     "slug": "volkstanz-st",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "98.05%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "98.23%",
-    "time": 1893,
-    "timeDay": 2383,
-    "timeWeek": 2387,
-    "timeMonth": 2536,
-    "timeYear": 2010,
+    "time": 1897,
+    "timeDay": 3139,
+    "timeWeek": 2414,
+    "timeMonth": 2566,
+    "timeYear": 2015,
     "dailyMinutesDown": {
       "2025-12-08": 28,
       "2025-11-29": 11,
@@ -897,15 +897,15 @@
     "slug": "volkstanzwannwo-at",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "98.08%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.95%",
     "time": 2269,
-    "timeDay": 2316,
-    "timeWeek": 2315,
-    "timeMonth": 2391,
-    "timeYear": 2314,
+    "timeDay": 2549,
+    "timeWeek": 2280,
+    "timeMonth": 2398,
+    "timeYear": 2316,
     "dailyMinutesDown": {
       "2025-12-08": 28,
       "2025-11-29": 11,
@@ -928,15 +928,15 @@
     "slug": "kinderundjugendtanz-at",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.11%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.95%",
-    "time": 2421,
-    "timeDay": 3032,
-    "timeWeek": 2829,
-    "timeMonth": 2467,
-    "timeYear": 2418,
+    "time": 2422,
+    "timeDay": 3046,
+    "timeWeek": 2839,
+    "timeMonth": 2498,
+    "timeYear": 2420,
     "dailyMinutesDown": {
       "2025-12-08": 27,
       "2025-11-29": 11,
@@ -958,7 +958,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "40.72%",
+    "uptime": "40.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -969,7 +969,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-09": 19,
+      "2025-12-10": 19,
+      "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -1332,8 +1333,7 @@
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
-      "2024-12-11": 1440,
-      "2024-12-10": 1440
+      "2024-12-11": 1440
     }
   }
 ]
