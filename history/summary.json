@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 122,
-    "timeDay": 75,
-    "timeWeek": 96,
+    "timeDay": 77,
+    "timeWeek": 97,
     "timeMonth": 115,
     "timeYear": 129,
     "dailyMinutesDown": {
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 71,
-    "timeWeek": 151,
-    "timeMonth": 159,
+    "timeDay": 69,
+    "timeWeek": 154,
+    "timeMonth": 157,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2025-11-11": 28
@@ -49,13 +49,13 @@
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.71%",
     "time": 1560,
-    "timeDay": 1685,
-    "timeWeek": 1481,
-    "timeMonth": 1694,
-    "timeYear": 1571,
+    "timeDay": 1467,
+    "timeWeek": 1446,
+    "timeMonth": 1698,
+    "timeYear": 1570,
     "dailyMinutesDown": {
       "2025-12-08": 29,
       "2025-11-29": 11,
@@ -82,7 +82,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "64.85%",
+    "uptime": "64.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -93,7 +93,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-28": 1159,
+      "2025-12-29": 21,
+      "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
@@ -456,8 +457,7 @@
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
-      "2024-12-30": 1440,
-      "2024-12-29": 1440
+      "2024-12-30": 1440
     }
   },
   {
@@ -477,7 +477,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-28": 1159,
+      "2025-12-29": 21,
+      "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
@@ -840,8 +841,7 @@
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
-      "2024-12-30": 1440,
-      "2024-12-29": 1440
+      "2024-12-30": 1440
     }
   },
   {
@@ -853,13 +853,13 @@
     "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.69%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "98.21%",
-    "time": 1944,
-    "timeDay": 2277,
+    "time": 1946,
+    "timeDay": 2308,
     "timeWeek": 2318,
-    "timeMonth": 2345,
-    "timeYear": 2075,
+    "timeMonth": 2333,
+    "timeYear": 2069,
     "dailyMinutesDown": {
       "2025-12-17": 91,
       "2025-12-08": 28,
@@ -896,17 +896,16 @@
     "slug": "volkstanzwannwo-at",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.94%",
     "time": 2335,
-    "timeDay": 2653,
-    "timeWeek": 4832,
-    "timeMonth": 2982,
+    "timeDay": 2727,
+    "timeWeek": 4842,
+    "timeMonth": 2991,
     "timeYear": 2404,
     "dailyMinutesDown": {
-      "2025-12-28": 13,
       "2025-12-24": 25,
       "2025-12-22": 34,
       "2025-12-17": 39,
@@ -932,13 +931,13 @@
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.72%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.94%",
     "time": 2413,
-    "timeDay": 2106,
-    "timeWeek": 2827,
-    "timeMonth": 2560,
-    "timeYear": 2449,
+    "timeDay": 2070,
+    "timeWeek": 2841,
+    "timeMonth": 2567,
+    "timeYear": 2447,
     "dailyMinutesDown": {
       "2025-12-24": 25,
       "2025-12-22": 16,
@@ -973,7 +972,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-28": 1160,
+      "2025-12-29": 21,
+      "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
@@ -1336,8 +1336,7 @@
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
-      "2024-12-30": 1440,
-      "2024-12-29": 1440
+      "2024-12-30": 1440
     }
   }
 ]
