@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 124,
-    "timeDay": 90,
-    "timeWeek": 110,
+    "timeDay": 85,
+    "timeWeek": 108,
     "timeMonth": 126,
     "timeYear": 131,
     "dailyMinutesDown": {
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 208,
-    "timeDay": 100,
-    "timeWeek": 197,
-    "timeMonth": 168,
+    "timeDay": 69,
+    "timeWeek": 190,
+    "timeMonth": 169,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2025-11-11": 28
@@ -47,15 +47,15 @@
     "slug": "bretterhofer-at",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "98.85%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.71%",
-    "time": 1566,
-    "timeDay": 1726,
+    "time": 1567,
+    "timeDay": 1551,
     "timeWeek": 1704,
-    "timeMonth": 1582,
-    "timeYear": 1582,
+    "timeMonth": 1581,
+    "timeYear": 1576,
     "dailyMinutesDown": {
       "2026-01-20": 17,
       "2026-01-15": 18,
@@ -84,7 +84,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "64.04%",
+    "uptime": "64.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -95,7 +95,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-21": 20,
+      "2026-01-22": 21,
+      "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
@@ -458,8 +459,7 @@
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
-      "2025-01-23": 1440,
-      "2025-01-22": 1440
+      "2025-01-23": 1440
     }
   },
   {
@@ -479,7 +479,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-21": 21,
+      "2026-01-22": 21,
+      "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
@@ -842,8 +843,7 @@
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
-      "2025-01-23": 1440,
-      "2025-01-22": 1440
+      "2025-01-23": 1440
     }
   },
   {
@@ -853,15 +853,15 @@
     "slug": "volkstanz-st",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "98.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.21%",
-    "time": 2012,
-    "timeDay": 3127,
-    "timeWeek": 2671,
-    "timeMonth": 2423,
-    "timeYear": 2169,
+    "time": 2013,
+    "timeDay": 1779,
+    "timeWeek": 2575,
+    "timeMonth": 2419,
+    "timeYear": 2172,
     "dailyMinutesDown": {
       "2026-01-20": 16,
       "2026-01-15": 17,
@@ -900,15 +900,15 @@
     "slug": "volkstanzwannwo-at",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "98.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.94%",
-    "time": 2352,
-    "timeDay": 2213,
-    "timeWeek": 2409,
-    "timeMonth": 3116,
-    "timeYear": 2457,
+    "time": 2351,
+    "timeDay": 2093,
+    "timeWeek": 2388,
+    "timeMonth": 3117,
+    "timeYear": 2458,
     "dailyMinutesDown": {
       "2026-01-20": 16,
       "2026-01-15": 17,
@@ -934,15 +934,15 @@
     "slug": "kinderundjugendtanz-at",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "98.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.94%",
-    "time": 2395,
-    "timeDay": 1827,
-    "timeWeek": 1875,
-    "timeMonth": 2116,
-    "timeYear": 2405,
+    "time": 2393,
+    "timeDay": 1483,
+    "timeWeek": 1829,
+    "timeMonth": 2111,
+    "timeYear": 2402,
     "dailyMinutesDown": {
       "2026-01-20": 15,
       "2026-01-15": 16,
@@ -967,7 +967,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "39.78%",
+    "uptime": "39.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -978,7 +978,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-21": 21,
+      "2026-01-22": 21,
+      "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
@@ -1341,8 +1342,7 @@
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
-      "2025-01-23": 1440,
-      "2025-01-22": 1440
+      "2025-01-23": 1440
     }
   }
 ]
