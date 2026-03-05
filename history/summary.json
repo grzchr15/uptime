@@ -13,7 +13,7 @@
     "time": 125,
     "timeDay": 167,
     "timeWeek": 110,
-    "timeMonth": 99,
+    "timeMonth": 100,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2026-01-28": 22,
@@ -35,7 +35,7 @@
     "time": 206,
     "timeDay": 212,
     "timeWeek": 155,
-    "timeMonth": 147,
+    "timeMonth": 149,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2025-11-11": 28
@@ -55,7 +55,7 @@
     "time": 1562,
     "timeDay": 1317,
     "timeWeek": 1419,
-    "timeMonth": 1480,
+    "timeMonth": 1489,
     "timeYear": 1561,
     "dailyMinutesDown": {
       "2026-03-03": 19,
@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-05": 1351,
+      "2026-03-05": 1389,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -488,7 +488,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-05": 1351,
+      "2026-03-05": 1389,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -869,8 +869,8 @@
     "time": 2137,
     "timeDay": 2221,
     "timeWeek": 2400,
-    "timeMonth": 2409,
-    "timeYear": 2314,
+    "timeMonth": 2425,
+    "timeYear": 2316,
     "dailyMinutesDown": {
       "2026-03-03": 19,
       "2026-03-02": 22,
@@ -915,17 +915,17 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanzwannwo.at.ico",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "80.91%",
-    "uptimeWeek": "82.36%",
+    "uptimeDay": "80.87%",
+    "uptimeWeek": "82.35%",
     "uptimeMonth": "95.65%",
     "uptimeYear": "99.56%",
     "time": 2624,
     "timeDay": 5294,
     "timeWeek": 3825,
-    "timeMonth": 3429,
-    "timeYear": 2712,
+    "timeMonth": 3444,
+    "timeYear": 2713,
     "dailyMinutesDown": {
       "2026-03-05": 251,
       "2026-03-04": 383,
@@ -972,8 +972,8 @@
     "time": 2323,
     "timeDay": 1637,
     "timeWeek": 1721,
-    "timeMonth": 1759,
-    "timeYear": 2301,
+    "timeMonth": 1768,
+    "timeYear": 2299,
     "dailyMinutesDown": {
       "2026-03-03": 18,
       "2026-03-02": 22,
@@ -1016,7 +1016,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-05": 1351,
+      "2026-03-05": 1389,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
