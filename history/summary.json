@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-06": 1214,
+      "2026-03-06": 1319,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
@@ -488,7 +488,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-06": 1214,
+      "2026-03-06": 1320,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
@@ -915,14 +915,14 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanzwannwo.at.ico",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "70.25%",
+    "uptimeDay": "73.03%",
     "uptimeWeek": "78.83%",
     "uptimeMonth": "94.80%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.49%",
     "time": 2586,
-    "timeDay": 4167,
+    "timeDay": 3834,
     "timeWeek": 3784,
     "timeMonth": 3459,
     "timeYear": 2734,
@@ -955,8 +955,7 @@
       "2025-11-25": 16,
       "2025-11-17": 19,
       "2025-05-09": 37,
-      "2025-04-23": 17,
-      "2025-04-04": 41
+      "2025-04-23": 17
     }
   },
   {
@@ -1006,7 +1005,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "38.85%",
+    "uptime": "38.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1017,7 +1016,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-06": 1214,
+      "2026-03-06": 1320,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
