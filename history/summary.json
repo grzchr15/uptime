@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-09": 1255,
+      "2026-03-09": 1273,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
@@ -488,7 +488,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-09": 1255,
+      "2026-03-09": 1273,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
@@ -915,19 +915,19 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanzwannwo.at.ico",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "84.96%",
-    "uptimeWeek": "77.49%",
-    "uptimeMonth": "93.47%",
-    "uptimeYear": "99.46%",
-    "time": 2651,
+    "uptimeDay": "84.93%",
+    "uptimeWeek": "77.48%",
+    "uptimeMonth": "93.61%",
+    "uptimeYear": "99.47%",
+    "time": 2584,
     "timeDay": 1776,
     "timeWeek": 3293,
     "timeMonth": 3316,
     "timeYear": 2734,
     "dailyMinutesDown": {
-      "2026-03-09": 204,
+      "2026-03-09": 205,
       "2026-03-08": 261,
       "2026-03-07": 300,
       "2026-03-06": 381,
@@ -935,7 +935,7 @@
       "2026-03-04": 383,
       "2026-03-03": 438,
       "2026-03-02": 329,
-      "2026-03-01": 298
+      "2026-03-01": 234
     }
   },
   {
@@ -996,7 +996,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-09": 1256,
+      "2026-03-09": 1274,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
