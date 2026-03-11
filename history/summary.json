@@ -93,7 +93,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "62.40%",
+    "uptime": "62.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-11": 475,
+      "2026-03-11": 584,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -488,7 +488,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-11": 475,
+      "2026-03-11": 584,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -915,19 +915,19 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanzwannwo.at.ico",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "78.38%",
-    "uptimeWeek": "77.45%",
-    "uptimeMonth": "93.51%",
+    "uptimeDay": "78.34%",
+    "uptimeWeek": "77.87%",
+    "uptimeMonth": "93.55%",
     "uptimeYear": "99.46%",
     "time": 2649,
     "timeDay": 3891,
-    "timeWeek": 3365,
+    "timeWeek": 3375,
     "timeMonth": 3391,
     "timeYear": 2780,
     "dailyMinutesDown": {
-      "2026-03-11": 69,
+      "2026-03-11": 70,
       "2026-03-10": 406,
       "2026-03-09": 303,
       "2026-03-08": 261,
@@ -936,7 +936,7 @@
       "2026-03-05": 271,
       "2026-03-04": 383,
       "2026-03-03": 438,
-      "2026-03-02": 34
+      "2026-03-02": 16
     }
   },
   {
@@ -997,7 +997,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-11": 475,
+      "2026-03-11": 585,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
