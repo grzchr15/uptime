@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 125,
-    "timeDay": 111,
-    "timeWeek": 132,
-    "timeMonth": 114,
+    "timeDay": 172,
+    "timeWeek": 140,
+    "timeMonth": 117,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2026-01-28": 22,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 204,
-    "timeDay": 211,
-    "timeWeek": 159,
-    "timeMonth": 158,
-    "timeYear": 195,
+    "time": 203,
+    "timeDay": 169,
+    "timeWeek": 155,
+    "timeMonth": 157,
+    "timeYear": 196,
     "dailyMinutesDown": {
       "2025-11-11": 28
     }
@@ -53,10 +53,10 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.67%",
     "time": 1563,
-    "timeDay": 1253,
-    "timeWeek": 1335,
+    "timeDay": 1779,
+    "timeWeek": 1389,
     "timeMonth": 1398,
-    "timeYear": 1558,
+    "timeYear": 1559,
     "dailyMinutesDown": {
       "2026-03-14": 20,
       "2026-03-11": 17,
@@ -106,7 +106,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-17": 1375,
+      "2026-03-18": 1,
+      "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
@@ -469,8 +470,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
-      "2025-03-19": 1440,
-      "2025-03-18": 1440
+      "2025-03-19": 1440
     }
   },
   {
@@ -490,7 +490,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-17": 1375,
+      "2026-03-18": 1,
+      "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
@@ -853,8 +854,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
-      "2025-03-19": 1440,
-      "2025-03-18": 1440
+      "2025-03-19": 1440
     }
   },
   {
@@ -868,11 +868,11 @@
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "98.15%",
-    "time": 2174,
-    "timeDay": 1935,
-    "timeWeek": 2813,
-    "timeMonth": 2468,
-    "timeYear": 2354,
+    "time": 2176,
+    "timeDay": 2046,
+    "timeWeek": 2763,
+    "timeMonth": 2451,
+    "timeYear": 2357,
     "dailyMinutesDown": {
       "2026-03-14": 20,
       "2026-03-11": 16,
@@ -919,18 +919,19 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanzwannwo.at.ico",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "92.15%",
-    "uptimeWeek": "86.07%",
-    "uptimeMonth": "93.18%",
-    "uptimeYear": "99.43%",
-    "time": 2707,
-    "timeDay": 2772,
-    "timeWeek": 3552,
-    "timeMonth": 3449,
+    "uptimeDay": "92.11%",
+    "uptimeWeek": "86.23%",
+    "uptimeMonth": "93.23%",
+    "uptimeYear": "99.44%",
+    "time": 2708,
+    "timeDay": 2613,
+    "timeWeek": 3496,
+    "timeMonth": 3450,
     "timeYear": 2847,
     "dailyMinutesDown": {
+      "2026-03-18": 1,
       "2026-03-17": 114,
       "2026-03-16": 130,
       "2026-03-15": 90,
@@ -942,7 +943,7 @@
       "2026-03-09": 303,
       "2026-03-08": 261,
       "2026-03-07": 300,
-      "2026-03-06": 330
+      "2026-03-06": 309
     }
   },
   {
@@ -956,10 +957,10 @@
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.88%",
-    "time": 2305,
-    "timeDay": 1575,
-    "timeWeek": 1642,
-    "timeMonth": 1687,
+    "time": 2304,
+    "timeDay": 1708,
+    "timeWeek": 1624,
+    "timeMonth": 1688,
     "timeYear": 2277,
     "dailyMinutesDown": {
       "2026-03-14": 19,
@@ -1005,7 +1006,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-17": 1375,
+      "2026-03-18": 1,
+      "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
@@ -1368,8 +1370,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
-      "2025-03-19": 1440,
-      "2025-03-18": 1440
+      "2025-03-19": 1440
     }
   }
 ]
