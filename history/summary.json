@@ -55,8 +55,8 @@
     "time": 1561,
     "timeDay": 1432,
     "timeWeek": 1429,
-    "timeMonth": 1409,
-    "timeYear": 1559,
+    "timeMonth": 1407,
+    "timeYear": 1560,
     "dailyMinutesDown": {
       "2026-03-21": 18,
       "2026-03-20": 22,
@@ -107,7 +107,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-21": 787,
+      "2026-03-21": 1095,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
@@ -491,7 +491,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-21": 787,
+      "2026-03-21": 1095,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
@@ -872,8 +872,8 @@
     "time": 2071,
     "timeDay": 2435,
     "timeWeek": 2308,
-    "timeMonth": 2471,
-    "timeYear": 2368,
+    "timeMonth": 2457,
+    "timeYear": 2371,
     "dailyMinutesDown": {
       "2026-03-21": 18,
       "2026-03-20": 22,
@@ -922,19 +922,19 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanzwannwo.at.ico",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "90.34%",
-    "uptimeWeek": "92.61%",
-    "uptimeMonth": "93.24%",
+    "uptimeDay": "93.25%",
+    "uptimeWeek": "93.19%",
+    "uptimeMonth": "93.28%",
     "uptimeYear": "99.44%",
     "time": 2722,
-    "timeDay": 2086,
-    "timeWeek": 2621,
-    "timeMonth": 3382,
+    "timeDay": 2057,
+    "timeWeek": 2386,
+    "timeMonth": 3386,
     "timeYear": 2835,
     "dailyMinutesDown": {
-      "2026-03-21": 79,
+      "2026-03-21": 80,
       "2026-03-20": 142,
       "2026-03-19": 78,
       "2026-03-18": 50,
@@ -948,7 +948,7 @@
       "2026-03-10": 406,
       "2026-03-09": 303,
       "2026-03-08": 261,
-      "2026-03-07": 256
+      "2026-03-07": 234
     }
   },
   {
@@ -965,7 +965,7 @@
     "time": 2299,
     "timeDay": 1782,
     "timeWeek": 1707,
-    "timeMonth": 1710,
+    "timeMonth": 1699,
     "timeYear": 2274,
     "dailyMinutesDown": {
       "2026-03-21": 17,
@@ -1002,7 +1002,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "38.55%",
+    "uptime": "38.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1013,7 +1013,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-21": 788,
+      "2026-03-21": 1096,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
