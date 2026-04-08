@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 127,
-    "timeDay": 88,
-    "timeWeek": 190,
+    "timeDay": 98,
+    "timeWeek": 168,
     "timeMonth": 137,
-    "timeYear": 134,
+    "timeYear": 133,
     "dailyMinutesDown": {
       "2026-01-28": 22,
       "2025-11-25": 16,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 201,
-    "timeDay": 214,
+    "timeDay": 179,
     "timeWeek": 225,
-    "timeMonth": 170,
+    "timeMonth": 171,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2025-11-11": 28
@@ -48,14 +48,14 @@
     "slug": "bretterhofer-at",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "96.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.64%",
-    "time": 1558,
-    "timeDay": 1322,
-    "timeWeek": 1542,
-    "timeMonth": 1477,
+    "time": 1559,
+    "timeDay": 1318,
+    "timeWeek": 1544,
+    "timeMonth": 1461,
     "timeYear": 1560,
     "dailyMinutesDown": {
       "2026-04-06": 45,
@@ -99,7 +99,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "61.54%",
+    "uptime": "61.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -110,7 +110,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-07": 30,
+      "2026-04-08": 30,
+      "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
       "2026-04-04": 1440,
@@ -473,8 +474,7 @@
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
-      "2025-04-09": 1440,
-      "2025-04-08": 1440
+      "2025-04-09": 1440
     }
   },
   {
@@ -494,7 +494,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-07": 30,
+      "2026-04-08": 30,
+      "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
       "2026-04-04": 1440,
@@ -857,8 +858,7 @@
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
-      "2025-04-09": 1440,
-      "2025-04-08": 1440
+      "2025-04-09": 1440
     }
   },
   {
@@ -868,15 +868,15 @@
     "slug": "volkstanz-st",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "96.96%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "98.70%",
-    "time": 2121,
-    "timeDay": 2585,
-    "timeWeek": 3249,
-    "timeMonth": 2707,
-    "timeYear": 2437,
+    "time": 2123,
+    "timeDay": 2762,
+    "timeWeek": 3235,
+    "timeMonth": 2723,
+    "timeYear": 2438,
     "dailyMinutesDown": {
       "2026-04-06": 43,
       "2026-04-04": 18,
@@ -927,15 +927,15 @@
     "slug": "volkstanzwannwo-at",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "97.03%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.23%",
     "uptimeMonth": "93.37%",
     "uptimeYear": "99.45%",
     "time": 2673,
-    "timeDay": 2038,
-    "timeWeek": 2125,
-    "timeMonth": 2941,
-    "timeYear": 2819,
+    "timeDay": 2108,
+    "timeWeek": 2075,
+    "timeMonth": 2921,
+    "timeYear": 2818,
     "dailyMinutesDown": {
       "2026-04-06": 43,
       "2026-04-04": 18,
@@ -967,14 +967,14 @@
     "slug": "kinderundjugendtanz-at",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "97.09%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.87%",
-    "time": 2286,
-    "timeDay": 1835,
-    "timeWeek": 1820,
-    "timeMonth": 1721,
+    "time": 2284,
+    "timeDay": 1564,
+    "timeWeek": 1814,
+    "timeMonth": 1719,
     "timeYear": 2235,
     "dailyMinutesDown": {
       "2026-04-06": 41,
@@ -1013,7 +1013,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "38.22%",
+    "uptime": "38.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1024,7 +1024,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-07": 30,
+      "2026-04-08": 30,
+      "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
       "2026-04-04": 1440,
@@ -1387,8 +1388,7 @@
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
-      "2025-04-09": 1440,
-      "2025-04-08": 1440
+      "2025-04-09": 1440
     }
   }
 ]
