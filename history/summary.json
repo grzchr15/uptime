@@ -11,8 +11,8 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 128,
-    "timeDay": 75,
-    "timeWeek": 141,
+    "timeDay": 68,
+    "timeWeek": 134,
     "timeMonth": 137,
     "timeYear": 134,
     "dailyMinutesDown": {
@@ -33,10 +33,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 200,
-    "timeDay": 100,
-    "timeWeek": 191,
-    "timeMonth": 168,
+    "time": 199,
+    "timeDay": 85,
+    "timeWeek": 170,
+    "timeMonth": 164,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2025-11-11": 28
@@ -49,15 +49,15 @@
     "slug": "bretterhofer-at",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "81.13%",
+    "uptimeDay": "84.84%",
     "uptimeWeek": "89.57%",
     "uptimeMonth": "97.34%",
     "uptimeYear": "99.45%",
     "time": 1550,
-    "timeDay": 1221,
-    "timeWeek": 1399,
-    "timeMonth": 1438,
-    "timeYear": 1549,
+    "timeDay": 1223,
+    "timeWeek": 1383,
+    "timeMonth": 1434,
+    "timeYear": 1548,
     "dailyMinutesDown": {
       "2026-04-12": 250,
       "2026-04-11": 220,
@@ -116,7 +116,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-12": 1308,
+      "2026-04-13": 32,
+      "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
@@ -479,8 +480,7 @@
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
-      "2025-04-14": 1440,
-      "2025-04-13": 1440
+      "2025-04-14": 1440
     }
   },
   {
@@ -500,7 +500,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-12": 1308,
+      "2026-04-13": 32,
+      "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
@@ -863,8 +864,7 @@
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
-      "2025-04-14": 1440,
-      "2025-04-13": 1440
+      "2025-04-14": 1440
     }
   },
   {
@@ -874,15 +874,15 @@
     "slug": "volkstanz-st",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "81.38%",
+    "uptimeDay": "85.05%",
     "uptimeWeek": "89.71%",
     "uptimeMonth": "97.41%",
     "uptimeYear": "98.52%",
-    "time": 2242,
-    "timeDay": 3033,
-    "timeWeek": 2818,
-    "timeMonth": 2821,
-    "timeYear": 2473,
+    "time": 2244,
+    "timeDay": 3046,
+    "timeWeek": 2816,
+    "timeMonth": 2814,
+    "timeYear": 2472,
     "dailyMinutesDown": {
       "2026-04-12": 248,
       "2026-04-11": 217,
@@ -938,15 +938,15 @@
     "slug": "volkstanzwannwo-at",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "82.65%",
+    "uptimeDay": "86.30%",
     "uptimeWeek": "90.00%",
     "uptimeMonth": "94.36%",
     "uptimeYear": "99.42%",
-    "time": 2693,
-    "timeDay": 1921,
-    "timeWeek": 2105,
-    "timeMonth": 2526,
-    "timeYear": 2792,
+    "time": 2694,
+    "timeDay": 2028,
+    "timeWeek": 2122,
+    "timeMonth": 2525,
+    "timeYear": 2793,
     "dailyMinutesDown": {
       "2026-04-12": 229,
       "2026-04-11": 213,
@@ -980,15 +980,15 @@
     "slug": "kinderundjugendtanz-at",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "82.88%",
+    "uptimeDay": "86.49%",
     "uptimeWeek": "90.14%",
     "uptimeMonth": "97.52%",
     "uptimeYear": "99.69%",
-    "time": 2249,
-    "timeDay": 1841,
-    "timeWeek": 1847,
-    "timeMonth": 1790,
-    "timeYear": 2208,
+    "time": 2248,
+    "timeDay": 1832,
+    "timeWeek": 1834,
+    "timeMonth": 1787,
+    "timeYear": 2206,
     "dailyMinutesDown": {
       "2026-04-12": 227,
       "2026-04-11": 209,
@@ -1031,7 +1031,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "38.11%",
+    "uptime": "38.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1042,7 +1042,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-12": 1309,
+      "2026-04-13": 32,
+      "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
@@ -1405,8 +1406,7 @@
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
-      "2025-04-14": 1440,
-      "2025-04-13": 1440
+      "2025-04-14": 1440
     }
   }
 ]
