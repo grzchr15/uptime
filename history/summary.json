@@ -11,9 +11,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 127,
-    "timeDay": 91,
-    "timeWeek": 89,
-    "timeMonth": 135,
+    "timeDay": 86,
+    "timeWeek": 91,
+    "timeMonth": 134,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2026-04-11": 38,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 199,
-    "timeDay": 225,
-    "timeWeek": 139,
-    "timeMonth": 168,
+    "timeDay": 76,
+    "timeWeek": 136,
+    "timeMonth": 164,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2025-11-11": 28
@@ -49,17 +49,17 @@
     "slug": "bretterhofer-at",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "96.86%",
-    "uptimeWeek": "90.43%",
-    "uptimeMonth": "95.80%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "91.11%",
+    "uptimeMonth": "95.83%",
     "uptimeYear": "99.32%",
     "time": 1552,
-    "timeDay": 1418,
-    "timeWeek": 1479,
-    "timeMonth": 1478,
-    "timeYear": 1551,
+    "timeDay": 1357,
+    "timeWeek": 1480,
+    "timeMonth": 1477,
+    "timeYear": 1550,
     "dailyMinutesDown": {
-      "2026-04-18": 29,
+      "2026-04-18": 15,
       "2026-04-17": 85,
       "2026-04-16": 112,
       "2026-04-15": 70,
@@ -122,7 +122,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-18": 1328,
+      "2026-04-19": 33,
+      "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
@@ -485,8 +486,7 @@
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
-      "2025-04-20": 1440,
-      "2025-04-19": 1440
+      "2025-04-20": 1440
     }
   },
   {
@@ -506,7 +506,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-18": 1328,
+      "2026-04-19": 33,
+      "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
@@ -869,8 +870,7 @@
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
-      "2025-04-20": 1440,
-      "2025-04-19": 1440
+      "2025-04-20": 1440
     }
   },
   {
@@ -880,17 +880,16 @@
     "slug": "volkstanz-st",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "90.71%",
-    "uptimeMonth": "95.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "91.38%",
+    "uptimeMonth": "95.96%",
     "uptimeYear": "98.39%",
-    "time": 2200,
-    "timeDay": 2592,
-    "timeWeek": 2754,
-    "timeMonth": 2759,
-    "timeYear": 2472,
+    "time": 2201,
+    "timeDay": 2428,
+    "timeWeek": 2759,
+    "timeMonth": 2765,
+    "timeYear": 2471,
     "dailyMinutesDown": {
-      "2026-04-18": 14,
       "2026-04-17": 83,
       "2026-04-16": 110,
       "2026-04-15": 70,
@@ -950,17 +949,16 @@
     "slug": "volkstanzwannwo-at",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "90.99%",
-    "uptimeMonth": "94.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "91.65%",
+    "uptimeMonth": "94.62%",
     "uptimeYear": "99.44%",
-    "time": 2646,
-    "timeDay": 2198,
-    "timeWeek": 2089,
-    "timeMonth": 2181,
-    "timeYear": 2775,
+    "time": 2645,
+    "timeDay": 2013,
+    "timeWeek": 2090,
+    "timeMonth": 2177,
+    "timeYear": 2773,
     "dailyMinutesDown": {
-      "2026-04-18": 13,
       "2026-04-17": 81,
       "2026-04-16": 109,
       "2026-04-15": 68,
@@ -986,7 +984,7 @@
       "2026-03-16": 130,
       "2026-03-15": 90,
       "2026-03-14": 144,
-      "2026-03-13": 37
+      "2026-03-13": 57
     }
   },
   {
@@ -996,17 +994,16 @@
     "slug": "kinderundjugendtanz-at",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "91.26%",
-    "uptimeMonth": "96.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "91.91%",
+    "uptimeMonth": "96.15%",
     "uptimeYear": "99.57%",
     "time": 2238,
-    "timeDay": 2040,
-    "timeWeek": 1869,
-    "timeMonth": 1827,
-    "timeYear": 2188,
+    "timeDay": 2126,
+    "timeWeek": 1886,
+    "timeMonth": 1833,
+    "timeYear": 2187,
     "dailyMinutesDown": {
-      "2026-04-18": 13,
       "2026-04-17": 64,
       "2026-04-16": 108,
       "2026-04-15": 68,
@@ -1064,7 +1061,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-18": 1328,
+      "2026-04-19": 33,
+      "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
@@ -1427,8 +1425,7 @@
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
-      "2025-04-20": 1440,
-      "2025-04-19": 1440
+      "2025-04-20": 1440
     }
   }
 ]
