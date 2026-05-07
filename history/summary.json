@@ -11,9 +11,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.97%",
     "time": 128,
-    "timeDay": 203,
-    "timeWeek": 136,
-    "timeMonth": 119,
+    "timeDay": 197,
+    "timeWeek": 137,
+    "timeMonth": 120,
     "timeYear": 135,
     "dailyMinutesDown": {
       "2026-05-06": 52,
@@ -35,10 +35,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 194,
-    "timeDay": 360,
-    "timeWeek": 179,
-    "timeMonth": 161,
-    "timeYear": 199,
+    "timeDay": 433,
+    "timeWeek": 212,
+    "timeMonth": 168,
+    "timeYear": 200,
     "dailyMinutesDown": {
       "2025-11-11": 28
     }
@@ -52,13 +52,13 @@
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.91%",
-    "uptimeMonth": "95.72%",
+    "uptimeMonth": "95.77%",
     "uptimeYear": "99.29%",
-    "time": 1552,
-    "timeDay": 5320,
-    "timeWeek": 1850,
-    "timeMonth": 1521,
-    "timeYear": 1562,
+    "time": 1554,
+    "timeDay": 2069,
+    "timeWeek": 1921,
+    "timeMonth": 1533,
+    "timeYear": 1564,
     "dailyMinutesDown": {
       "2026-05-04": 42,
       "2026-05-03": 9,
@@ -118,7 +118,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "60.62%",
+    "uptime": "60.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -129,7 +129,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-06": 614,
+      "2026-05-07": 39,
+      "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
@@ -492,8 +493,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   },
   {
@@ -513,7 +513,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-06": 614,
+      "2026-05-07": 39,
+      "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
@@ -876,8 +877,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   },
   {
@@ -889,13 +889,13 @@
     "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.93%",
-    "uptimeMonth": "95.81%",
+    "uptimeMonth": "95.86%",
     "uptimeYear": "98.36%",
-    "time": 2273,
-    "timeDay": 3247,
-    "timeWeek": 2761,
-    "timeMonth": 2850,
-    "timeYear": 2512,
+    "time": 2277,
+    "timeDay": 3660,
+    "timeWeek": 2889,
+    "timeMonth": 2868,
+    "timeYear": 2516,
     "dailyMinutesDown": {
       "2026-05-04": 42,
       "2026-05-03": 9,
@@ -964,13 +964,13 @@
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.55%",
-    "uptimeMonth": "95.77%",
+    "uptimeMonth": "95.82%",
     "uptimeYear": "99.43%",
     "time": 2651,
-    "timeDay": 2600,
-    "timeWeek": 2163,
-    "timeMonth": 2116,
-    "timeYear": 2773,
+    "timeDay": 2240,
+    "timeWeek": 2199,
+    "timeMonth": 2120,
+    "timeYear": 2774,
     "dailyMinutesDown": {
       "2026-05-04": 42,
       "2026-05-03": 9,
@@ -1017,13 +1017,13 @@
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.97%",
-    "uptimeMonth": "96.00%",
+    "uptimeMonth": "96.05%",
     "uptimeYear": "99.54%",
-    "time": 2221,
-    "timeDay": 2179,
-    "timeWeek": 1963,
-    "timeMonth": 1857,
-    "timeYear": 2173,
+    "time": 2222,
+    "timeDay": 2131,
+    "timeWeek": 2010,
+    "timeMonth": 1861,
+    "timeYear": 2174,
     "dailyMinutesDown": {
       "2026-05-04": 41,
       "2026-05-03": 9,
@@ -1077,7 +1077,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "37.65%",
+    "uptime": "37.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1088,7 +1088,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-06": 615,
+      "2026-05-07": 39,
+      "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
@@ -1451,8 +1452,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   }
 ]
