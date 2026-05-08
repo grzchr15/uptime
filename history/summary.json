@@ -6,13 +6,13 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.42%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.97%",
     "time": 128,
-    "timeDay": 197,
-    "timeWeek": 137,
+    "timeDay": 111,
+    "timeWeek": 139,
     "timeMonth": 120,
     "timeYear": 135,
     "dailyMinutesDown": {
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 194,
-    "timeDay": 433,
-    "timeWeek": 212,
-    "timeMonth": 168,
+    "timeDay": 284,
+    "timeWeek": 241,
+    "timeMonth": 172,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2025-11-11": 28
@@ -54,11 +54,11 @@
     "uptimeWeek": "98.91%",
     "uptimeMonth": "95.77%",
     "uptimeYear": "99.29%",
-    "time": 1554,
-    "timeDay": 2069,
-    "timeWeek": 1921,
-    "timeMonth": 1533,
-    "timeYear": 1564,
+    "time": 1555,
+    "timeDay": 2176,
+    "timeWeek": 2012,
+    "timeMonth": 1543,
+    "timeYear": 1565,
     "dailyMinutesDown": {
       "2026-05-04": 42,
       "2026-05-03": 9,
@@ -118,7 +118,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "60.60%",
+    "uptime": "60.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -129,7 +129,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-07": 39,
+      "2026-05-08": 39,
+      "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
@@ -492,8 +493,7 @@
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
-      "2025-05-09": 1440,
-      "2025-05-08": 1440
+      "2025-05-09": 1440
     }
   },
   {
@@ -513,7 +513,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-07": 39,
+      "2026-05-08": 39,
+      "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
@@ -876,8 +877,7 @@
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
-      "2025-05-09": 1440,
-      "2025-05-08": 1440
+      "2025-05-09": 1440
     }
   },
   {
@@ -891,11 +891,11 @@
     "uptimeWeek": "98.93%",
     "uptimeMonth": "95.86%",
     "uptimeYear": "98.36%",
-    "time": 2277,
-    "timeDay": 3660,
-    "timeWeek": 2889,
+    "time": 2278,
+    "timeDay": 2774,
+    "timeWeek": 2957,
     "timeMonth": 2868,
-    "timeYear": 2516,
+    "timeYear": 2517,
     "dailyMinutesDown": {
       "2026-05-04": 42,
       "2026-05-03": 9,
@@ -967,10 +967,10 @@
     "uptimeMonth": "95.82%",
     "uptimeYear": "99.43%",
     "time": 2651,
-    "timeDay": 2240,
-    "timeWeek": 2199,
-    "timeMonth": 2120,
-    "timeYear": 2774,
+    "timeDay": 2284,
+    "timeWeek": 2228,
+    "timeMonth": 2122,
+    "timeYear": 2775,
     "dailyMinutesDown": {
       "2026-05-04": 42,
       "2026-05-03": 9,
@@ -1019,10 +1019,10 @@
     "uptimeWeek": "98.97%",
     "uptimeMonth": "96.05%",
     "uptimeYear": "99.54%",
-    "time": 2222,
-    "timeDay": 2131,
-    "timeWeek": 2010,
-    "timeMonth": 1861,
+    "time": 2221,
+    "timeDay": 1837,
+    "timeWeek": 2039,
+    "timeMonth": 1864,
     "timeYear": 2174,
     "dailyMinutesDown": {
       "2026-05-04": 41,
@@ -1077,7 +1077,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "37.64%",
+    "uptime": "37.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1088,7 +1088,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-07": 39,
+      "2026-05-08": 39,
+      "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
@@ -1451,8 +1452,7 @@
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
-      "2025-05-09": 1440,
-      "2025-05-08": 1440
+      "2025-05-09": 1440
     }
   }
 ]
