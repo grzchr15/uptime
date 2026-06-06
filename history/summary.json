@@ -49,16 +49,16 @@
     "url": "https://bretterhofer.at",
     "icon": "https://icons.duckduckgo.com/ip3/bretterhofer.at.ico",
     "slug": "bretterhofer-at",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "97.29%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "96.30%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "99.40%",
     "time": 1582,
-    "timeDay": 1679,
-    "timeWeek": 1950,
-    "timeMonth": 1993,
+    "timeDay": 1676,
+    "timeWeek": 1925,
+    "timeMonth": 1986,
     "timeYear": 1601,
     "dailyMinutesDown": {
       "2025-08-27": 41,
@@ -117,7 +117,7 @@
       "2026-05-26": 83,
       "2026-05-31": 69,
       "2026-06-04": 56,
-      "2026-06-06": 39
+      "2026-06-06": 54
     }
   },
   {
@@ -137,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 1105,
+      "2026-06-06": 1120,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -521,7 +521,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 1105,
+      "2026-06-06": 1120,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -893,16 +893,16 @@
     "url": "https://volkstanz.st",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanz.st.ico",
     "slug": "volkstanz-st",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.20%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "98.50%",
-    "time": 2360,
-    "timeDay": 1973,
+    "time": 2361,
+    "timeDay": 2120,
     "timeWeek": 2408,
-    "timeMonth": 2684,
+    "timeMonth": 2678,
     "timeYear": 2536,
     "dailyMinutesDown": {
       "2025-08-27": 40,
@@ -963,7 +963,7 @@
       "2026-05-26": 78,
       "2026-05-31": 64,
       "2026-06-04": 51,
-      "2026-06-06": 29
+      "2026-06-06": 44
     }
   },
   {
@@ -971,17 +971,17 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanzwannwo.at.ico",
     "slug": "volkstanzwannwo-at",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.20%",
     "uptimeYear": "99.42%",
     "time": 2658,
-    "timeDay": 1733,
-    "timeWeek": 1976,
-    "timeMonth": 2158,
-    "timeYear": 2766,
+    "timeDay": 1791,
+    "timeWeek": 1970,
+    "timeMonth": 2152,
+    "timeYear": 2765,
     "dailyMinutesDown": {
       "2026-03-17": 64,
       "2026-03-18": 50,
@@ -1019,7 +1019,7 @@
       "2026-05-26": 107,
       "2026-05-31": 59,
       "2026-06-04": 47,
-      "2026-06-06": 5
+      "2026-06-06": 20
     }
   },
   {
@@ -1027,17 +1027,17 @@
     "url": "https://kinderundjugendtanz.at",
     "icon": "https://icons.duckduckgo.com/ip3/kinderundjugendtanz.at.ico",
     "slug": "kinderundjugendtanz-at",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.50%",
-    "time": 2191,
-    "timeDay": 1603,
-    "timeWeek": 1739,
-    "timeMonth": 1925,
-    "timeYear": 2126,
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.49%",
+    "time": 2190,
+    "timeDay": 1590,
+    "timeWeek": 1723,
+    "timeMonth": 1916,
+    "timeYear": 2125,
     "dailyMinutesDown": {
       "2025-11-17": 18,
       "2025-11-25": 16,
@@ -1087,7 +1087,7 @@
       "2026-05-26": 68,
       "2026-05-31": 54,
       "2026-06-04": 42,
-      "2026-06-06": 1
+      "2026-06-06": 15
     }
   },
   {
@@ -1107,7 +1107,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 1105,
+      "2026-06-06": 1120,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
