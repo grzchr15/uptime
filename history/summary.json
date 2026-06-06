@@ -8,12 +8,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 127,
     "timeDay": 58,
     "timeWeek": 84,
-    "timeMonth": 97,
+    "timeMonth": 88,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2025-07-06": 22,
@@ -49,11 +49,11 @@
     "url": "https://bretterhofer.at",
     "icon": "https://icons.duckduckgo.com/ip3/bretterhofer.at.ico",
     "slug": "bretterhofer-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "98.99%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "98.95%",
     "uptimeYear": "99.41%",
     "time": 1582,
     "timeDay": 1772,
@@ -116,7 +116,8 @@
       "2026-05-20": 48,
       "2026-05-26": 83,
       "2026-05-31": 69,
-      "2026-06-04": 56
+      "2026-06-04": 56,
+      "2026-06-06": 16
     }
   },
   {
@@ -125,7 +126,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "59.69%",
+    "uptime": "59.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -136,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 46,
+      "2026-06-06": 771,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -520,7 +521,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 46,
+      "2026-06-06": 771,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -892,13 +893,13 @@
     "url": "https://volkstanz.st",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanz.st.ico",
     "slug": "volkstanz-st",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "99.27%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "98.51%",
-    "time": 2355,
+    "time": 2357,
     "timeDay": 2022,
     "timeWeek": 2461,
     "timeMonth": 2704,
@@ -961,7 +962,8 @@
       "2026-05-11": 77,
       "2026-05-26": 78,
       "2026-05-31": 64,
-      "2026-06-04": 51
+      "2026-06-04": 51,
+      "2026-06-06": 10
     }
   },
   {
@@ -969,19 +971,19 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanzwannwo.at.ico",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.25%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.23%",
     "uptimeYear": "99.42%",
-    "time": 2657,
+    "time": 2658,
     "timeDay": 1814,
     "timeWeek": 2012,
     "timeMonth": 2171,
     "timeYear": 2768,
     "dailyMinutesDown": {
-      "2026-03-17": 114,
+      "2026-03-17": 64,
       "2026-03-18": 50,
       "2026-03-19": 78,
       "2026-03-20": 142,
@@ -1016,7 +1018,8 @@
       "2026-05-11": 72,
       "2026-05-26": 107,
       "2026-05-31": 59,
-      "2026-06-04": 47
+      "2026-06-04": 47,
+      "2026-06-06": 6
     }
   },
   {
@@ -1024,10 +1027,10 @@
     "url": "https://kinderundjugendtanz.at",
     "icon": "https://icons.duckduckgo.com/ip3/kinderundjugendtanz.at.ico",
     "slug": "kinderundjugendtanz-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.05%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.04%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.50%",
     "time": 2193,
@@ -1083,7 +1086,8 @@
       "2026-05-11": 67,
       "2026-05-26": 68,
       "2026-05-31": 54,
-      "2026-06-04": 42
+      "2026-06-04": 42,
+      "2026-06-06": 1
     }
   },
   {
@@ -1092,7 +1096,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "37.08%",
+    "uptime": "37.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1103,7 +1107,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 47,
+      "2026-06-06": 772,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
