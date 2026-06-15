@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 127,
-    "timeDay": 72,
-    "timeWeek": 70,
-    "timeMonth": 79,
+    "timeDay": 78,
+    "timeWeek": 73,
+    "timeMonth": 78,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2025-07-06": 22,
@@ -35,10 +35,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 187,
-    "timeDay": 42,
-    "timeWeek": 80,
-    "timeMonth": 114,
+    "time": 186,
+    "timeDay": 41,
+    "timeWeek": 77,
+    "timeMonth": 108,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2025-11-11": 28
@@ -51,15 +51,15 @@
     "slug": "bretterhofer-at",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "93.87%",
+    "uptimeDay": "95.86%",
     "uptimeWeek": "96.89%",
     "uptimeMonth": "98.50%",
     "uptimeYear": "99.39%",
-    "time": 1597,
-    "timeDay": 1935,
-    "timeWeek": 2007,
+    "time": 1598,
+    "timeDay": 1997,
+    "timeWeek": 1955,
     "timeMonth": 1991,
-    "timeYear": 1612,
+    "timeYear": 1613,
     "dailyMinutesDown": {
       "2025-11-25": 17,
       "2025-11-29": 11,
@@ -123,7 +123,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "59.44%",
+    "uptime": "59.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -134,7 +134,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 658,
+      "2026-06-15": 53,
+      "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -497,8 +498,7 @@
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
-      "2025-06-16": 1440,
-      "2025-06-15": 1440
+      "2025-06-16": 1440
     }
   },
   {
@@ -518,7 +518,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 659,
+      "2026-06-15": 53,
+      "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -881,8 +882,7 @@
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
-      "2025-06-16": 1440,
-      "2025-06-15": 1440
+      "2025-06-16": 1440
     }
   },
   {
@@ -892,14 +892,14 @@
     "slug": "volkstanz-st",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "94.53%",
+    "uptimeDay": "96.19%",
     "uptimeWeek": "97.18%",
     "uptimeMonth": "98.81%",
     "uptimeYear": "98.48%",
-    "time": 2394,
-    "timeDay": 2658,
-    "timeWeek": 2530,
-    "timeMonth": 2632,
+    "time": 2397,
+    "timeDay": 2859,
+    "timeWeek": 2614,
+    "timeMonth": 2652,
     "timeYear": 2537,
     "dailyMinutesDown": {
       "2025-09-20": 27,
@@ -969,15 +969,15 @@
     "slug": "volkstanzwannwo-at",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "95.20%",
+    "uptimeDay": "96.52%",
     "uptimeWeek": "97.46%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "99.41%",
-    "time": 2660,
-    "timeDay": 2218,
-    "timeWeek": 2091,
-    "timeMonth": 2115,
-    "timeYear": 2760,
+    "time": 2662,
+    "timeDay": 2977,
+    "timeWeek": 2232,
+    "timeMonth": 2144,
+    "timeYear": 2762,
     "dailyMinutesDown": {
       "2026-03-19": 19,
       "2026-03-20": 142,
@@ -1032,10 +1032,10 @@
     "uptimeMonth": "99.10%",
     "uptimeYear": "99.45%",
     "time": 2168,
-    "timeDay": 1744,
-    "timeWeek": 1727,
-    "timeMonth": 1896,
-    "timeYear": 2113,
+    "timeDay": 1807,
+    "timeWeek": 1761,
+    "timeMonth": 1903,
+    "timeYear": 2112,
     "dailyMinutesDown": {
       "2025-11-17": 18,
       "2025-11-25": 16,
@@ -1097,7 +1097,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "36.92%",
+    "uptime": "36.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1108,7 +1108,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 659,
+      "2026-06-15": 54,
+      "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -1471,8 +1472,7 @@
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
-      "2025-06-16": 1440,
-      "2025-06-15": 1440
+      "2025-06-16": 1440
     }
   }
 ]
