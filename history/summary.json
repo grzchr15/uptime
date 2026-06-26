@@ -126,7 +126,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "59.11%",
+    "uptime": "59.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -137,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 12,
+      "2026-06-26": 48,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -521,7 +521,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 12,
+      "2026-06-26": 49,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -1032,10 +1032,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/kinderundjugendtanz.at.ico",
     "slug": "kinderundjugendtanz-at",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "98.73%",
+    "uptime": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "98.75%",
     "uptimeYear": "99.42%",
     "time": 2162,
     "timeDay": 1650,
@@ -1098,8 +1098,7 @@
       "2026-06-17": 93,
       "2026-06-20": 16,
       "2026-06-21": 25,
-      "2026-06-23": 20,
-      "2026-06-26": 11
+      "2026-06-23": 20
     }
   },
   {
@@ -1119,7 +1118,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 13,
+      "2026-06-26": 49,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
