@@ -53,9 +53,9 @@
     "slug": "bretterhofer-at",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "96.43%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "98.22%",
+    "uptimeDay": "94.91%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "98.17%",
     "uptimeYear": "99.36%",
     "time": 1609,
     "timeDay": 1974,
@@ -116,7 +116,7 @@
       "2026-06-22": 3,
       "2026-06-26": 47,
       "2026-06-25": 14,
-      "2026-06-27": 15
+      "2026-06-27": 37
     }
   },
   {
@@ -136,7 +136,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-27": 24,
+      "2026-06-27": 46,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -520,7 +520,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-27": 24,
+      "2026-06-27": 46,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -893,11 +893,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/volkstanz.st.ico",
     "slug": "volkstanz-st",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "97.12%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "98.41%",
-    "uptimeYear": "99.37%",
+    "uptime": "99.88%",
+    "uptimeDay": "95.61%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "99.36%",
     "time": 2454,
     "timeDay": 2675,
     "timeWeek": 2624,
@@ -957,7 +957,7 @@
       "2026-06-23": 29,
       "2026-06-26": 43,
       "2026-06-25": 9,
-      "2026-06-27": 10
+      "2026-06-27": 32
     }
   },
   {
@@ -967,9 +967,9 @@
     "slug": "volkstanzwannwo-at",
     "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "98.63%",
+    "uptimeDay": "96.28%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "98.58%",
     "uptimeYear": "99.39%",
     "time": 2669,
     "timeDay": 2329,
@@ -1020,7 +1020,7 @@
       "2026-06-23": 24,
       "2026-06-26": 38,
       "2026-06-25": 4,
-      "2026-06-27": 5
+      "2026-06-27": 27
     }
   },
   {
@@ -1030,9 +1030,9 @@
     "slug": "kinderundjugendtanz-at",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "98.86%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "98.81%",
     "uptimeYear": "99.42%",
     "time": 2161,
     "timeDay": 1782,
@@ -1096,7 +1096,7 @@
       "2026-06-21": 25,
       "2026-06-23": 20,
       "2026-06-26": 22,
-      "2026-06-27": 1
+      "2026-06-27": 22
     }
   },
   {
@@ -1116,7 +1116,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-27": 24,
+      "2026-06-27": 46,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
