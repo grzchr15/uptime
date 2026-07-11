@@ -50,19 +50,18 @@
     "url": "https://bretterhofer.at",
     "icon": "https://icons.duckduckgo.com/ip3/bretterhofer.at.ico",
     "slug": "bretterhofer-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "95.55%",
-    "uptimeWeek": "97.94%",
-    "uptimeMonth": "97.90%",
+    "uptimeDay": "94.47%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "97.86%",
     "uptimeYear": "99.31%",
     "time": 1630,
     "timeDay": 2174,
-    "timeWeek": 1942,
+    "timeWeek": 1933,
     "timeMonth": 2085,
     "timeYear": 1666,
     "dailyMinutesDown": {
-      "2026-03-21": 18,
       "2026-04-03": 35,
       "2026-04-04": 19,
       "2026-04-06": 45,
@@ -113,7 +112,7 @@
       "2026-07-06": 16,
       "2026-07-10": 16,
       "2026-07-09": 8,
-      "2026-07-11": 65
+      "2026-07-11": 81
     }
   },
   {
@@ -122,7 +121,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "58.66%",
+    "uptime": "58.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -133,7 +132,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-11": 605,
+      "2026-07-11": 1148,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
@@ -517,7 +516,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-11": 605,
+      "2026-07-11": 1148,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
@@ -889,19 +888,18 @@
     "url": "https://volkstanz.st",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanz.st.ico",
     "slug": "volkstanz-st",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "96.22%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "98.11%",
+    "uptimeDay": "95.50%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "98.09%",
     "uptimeYear": "99.35%",
-    "time": 2528,
+    "time": 2530,
     "timeDay": 2459,
-    "timeWeek": 2545,
+    "timeWeek": 2562,
     "timeMonth": 2827,
     "timeYear": 2581,
     "dailyMinutesDown": {
-      "2026-03-01": 32,
       "2026-03-02": 22,
       "2026-03-03": 19,
       "2026-03-11": 16,
@@ -953,7 +951,7 @@
       "2026-07-06": 11,
       "2026-07-10": 16,
       "2026-07-09": 3,
-      "2026-07-11": 55
+      "2026-07-11": 65
     }
   },
   {
@@ -961,19 +959,18 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanzwannwo.at.ico",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "96.89%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "98.58%",
+    "uptimeDay": "96.50%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "98.57%",
     "uptimeYear": "99.36%",
     "time": 2683,
     "timeDay": 2057,
-    "timeWeek": 2241,
+    "timeWeek": 2251,
     "timeMonth": 2346,
     "timeYear": 2780,
     "dailyMinutesDown": {
-      "2026-03-22": 18,
       "2026-03-23": 101,
       "2026-03-24": 107,
       "2026-03-25": 53,
@@ -1021,7 +1018,7 @@
       "2026-07-05": 22,
       "2026-07-06": 31,
       "2026-07-07": 9,
-      "2026-07-11": 45
+      "2026-07-11": 51
     }
   },
   {
@@ -1029,19 +1026,18 @@
     "url": "https://kinderundjugendtanz.at",
     "icon": "https://icons.duckduckgo.com/ip3/kinderundjugendtanz.at.ico",
     "slug": "kinderundjugendtanz-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "97.56%",
+    "uptimeDay": "97.50%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "98.89%",
-    "uptimeYear": "99.40%",
-    "time": 2137,
+    "uptimeYear": "99.41%",
+    "time": 2136,
     "timeDay": 1652,
-    "timeWeek": 1805,
+    "timeWeek": 1821,
     "timeMonth": 2027,
     "timeYear": 2085,
     "dailyMinutesDown": {
-      "2025-12-30": 40,
       "2026-01-15": 16,
       "2026-01-20": 15,
       "2026-01-27": 45,
@@ -1094,7 +1090,7 @@
       "2026-07-01": 76,
       "2026-07-04": 85,
       "2026-07-05": 17,
-      "2026-07-11": 35
+      "2026-07-11": 36
     }
   },
   {
@@ -1114,7 +1110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-11": 606,
+      "2026-07-11": 1148,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
