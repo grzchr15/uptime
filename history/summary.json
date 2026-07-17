@@ -11,9 +11,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
     "time": 125,
-    "timeDay": 50,
-    "timeWeek": 82,
-    "timeMonth": 88,
+    "timeDay": 0,
+    "timeWeek": 86,
+    "timeMonth": 89,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2025-11-25": 16,
@@ -37,10 +37,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 185,
-    "timeDay": 43,
-    "timeWeek": 127,
-    "timeMonth": 163,
-    "timeYear": 192,
+    "timeDay": 0,
+    "timeWeek": 129,
+    "timeMonth": 160,
+    "timeYear": 191,
     "dailyMinutesDown": {
       "2025-11-11": 28
     }
@@ -52,15 +52,15 @@
     "slug": "bretterhofer-at",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "92.60%",
-    "uptimeWeek": "96.47%",
+    "uptimeDay": "94.22%",
+    "uptimeWeek": "96.71%",
     "uptimeMonth": "97.49%",
     "uptimeYear": "99.31%",
     "time": 1639,
-    "timeDay": 1862,
-    "timeWeek": 1815,
-    "timeMonth": 2019,
-    "timeYear": 1672,
+    "timeDay": 1883,
+    "timeWeek": 1840,
+    "timeMonth": 1994,
+    "timeYear": 1673,
     "dailyMinutesDown": {
       "2026-04-08": 53,
       "2026-04-09": 124,
@@ -132,7 +132,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-16": 1124,
+      "2026-07-17": 33,
+      "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
@@ -495,8 +496,7 @@
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
-      "2025-07-18": 1440,
-      "2025-07-17": 1440
+      "2025-07-18": 1440
     }
   },
   {
@@ -516,7 +516,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-16": 1124,
+      "2026-07-17": 33,
+      "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
@@ -879,8 +880,7 @@
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
-      "2025-07-18": 1440,
-      "2025-07-17": 1440
+      "2025-07-18": 1440
     }
   },
   {
@@ -890,15 +890,15 @@
     "slug": "volkstanz-st",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "93.60%",
-    "uptimeWeek": "97.16%",
+    "uptimeDay": "94.89%",
+    "uptimeWeek": "97.35%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "99.34%",
     "time": 2551,
-    "timeDay": 2413,
-    "timeWeek": 2526,
-    "timeMonth": 2791,
-    "timeYear": 2586,
+    "timeDay": 2549,
+    "timeWeek": 2589,
+    "timeMonth": 2698,
+    "timeYear": 2587,
     "dailyMinutesDown": {
       "2026-04-04": 18,
       "2026-04-06": 43,
@@ -957,17 +957,17 @@
     "slug": "volkstanzwannwo-at",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "95.46%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "96.59%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "99.36%",
     "time": 2687,
-    "timeDay": 1968,
-    "timeWeek": 1950,
-    "timeMonth": 2224,
+    "timeDay": 2164,
+    "timeWeek": 1953,
+    "timeMonth": 2222,
     "timeYear": 2770,
     "dailyMinutesDown": {
-      "2026-03-24": 56,
+      "2026-03-24": 107,
       "2026-03-25": 53,
       "2026-04-03": 17,
       "2026-04-04": 18,
@@ -1016,7 +1016,7 @@
       "2026-07-11": 62,
       "2026-07-12": 16,
       "2026-07-15": 60,
-      "2026-07-16": 64
+      "2026-07-16": 49
     }
   },
   {
@@ -1026,16 +1026,17 @@
     "slug": "kinderundjugendtanz-at",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "96.23%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "99.39%",
     "time": 2128,
-    "timeDay": 1807,
-    "timeWeek": 1732,
+    "timeDay": 2070,
+    "timeWeek": 1771,
     "timeMonth": 2003,
-    "timeYear": 2079,
+    "timeYear": 2080,
     "dailyMinutesDown": {
+      "2026-01-20": 15,
       "2026-01-27": 45,
       "2026-01-28": 36,
       "2026-01-30": 60,
@@ -1088,7 +1089,7 @@
       "2026-07-05": 17,
       "2026-07-11": 35,
       "2026-07-15": 33,
-      "2026-07-16": 54
+      "2026-07-16": 44
     }
   },
   {
@@ -1097,7 +1098,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "36.34%",
+    "uptime": "36.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1108,7 +1109,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-16": 1124,
+      "2026-07-17": 33,
+      "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
@@ -1471,8 +1473,7 @@
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
-      "2025-07-18": 1440,
-      "2025-07-17": 1440
+      "2025-07-18": 1440
     }
   }
 ]
