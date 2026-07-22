@@ -50,17 +50,17 @@
     "url": "https://bretterhofer.at",
     "icon": "https://icons.duckduckgo.com/ip3/bretterhofer.at.ico",
     "slug": "bretterhofer-at",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "96.85%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "97.43%",
+    "uptimeDay": "96.32%",
+    "uptimeWeek": "97.09%",
+    "uptimeMonth": "97.41%",
     "uptimeYear": "99.32%",
-    "time": 1637,
-    "timeDay": 1855,
-    "timeWeek": 1890,
-    "timeMonth": 1974,
-    "timeYear": 1678,
+    "time": 1638,
+    "timeDay": 2137,
+    "timeWeek": 1948,
+    "timeMonth": 1987,
+    "timeYear": 1680,
     "dailyMinutesDown": {
       "2026-04-10": 116,
       "2026-04-11": 220,
@@ -115,7 +115,7 @@
       "2026-07-19": 86,
       "2026-07-20": 21,
       "2026-07-21": 28,
-      "2026-07-22": 45
+      "2026-07-22": 53
     }
   },
   {
@@ -135,7 +135,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 1315,
+      "2026-07-22": 1323,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -519,7 +519,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 1315,
+      "2026-07-22": 1323,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -891,16 +891,16 @@
     "url": "https://volkstanz.st",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanz.st.ico",
     "slug": "volkstanz-st",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "97.54%",
-    "uptimeWeek": "97.74%",
-    "uptimeMonth": "97.83%",
+    "uptimeDay": "96.98%",
+    "uptimeWeek": "97.66%",
+    "uptimeMonth": "97.81%",
     "uptimeYear": "99.35%",
-    "time": 2438,
-    "timeDay": 2618,
-    "timeWeek": 2676,
-    "timeMonth": 2664,
+    "time": 2440,
+    "timeDay": 2759,
+    "timeWeek": 2702,
+    "timeMonth": 2670,
     "timeYear": 2593,
     "dailyMinutesDown": {
       "2026-04-08": 52,
@@ -953,7 +953,7 @@
       "2026-07-19": 62,
       "2026-07-20": 17,
       "2026-07-21": 23,
-      "2026-07-22": 35
+      "2026-07-22": 43
     }
   },
   {
@@ -961,16 +961,16 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanzwannwo.at.ico",
     "slug": "volkstanzwannwo-at",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "98.52%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "98.50%",
     "uptimeYear": "99.36%",
     "time": 2695,
-    "timeDay": 2030,
-    "timeWeek": 2166,
-    "timeMonth": 2233,
+    "timeDay": 2207,
+    "timeWeek": 2194,
+    "timeMonth": 2239,
     "timeYear": 2764,
     "dailyMinutesDown": {
       "2026-03-25": 53,
@@ -1024,7 +1024,7 @@
       "2026-07-16": 49,
       "2026-07-19": 58,
       "2026-07-21": 18,
-      "2026-07-22": 26
+      "2026-07-22": 33
     }
   },
   {
@@ -1032,16 +1032,16 @@
     "url": "https://kinderundjugendtanz.at",
     "icon": "https://icons.duckduckgo.com/ip3/kinderundjugendtanz.at.ico",
     "slug": "kinderundjugendtanz-at",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "98.97%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "98.95%",
     "uptimeYear": "99.39%",
     "time": 2123,
-    "timeDay": 1656,
-    "timeWeek": 1795,
-    "timeMonth": 1824,
+    "timeDay": 1778,
+    "timeWeek": 1811,
+    "timeMonth": 1827,
     "timeYear": 2072,
     "dailyMinutesDown": {
       "2026-01-28": 36,
@@ -1097,7 +1097,7 @@
       "2026-07-15": 33,
       "2026-07-16": 44,
       "2026-07-19": 53,
-      "2026-07-22": 17
+      "2026-07-22": 25
     }
   },
   {
@@ -1117,7 +1117,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 1315,
+      "2026-07-22": 1324,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
