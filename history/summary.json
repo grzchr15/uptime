@@ -50,16 +50,16 @@
     "url": "https://bretterhofer.at",
     "icon": "https://icons.duckduckgo.com/ip3/bretterhofer.at.ico",
     "slug": "bretterhofer-at",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "96.93%",
+    "uptimeDay": "97.07%",
+    "uptimeWeek": "96.92%",
     "uptimeMonth": "97.26%",
     "uptimeYear": "99.32%",
     "time": 1639,
-    "timeDay": 2240,
-    "timeWeek": 1897,
-    "timeMonth": 1937,
+    "timeDay": 1908,
+    "timeWeek": 1876,
+    "timeMonth": 1931,
     "timeYear": 1681,
     "dailyMinutesDown": {
       "2026-04-10": 36,
@@ -117,7 +117,7 @@
       "2026-07-21": 28,
       "2026-07-22": 53,
       "2026-07-23": 58,
-      "2026-07-24": 41
+      "2026-07-24": 42
     }
   },
   {
@@ -137,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 1423,
+      "2026-07-24": 1424,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -521,7 +521,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 1423,
+      "2026-07-24": 1424,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -893,17 +893,17 @@
     "url": "https://volkstanz.st",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanz.st.ico",
     "slug": "volkstanz-st",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "97.55%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "97.54%",
     "uptimeMonth": "97.68%",
     "uptimeYear": "99.35%",
-    "time": 2451,
-    "timeDay": 3452,
-    "timeWeek": 2742,
-    "timeMonth": 2649,
-    "timeYear": 2594,
+    "time": 2452,
+    "timeDay": 2851,
+    "timeWeek": 2709,
+    "timeMonth": 2642,
+    "timeYear": 2593,
     "dailyMinutesDown": {
       "2026-04-09": 74,
       "2026-04-10": 202,
@@ -956,7 +956,7 @@
       "2026-07-21": 23,
       "2026-07-22": 43,
       "2026-07-23": 53,
-      "2026-07-24": 31
+      "2026-07-24": 32
     }
   },
   {
@@ -964,17 +964,17 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanzwannwo.at.ico",
     "slug": "volkstanzwannwo-at",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "98.43%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "98.42%",
     "uptimeYear": "99.36%",
-    "time": 2690,
-    "timeDay": 2491,
-    "timeWeek": 2222,
-    "timeMonth": 2231,
-    "timeYear": 2756,
+    "time": 2691,
+    "timeDay": 2173,
+    "timeWeek": 2198,
+    "timeMonth": 2225,
+    "timeYear": 2755,
     "dailyMinutesDown": {
       "2026-04-04": 18,
       "2026-04-06": 43,
@@ -1027,7 +1027,7 @@
       "2026-07-21": 18,
       "2026-07-22": 20,
       "2026-07-23": 48,
-      "2026-07-24": 22
+      "2026-07-24": 23
     }
   },
   {
@@ -1035,17 +1035,17 @@
     "url": "https://kinderundjugendtanz.at",
     "icon": "https://icons.duckduckgo.com/ip3/kinderundjugendtanz.at.ico",
     "slug": "kinderundjugendtanz-at",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "98.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "98.88%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "99.39%",
-    "time": 2110,
-    "timeDay": 2060,
-    "timeWeek": 1763,
-    "timeMonth": 1815,
-    "timeYear": 2066,
+    "time": 2111,
+    "timeDay": 2458,
+    "timeWeek": 1836,
+    "timeMonth": 1833,
+    "timeYear": 2067,
     "dailyMinutesDown": {
       "2026-01-28": 17,
       "2026-01-30": 60,
@@ -1102,7 +1102,7 @@
       "2026-07-19": 53,
       "2026-07-22": 16,
       "2026-07-23": 43,
-      "2026-07-24": 1
+      "2026-07-24": 2
     }
   },
   {
@@ -1122,7 +1122,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 1423,
+      "2026-07-24": 1424,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
