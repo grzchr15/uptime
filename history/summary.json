@@ -50,19 +50,19 @@
     "url": "https://bretterhofer.at",
     "icon": "https://icons.duckduckgo.com/ip3/bretterhofer.at.ico",
     "slug": "bretterhofer-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "97.94%",
-    "uptimeMonth": "97.80%",
-    "uptimeYear": "99.32%",
-    "time": 1653,
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "97.77%",
+    "uptimeYear": "99.33%",
+    "time": 1654,
     "timeDay": 2038,
     "timeWeek": 2178,
     "timeMonth": 1964,
     "timeYear": 1705,
     "dailyMinutesDown": {
-      "2026-04-12": 192,
+      "2026-04-12": 121,
       "2026-04-13": 244,
       "2026-04-14": 153,
       "2026-04-15": 70,
@@ -124,7 +124,7 @@
       "2026-08-06": 40,
       "2026-08-07": 16,
       "2026-08-08": 16,
-      "2026-08-09": 16
+      "2026-08-09": 32
     }
   },
   {
@@ -133,7 +133,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "57.84%",
+    "uptime": "57.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -144,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-09": 567,
+      "2026-08-09": 1335,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -528,7 +528,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-09": 567,
+      "2026-08-09": 1335,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -900,13 +900,13 @@
     "url": "https://volkstanz.st",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanz.st.ico",
     "slug": "volkstanz-st",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "98.50%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "98.51%",
     "uptimeMonth": "98.29%",
-    "uptimeYear": "99.35%",
-    "time": 2520,
+    "uptimeYear": "99.36%",
+    "time": 2522,
     "timeDay": 2665,
     "timeWeek": 2728,
     "timeMonth": 2721,
@@ -969,7 +969,7 @@
       "2026-08-04": 46,
       "2026-08-05": 58,
       "2026-08-06": 35,
-      "2026-08-09": 12
+      "2026-08-09": 10
     }
   },
   {
@@ -977,13 +977,13 @@
     "url": "https://volkstanzwannwo.at",
     "icon": "https://icons.duckduckgo.com/ip3/volkstanzwannwo.at.ico",
     "slug": "volkstanzwannwo-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "98.86%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "98.87%",
     "uptimeMonth": "98.81%",
     "uptimeYear": "99.37%",
-    "time": 2642,
+    "time": 2643,
     "timeDay": 2314,
     "timeWeek": 2320,
     "timeMonth": 2136,
@@ -1045,7 +1045,7 @@
       "2026-08-04": 24,
       "2026-08-05": 53,
       "2026-08-06": 31,
-      "2026-08-09": 7
+      "2026-08-09": 6
     }
   },
   {
@@ -1053,10 +1053,10 @@
     "url": "https://kinderundjugendtanz.at",
     "icon": "https://icons.duckduckgo.com/ip3/kinderundjugendtanz.at.ico",
     "slug": "kinderundjugendtanz-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.05%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.06%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.39%",
     "time": 2124,
@@ -1121,7 +1121,7 @@
       "2026-08-04": 20,
       "2026-08-05": 49,
       "2026-08-06": 26,
-      "2026-08-09": 2
+      "2026-08-09": 1
     }
   },
   {
@@ -1130,7 +1130,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andritz.me.ico",
     "slug": "andritz-me",
     "status": "down",
-    "uptime": "35.92%",
+    "uptime": "35.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1141,7 +1141,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-09": 568,
+      "2026-08-09": 1335,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
