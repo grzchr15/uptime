@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 125,
-    "timeDay": 122,
-    "timeWeek": 83,
-    "timeMonth": 91,
+    "timeDay": 68,
+    "timeWeek": 82,
+    "timeMonth": 90,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2025-11-25": 16,
@@ -36,9 +36,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 187,
-    "timeDay": 237,
-    "timeWeek": 184,
+    "time": 186,
+    "timeDay": 38,
+    "timeWeek": 179,
     "timeMonth": 173,
     "timeYear": 191,
     "dailyMinutesDown": {
@@ -53,14 +53,14 @@
     "status": "up",
     "uptime": "99.88%",
     "uptimeDay": "96.10%",
-    "uptimeWeek": "97.22%",
-    "uptimeMonth": "97.84%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "97.95%",
     "uptimeYear": "99.33%",
-    "time": 1660,
+    "time": 1661,
     "timeDay": 2098,
-    "timeWeek": 2060,
-    "timeMonth": 1985,
-    "timeYear": 1710,
+    "timeWeek": 2118,
+    "timeMonth": 1994,
+    "timeYear": 1712,
     "dailyMinutesDown": {
       "2026-04-12": 78,
       "2026-04-13": 244,
@@ -134,7 +134,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/h4.bretterhofer.at.ico",
     "slug": "h4-bretterhofer-at",
     "status": "down",
-    "uptime": "57.77%",
+    "uptime": "57.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -145,7 +145,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-11": 1057,
+      "2026-08-12": 22,
+      "2026-08-11": 1440,
       "2026-08-10": 1440,
       "2026-08-09": 1440,
       "2026-08-08": 1440,
@@ -508,8 +509,7 @@
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
-      "2025-08-13": 1440,
-      "2025-08-12": 1440
+      "2025-08-13": 1440
     }
   },
   {
@@ -529,7 +529,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-11": 1057,
+      "2026-08-12": 22,
+      "2026-08-11": 1440,
       "2026-08-10": 1440,
       "2026-08-09": 1440,
       "2026-08-08": 1440,
@@ -892,8 +893,7 @@
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
-      "2025-08-13": 1440,
-      "2025-08-12": 1440
+      "2025-08-13": 1440
     }
   },
   {
@@ -904,13 +904,13 @@
     "status": "up",
     "uptime": "99.89%",
     "uptimeDay": "96.77%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "98.38%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "98.46%",
     "uptimeYear": "99.35%",
-    "time": 2534,
-    "timeDay": 2880,
-    "timeWeek": 2710,
-    "timeMonth": 2768,
+    "time": 2537,
+    "timeDay": 2922,
+    "timeWeek": 2764,
+    "timeMonth": 2777,
     "timeYear": 2616,
     "dailyMinutesDown": {
       "2026-04-10": 17,
@@ -980,17 +980,17 @@
     "slug": "volkstanzwannwo-at",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "97.44%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "99.36%",
     "time": 2647,
-    "timeDay": 2627,
-    "timeWeek": 2449,
-    "timeMonth": 2201,
+    "timeDay": 2447,
+    "timeWeek": 2514,
+    "timeMonth": 2214,
     "timeYear": 2725,
     "dailyMinutesDown": {
-      "2026-04-08": 19,
+      "2026-04-08": 51,
       "2026-04-09": 122,
       "2026-04-10": 198,
       "2026-04-11": 213,
@@ -1046,7 +1046,7 @@
       "2026-08-04": 24,
       "2026-08-05": 53,
       "2026-08-06": 31,
-      "2026-08-11": 37
+      "2026-08-11": 26
     }
   },
   {
@@ -1056,16 +1056,17 @@
     "slug": "kinderundjugendtanz-at",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "99.25%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "99.39%",
-    "time": 2116,
-    "timeDay": 2058,
-    "timeWeek": 1898,
-    "timeMonth": 1863,
-    "timeYear": 2047,
+    "time": 2115,
+    "timeDay": 2064,
+    "timeWeek": 1885,
+    "timeMonth": 1871,
+    "timeYear": 2046,
     "dailyMinutesDown": {
+      "2026-02-27": 15,
       "2026-03-01": 31,
       "2026-03-02": 22,
       "2026-03-03": 18,
@@ -1121,7 +1122,7 @@
       "2026-08-04": 20,
       "2026-08-05": 49,
       "2026-08-06": 26,
-      "2026-08-11": 27
+      "2026-08-11": 21
     }
   },
   {
@@ -1141,7 +1142,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-11": 1057,
+      "2026-08-12": 22,
+      "2026-08-11": 1440,
       "2026-08-10": 1440,
       "2026-08-09": 1440,
       "2026-08-08": 1440,
@@ -1504,8 +1506,7 @@
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
-      "2025-08-13": 1440,
-      "2025-08-12": 1440
+      "2025-08-13": 1440
     }
   }
 ]
