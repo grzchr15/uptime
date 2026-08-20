@@ -1,7 +1,7 @@
 url: https://volkstanz.st
-status: up
-code: 200
-responseTime: 3027
-lastUpdated: 2026-08-19T23:06:24.939Z
+status: down
+code: 500
+responseTime: 4921
+lastUpdated: 2026-08-20T07:02:25.505Z
 startTime: 2020-12-12T11:36:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
